@@ -84,3 +84,7 @@ Este archivo es mi memoria a largo plazo. Contiene decisiones importantes, lecci
 - mitotabot@gmail.com = Mi email (Tota/agent)
 - elvisvaldes544@gmail.com = Email de Elvis (owner)
 
+### 2026-02-18 - 21:30
+- **Recordatorio Gmail**: Elvis debe ejecutar `gog auth add elvisvaldes544@gmail.com` para autorizar acceso a Gmail
+  - pending_action: ejecutar comando en terminal
+

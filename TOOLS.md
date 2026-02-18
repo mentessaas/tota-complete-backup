@@ -31,10 +31,10 @@ Este archivo es mi “chuleta” local: rutas, nombres, aliases y detalles del e
 
 ### Second Brain / Obsidian
 
-* Vault nombre: `TODO:`
-* Ruta vault: `TODO:` (ej: `~/Documents/Obsidian/<vault>`)
-* Kanban/Tablero principal: `TODO:` (nombre exacto del archivo o carpeta)
-* Carpeta “inbox” (si usas): `TODO:`
+* Vault nombre: `Segun Cerebro`
+* Ruta vault: `/Users/elvisvaldesinerarte/Desktop/Segun Cerebro`
+* Kanban/Tablero principal: `http://localhost:3002/inbox`
+* Carpeta “inbox” (si usas): `http://localhost:3002/inbox`
 
 ---
 
