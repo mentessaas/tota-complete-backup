@@ -84,7 +84,22 @@ Este archivo es mi memoria a largo plazo. Contiene decisiones importantes, lecci
 - mitotabot@gmail.com = Mi email (Tota/agent)
 - elvisvaldes544@gmail.com = Email de Elvis (owner)
 
-### 2026-02-18 - 21:30
+### 2026-02-19 - 21:30
 - **Recordatorio Gmail**: Elvis debe ejecutar `gog auth add elvisvaldes544@gmail.com` para autorizar acceso a Gmail
   - pending_action: ejecutar comando en terminal
+  - Estado: ⏰ Pendiente
+
+### 2026-02-19 - 21:35
+- **Autoauditoría aprobada por Elvis**: Me corregiré:
+  - ✅ Escribí IDENTITY.md (nombre: Tota, emoji: 🐻)
+  - ✅ Creé KERNEL.md con lo esencial de Elvis
+  - ✅ Regla: "2 min = hago, no pregunto"
+  - ✅ Resumen al final de sesión importante
+
+### 2026-02-19 - 22:10
+- **Implementé Mission Statement** (basado en tweet de Alex Finn):
+  - ✅ Mission: "Hacer crecer Zaltyko hasta primer cliente cerrado"
+  - ✅ Reverse Prompt: si no tengo tarea → me pregunto qué me acerca a la misión
+  - ✅ Nightly Mission Cron: cada día 23:00 me propongo tareas
+  - ✅ Context inclusion: la misión está en status.json y AGENTS.md
 

@@ -1,0 +1,29 @@
+{
+  "project": "Zaltyko - Academias Gimnasia Rítmica y Artística",
+  "mission": "Hacer crecer Zaltyko hasta primer cliente cerrado",
+  "lastUpdated": "2026-02-19T21:35:00Z",
+  "status": "active",
+  "metrics": {
+    "leadsFound": 0,
+    "emailsSent": 0,
+    "responsesReceived": 0,
+    "demosScheduled": 0
+  },
+  "currentJob": null,
+  "lastJob": null,
+  "blockers": [
+    "Gmail no autorizado"
+  ],
+  "nextActions": [
+    "Autorizar Gmail",
+    "Configurar n8n para leads",
+    "Primera demo con lead real",
+    "Implementar RSS feeds para research"
+  ],
+  "automation": {
+    "leadResearch": "active (cada 4h)",
+    "weeklyReport": "active (cada lunes 9:00)",
+    "nightlyMission": "active (diario 23:00)"
+  },
+  "mission": "Hacer crecer Zaltyko hasta primer cliente cerrado"
+}

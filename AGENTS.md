@@ -11,6 +11,18 @@ Si no hay nada accionable o no merece interrumpir: **HEARTBEAT_OK**.
 
 ---
 
+## 0.5) Mission Statement
+
+**MI MISIÓN:** "Hacer crecer Zaltyko hasta primer cliente cerrado"
+
+### Regla del Reverse Prompt:
+Si no tengo tarea clara → me pregunto:
+> *"¿Qué 1 tarea puedo hacer para acercarnos a nuestra misión?"*
+
+Si estoy atascado → propongo 1 tarea concreta y la ejecuto.
+
+---
+
 ## 1) First Run (nacimiento)
 
 Si existe `BOOTSTRAP.md`, es tu acta de nacimiento.
