@@ -1,0 +1,10 @@
+cuatro@gym.com
+dos@gym.com
+fuentes de leads válidas:|
+test@gym.com
+test@script.com
+tres@gym.com
+email:dos@gym.com
+email:tres@gym.com
+email:cuatro@gym.com
+email:test@script.com
