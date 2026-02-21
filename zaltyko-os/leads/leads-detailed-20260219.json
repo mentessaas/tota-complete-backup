@@ -1,0 +1,38 @@
+[
+  {
+    "nombre": "Club Gimnasia Rítmica Ciudad de Sevilla",
+    "email": "clubritmicaciudaddesevilla@gmail.com",
+    "telefono": "653991595",
+    "web": "https://www.alcaladeguadaira.es/la-ciudad/asociaciones/5/deportiva"
+  },
+  {
+    "nombre": "Club Deportivo Gimnasia Rítmica Azahar",
+    "email": "clubritmicaazahar@gmail.com",
+    "telefono": "609131564",
+    "web": "https://www.gimnasiaritmicaazahar.es/"
+  },
+  {
+    "nombre": "Club Deportivo Gimnastico Sur",
+    "email": "escuelas@clubsur.es",
+    "telefono": "654401022",
+    "web": "https://clubsur.es/el-club/"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Málaga",
+    "email": "ritmicamalaga@hotmail.com",
+    "telefono": "952328277",
+    "web": "https://www.badgie.es/directorio/club-gimnasia-ritmica-malaga"
+  },
+  {
+    "nombre": "CD RITMICA NAZARI Granada",
+    "email": "ritmicanazari@gmail.com",
+    "telefono": null,
+    "web": "https://www.badgie.es/directorio/cd-ritmica-nazari"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Ciudad de Jaén",
+    "email": "ritmicalegria@gmail.com",
+    "telefono": "637767623",
+    "web": "https://www.badgie.es/directorio/club-gimnasia-ritmica-ciudad-de-jaen"
+  }
+]

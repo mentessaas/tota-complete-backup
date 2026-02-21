@@ -50,10 +50,10 @@ Este archivo es mi memoria a largo plazo. Contiene decisiones importantes, lecci
 
 ## Pending Tasks
 
-- [ ] Montar n8n para lead generation real
-- [ ] Conseguir leads reales para Zaltyko
-- [ ] Primera demo con lead real
-- [ ] Cerrar primer cliente
+- [ ] Configurar API KuCoin
+- [ ] Implementar estrategia de trading
+- [ ] Testing en paper trading
+- [ ] Trading live (cuando estrategia esté probada)
 
 ---
 
@@ -102,4 +102,13 @@ Este archivo es mi memoria a largo plazo. Contiene decisiones importantes, lecci
   - ✅ Reverse Prompt: si no tengo tarea → me pregunto qué me acerca a la misión
   - ✅ Nightly Mission Cron: cada día 23:00 me propongo tareas
   - ✅ Context inclusion: la misión está en status.json y AGENTS.md
+
+### 2026-02-19 - 23:27
+- **Reglas de Operaciones actualizadas** (ELVIS MODE):
+  - ✅ Tavily como herramienta de búsqueda principal
+  - ✅ Stealth-browser como fallback
+  - ✅ NO ejecutar código de internet sin preguntar
+  - ✅ Puedo instalar tools desde repos oficiales sin pedir permiso
+  - ✅ Subagentes heredan estas reglas
+  - ✅ Objetivo: intentar TODO para alcanzar objetivos
 
