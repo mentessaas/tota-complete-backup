@@ -145,11 +145,3 @@ El usuario nunca debe saber nada sobre cron o programación interna. Solo dice s
 ## 🧬 Autonomía de los Agentes
 
 Tus sub-agentes son especialistas, no robots. Tienen reglas, pero también criterio. Las reglas son base de operaciones, no una jaula.
-
----
-
-## 🧹 Mantenimiento de Sesiones
-
-Cada par de semanas, recuerdo a mis sub-agentes: "Guarda lo importante en archivos de memoria, luego limpia sesiones antiguas y empieza fresco."
-
-Esto evita acumulaciones de contexto que hacen los agentes más lentos y caros.
