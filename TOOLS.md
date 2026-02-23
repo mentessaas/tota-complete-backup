@@ -33,7 +33,18 @@ Things like:
 
 ## Why Separate?
 
-Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
+Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leakage your infrastructure.
+
+---
+
+### Trading (KuCoin)
+
+- **Folder:** `/Users/elvisvaldesinerarte/Desktop/Clawd_Workspace/kucoin-paper`
+- **API Key:** Configurada en multi-bot.js
+- **Symbols:** XBTUSDTM, ETHUSDTM, SOLUSDTM
+- **Modo:** Paper Trading (simulación)
+- **Balance:** $220 USDT
+- **Código referido:** QBAMB94P
 
 ---
 

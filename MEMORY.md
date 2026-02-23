@@ -50,10 +50,35 @@ Este archivo es mi memoria a largo plazo. Contiene decisiones importantes, lecci
 
 ## Pending Tasks
 
-- [ ] Configurar API KuCoin
-- [ ] Implementar estrategia de trading
-- [ ] Testing en paper trading
-- [ ] Trading live (cuando estrategia esté probada)
+- [x] Configurar API KuCoin
+- [x] Implementar estrategia de trading
+- [x] Testing en paper trading
+- [x] Trading live (ACTIVADO)
+
+---
+
+## Estrategia de Trading KuCoin (ELVIS APPROVED)
+
+**MONEDAS BAJO ANÁLISIS:**
+- **XBT (Bitcoin):** $66,180 | Trend: UP | Señal: NEUTRAL
+- **ETH (Ethereum):** Por verificar
+- **SOL (Solana):** Por verificar
+
+**SEÑALES PARA ENTRAR:**
+- **BUY:** Ratio > 0.80 + 5 consecutivas UP + tendencia a favor
+- **SELL:** Ratio < 0.20 + 5 consecutivas DOWN + tendencia a favor
+- **NEUTRAL:** Cualquier otra cosa → NO ENTRAR
+
+**GESTIÓN DE RIESGO:**
+- Balance Futures: $222.00 USDT
+- Capital trading: $220
+- Riesgo/trade: $2.20 (1%)
+- SL: 1% | TP: 3%
+- Máximo: 10 trades/día
+- Stop diario: -5%
+
+**Frecuencia de análisis:** Cada minuto (todas las monedas)
+**Condición de entrada:** Señal perfecta (ratio + consecutivas + tendencia)
 
 ---
 
@@ -111,4 +136,12 @@ Este archivo es mi memoria a largo plazo. Contiene decisiones importantes, lecci
   - ✅ Puedo instalar tools desde repos oficiales sin pedir permiso
   - ✅ Subagentes heredan estas reglas
   - ✅ Objetivo: intentar TODO para alcanzar objetivos
+
+### 2026-02-23
+- **LIVE TRADING ACTIVADO** ✅
+  - Modo: LIVE (dinero real)
+  - Monedas: XBT, ETH, SOL
+  - Bot ejecuta órdenes reales vía API KuCoin
+  - Cron jobs actualizados para --live
+  - Frecuencia: cada 10 minutos, 24/7
 
