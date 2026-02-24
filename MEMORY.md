@@ -90,10 +90,24 @@ Este archivo es mi memoria a largo plazo. Contiene decisiones importantes, lecci
 - #config - Configuraciones importantes
 - #blocker - Bloqueos pendientes
 
+### 2026-02-24
+- **Cambio de Exchange**: Elvis decidió cambiar de KuCoin a otro exchange
+  - Razón: API de KuCoin no funciona
+  - Acción: Pausé todos los jobs de trading (trader-cycle, KuCoin Full Analysis, Market Analyst)
+  - Recordatorio creado: 21:30 para recibir la nueva API
+  - Estado: Esperando nueva API
+
+- **Auditoría de Agentes**:
+  - market-analyst: Era huérfano (solo SPEC.md) → Integré con SKILL.md + SOUL.md ✅
+  - risk-manager: Carpeta vacía → Eliminado ✅
+  - research_lead + 7 subagentes: Bien configurados ✅
+  - research-agent: Bien configurado ✅
+  - antfarm workflows: Templates, no activos ✅
+
 ---
 
-*Última actualización: 2026-02-18 15:30*
-*Tota 🦊*
+*Última actualización: 2026-02-24 14:15*
+*Tota 🐻*
 
 ### 2026-02-18 - tarde
 - Implementé automatizaciones 24/7:
