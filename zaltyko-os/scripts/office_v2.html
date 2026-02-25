@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🏢 Oficina Virtual - Tota OS</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'SF Mono', 'Fira Code', 'Courier New', monospace;
+            background: #0a0e14;
+            color: #e6edf3;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        /* Header */
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: linear-gradient(135deg, #1a1f2e 0%, #0d1117 100%);
+            border-radius: 16px;
+            border: 1px solid #30363d;
+        }
+        
+        .header h1 {
+            font-size: 1.8em;
+            margin-bottom: 10px;
+            background: linear-gradient(90deg, #58a6ff, #bc8cff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        
+        .header .meta {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            font-size: 0.85em;
+            color: #8b949e;
+        }
+        
+        .meta-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        /* Grid Layout */
+        .office {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        .station {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 12px;
+            padding: 20px;
+        }
+        
+        .station-header {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #30363d;
+        }
+        
+        .station-icon {
+            font-size: 1.5em;
+        }
+        
+        .station-title {
+            font-size: 0.9em;
+            color: #8b949e;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        
+        /* Agents */
+        .agent {
+            background: #21262d;
+            border-radius: 8px;
+            padding: 12px;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        
+        .agent:hover {
+            transform: translateX(4px);
+        }
+        
+        .agent.running {
+            border-left: 3px solid #3fb950;
+            background: rgba(63, 185, 80, 0.1);
+        }
+        
+        .agent.working {
+            border-left: 3px solid #d29922;
+            background: rgba(210, 153, 34, 0.1);
+        }
+        
+        .agent.thinking {
+            border-left: 3px solid #58a6ff;
+            background: rgba(88, 166, 255, 0.1);
+        }
+        
+        .agent.idle {
+            border-left: 3px solid #484f58;
+            opacity: 0.5;
+        }
+        
+        .agent.error {
+            border-left: 3px solid #f85149;
+            background: rgba(248, 81, 73, 0.1);
+        }
+        
+        .agent-emoji {
+            font-size: 1.5em;
+        }
+        
+        .agent-info {
+            flex: 1;
+        }
+        
+        .agent-name {
+            font-size: 0.85em;
+            font-weight: 600;
+        }
+        
+        .agent-task {
+            font-size: 0.7em;
+            color: #8b949e;
+            margin-top: 2px;
+        }
+        
+        .agent-status {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+        }
+        
+        .agent.running .agent-status { background: #3fb950; animation: pulse 1s infinite; }
+        .agent.working .agent-status { background: #d29922; animation: pulse 0.5s infinite; }
+        .agent.thinking .agent-status { background: #58a6ff; }
+        .agent.idle .agent-status { background: #484f58; }
+        .agent.error .agent-status { background: #f85149; }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.5; transform: scale(0.8); }
+        }
+        
+        /* Status Panel */
+        .status-panel {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+            max-width: 1400px;
+            margin: 20px auto;
+        }
+        
+        .status-card {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 12px;
+            padding: 15px;
+            text-align: center;
+        }
+        
+        .status-card .icon {
+            font-size: 1.8em;
+            margin-bottom: 8px;
+        }
+        
+        .status-card .value {
+            font-size: 1.5em;
+            font-weight: bold;
+        }
+        
+        .status-card .label {
+            font-size: 0.75em;
+            color: #8b949e;
+            margin-top: 4px;
+        }
+        
+        .status-card.green .value { color: #3fb950; }
+        .status-card.yellow .value { color: #d29922; }
+        .status-card.red .value { color: #f85149; }
+        .status-card.blue .value { color: #58a6ff; }
+        
+        /* Log */
+        .log-section {
+            max-width: 1400px;
+            margin: 20px auto;
+            background: #161b22;
+            border-radius: 12px;
+            padding: 20px;
+            border: 1px solid #30363d;
+        }
+        
+        .log-title {
+            font-size: 0.9em;
+            color: #8b949e;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .log-entry {
+            font-size: 0.8em;
+            padding: 8px 0;
+            border-bottom: 1px solid #21262d;
+            display: flex;
+            gap: 15px;
+        }
+        
+        .log-time {
+            color: #8b949e;
+            min-width: 70px;
+        }
+        
+        .log-agent {
+            color: #bc8cff;
+            min-width: 100px;
+        }
+        
+        .log-message {
+            color: #e6edf3;
+        }
+        
+        /* Cron Jobs */
+        .cron-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        
+        .cron-item {
+            background: #21262d;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 0.75em;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        
+        .cron-item.active {
+            border: 1px solid #3fb950;
+        }
+        
+        .cron-item.paused {
+            border: 1px solid #484f58;
+            opacity: 0.5;
+        }
+        
+        /* Memory */
+        .memory-bar {
+            display: flex;
+            gap: 4px;
+            margin-top: 10px;
+        }
+        
+        .memory-pill {
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 0.7em;
+        }
+        
+        .memory-pill.success { background: rgba(63, 185, 80, 0.2); color: #3fb950; }
+        .memory-pill.warning { background: rgba(210, 153, 34, 0.2); color: #d29922; }
+        .memory-pill.info { background: rgba(88, 166, 255, 0.2); color: #58a6ff; }
+        
+        /* Quick Actions */
+        .quick-actions {
+            display: flex;
+            gap: 10px;
+            margin-top: 15px;
+            flex-wrap: wrap;
+        }
+        
+        .action-btn {
+            background: #21262d;
+            border: 1px solid #30363d;
+            color: #8b949e;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-size: 0.75em;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .action-btn:hover {
+            background: #30363d;
+            color: #e6edf3;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🏢 OFICINA VIRTUAL - Tota OS</h1>
+        <div class="meta">
+            <div class="meta-item">
+                <span>🕐</span>
+                <span id="currentTime">Cargando...</span>
+            </div>
+            <div class="meta-item">
+                <span>🎯</span>
+                <span>Session: MAIN</span>
+            </div>
+            <div class="meta-item">
+                <span>🧠</span>
+                <span>Memory: ACTIVE</span>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Status Cards -->
+    <div class="status-panel">
+        <div class="status-card green">
+            <div class="icon">🦊</div>
+            <div class="value">5</div>
+            <div class="label">Agents Activos</div>
+        </div>
+        <div class="status-card blue">
+            <div class="icon">⏰</div>
+            <div class="value">15</div>
+            <div class="label">Cron Jobs</div>
+        </div>
+        <div class="status-card yellow">
+            <div class="icon">📈</div>
+            <div class="value">$10,000</div>
+            <div class="label">Paper Balance</div>
+        </div>
+        <div class="status-card">
+            <div class="icon">🧠</div>
+            <div class="value">30+</div>
+            <div class="label">Skills</div>
+        </div>
+    </div>
+    
+    <!-- Main Office Grid -->
+    <div class="office">
+        <!-- ORQUESTADOR -->
+        <div class="station">
+            <div class="station-header">
+                <span class="station-icon">🎯</span>
+                <span class="station-title">Orquestador</span>
+            </div>
+            <div class="agent thinking" id="agent-tota">
+                <div class="agent-emoji">🦊</div>
+                <div class="agent-info">
+                    <div class="agent-name">Tota</div>
+                    <div class="agent-task">Esperando instrucciones...</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+            <div class="memory-bar">
+                <span class="memory-pill info">Auto-save</span>
+                <span class="memory-pill success">Level 2.5</span>
+            </div>
+            <div class="quick-actions">
+                <button class="action-btn" onclick="runCommand('status')">📊 Status</button>
+                <button class="action-btn" onclick="runCommand('analyze')">🔍 Analyze</button>
+            </div>
+        </div>
+        
+        <!-- RESEARCH -->
+        <div class="station">
+            <div class="station-header">
+                <span class="station-icon">🔍</span>
+                <span class="station-title">Research Lab</span>
+            </div>
+            <div class="agent idle" id="agent-research_lead">
+                <div class="agent-emoji">🔍</div>
+                <div class="agent-info">
+                    <div class="agent-name">Research Lead</div>
+                    <div class="agent-task">Idle</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+            <div class="agent idle" id="agent-x_scout">
+                <div class="agent-emoji">🐦</div>
+                <div class="agent-info">
+                    <div class="agent-name">X Scout</div>
+                    <div class="agent-task">Idle</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+            <div class="agent idle" id="agent-linkedin_scout">
+                <div class="agent-emoji">💼</div>
+                <div class="agent-info">
+                    <div class="agent-name">LinkedIn Scout</div>
+                    <div class="agent-task">Idle</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+            <div class="agent idle" id="agent-youtube_scout">
+                <div class="agent-emoji">📺</div>
+                <div class="agent-info">
+                    <div class="agent-name">YouTube Scout</div>
+                    <div class="agent-task">Idle</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+            <div class="cron-list" style="margin-top: 15px;">
+                <div class="cron-item active">🔍 Research 3x/día</div>
+                <div class="cron-item active">📋 Check Leads</div>
+            </div>
+        </div>
+        
+        <!-- TRADING -->
+        <div class="station">
+            <div class="station-header">
+                <span class="station-icon">📈</span>
+                <span class="station-title">Trading Floor</span>
+            </div>
+            <div class="agent idle" id="agent-trading_bot">
+                <div class="agent-emoji">📈</div>
+                <div class="agent-info">
+                    <div class="agent-name">Trading Bot</div>
+                    <div class="agent-task">Paper Trading v2.1</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+            <div class="agent idle" id="agent-market_analyst">
+                <div class="agent-emoji">📊</div>
+                <div class="agent-info">
+                    <div class="agent-name">Market Analyst</div>
+                    <div class="agent-task">Estrategia 5min</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+            <div class="agent idle" id="agent-risk_manager">
+                <div class="agent-emoji">🛡️</div>
+                <div class="agent-info">
+                    <div class="agent-name">Risk Manager</div>
+                    <div class="agent-task">Monitor</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+            <div class="cron-list" style="margin-top: 15px;">
+                <div class="cron-item paused">⚠️ KuCoin Pausado</div>
+                <div class="cron-item active">✅ Asterdex Paper</div>
+                <div class="cron-item active">🛡️ Risk 1h</div>
+            </div>
+        </div>
+        
+        <!-- CONTENT -->
+        <div class="station">
+            <div class="station-header">
+                <span class="station-icon">🎬</span>
+                <span class="station-title">Content Lab</span>
+            </div>
+            <div class="agent idle" id="agent-transcriber">
+                <div class="agent-emoji">🎬</div>
+                <div class="agent-info">
+                    <div class="agent-name">Transcriber</div>
+                    <div class="agent-task">YouTube (gratis)</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+            <div class="agent idle" id="agent-notion">
+                <div class="agent-emoji">📝</div>
+                <div class="agent-info">
+                    <div class="agent-name">Notion</div>
+                    <div class="agent-task">⏳ Sin token</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+            <div class="cron-list" style="margin-top: 15px;">
+                <div class="cron-item active">📝 Backup Diario</div>
+            </div>
+        </div>
+        
+        <!-- SYSTEM -->
+        <div class="station">
+            <div class="station-header">
+                <span class="station-icon">⚙️</span>
+                <span class="station-title">System</span>
+            </div>
+            <div class="agent idle" id="agent-memory">
+                <div class="agent-emoji">🧠</div>
+                <div class="agent-info">
+                    <div class="agent-name">Memory</div>
+                    <div class="agent-task">30+ skills passing</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+            <div class="agent idle" id="agent-intel">
+                <div class="agent-emoji">🔎</div>
+                <div class="agent-info">
+                    <div class="agent-name">Intelligence</div>
+                    <div class="agent-task">09:00 daily</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+            <div class="cron-list" style="margin-top: 15px;">
+                <div class="cron-item active">🧠 Memory 3h</div>
+                <div class="cron-item active">🔎 Intel 09:00</div>
+                <div class="cron-item active">📊 Metrics</div>
+                <div class="cron-item active">🔄 Backup</div>
+            </div>
+        </div>
+        
+        <!-- PROJECTS -->
+        <div class="station">
+            <div class="station-header">
+                <span class="station-icon">💼</span>
+                <span class="station-title">Proyectos</span>
+            </div>
+            <div class="agent idle" id="agent-zaltyko">
+                <div class="agent-emoji">🏋️</div>
+                <div class="agent-info">
+                    <div class="agent-name">Zaltyko</div>
+                    <div class="agent-task">SaaS Academias</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+            <div class="agent idle" id="agent-trading">
+                <div class="agent-emoji">💰</div>
+                <div class="agent-info">
+                    <div class="agent-name">Trading</div>
+                    <div class="agent-task">Hyperliquid/Asterdex</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+            <div class="memory-bar">
+                <span class="memory-pill warning">⏳ Gmail Auth</span>
+                <span class="memory-pill warning">⏳ API Exchange</span>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Activity Log -->
+    <div class="log-section">
+        <div class="log-title">
+            <span>📝</span>
+            <span>ACTIVIDAD RECIENTE</span>
+        </div>
+        <div id="log-container">
+            <div class="log-entry">
+                <span class="log-time">--:--:--</span>
+                <span class="log-agent">Sistema</span>
+                <span class="log-message">Oficina iniciada</span>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Datos del sistema
+        const systemData = {
+            agents: {
+                tota: { status: 'thinking', task: 'Esperando...' },
+                research_lead: { status: 'idle', task: 'Idle' },
+                x_scout: { status: 'idle', task: 'Idle' },
+                trading_bot: { status: 'idle', task: 'Paper v2.1' },
+                transcriber: { status: 'idle', task: 'Listo' },
+                risk_manager: { status: 'idle', task: 'Monitor' },
+                market_analyst: { status: 'idle', task: 'Estrategia 5min' }
+            },
+            cronJobs: 15,
+            skills: '30+',
+            balance: '$10,000',
+            memory: 'ACTIVE'
+        };
+        
+        const activities = [
+            { agent: 'Tota', message: 'Respondiendo a Elvis' },
+            { agent: 'Trading Bot', message: 'Analizando mercado 5min' },
+            { agent: 'Research Lead', message: 'Buscando leads en X' },
+            { agent: 'Transcriber', message: 'Extrayendo video de YouTube' },
+            { agent: 'Risk Manager', message: 'Verificando límites' },
+            { agent: 'Memory', message: 'Guardando contexto' },
+            { agent: 'Intelligence', message: 'Escaneando trends' },
+            { agent: 'Tota', message: 'Ejecutando comando' }
+        ];
+        
+        function updateTime() {
+            const now = new Date();
+            document.getElementById('currentTime').textContent = now.toLocaleString('es-ES', {
+                weekday: 'short',
+                hour: '2-digit',
+                minute: '2-digit',
+                second: '2-digit'
+            });
+        }
+        
+        function updateAgent(agentId, status, task) {
+            const el = document.getElementById('agent-' + agentId);
+            if (el) {
+                el.className = 'agent ' + status;
+                el.querySelector('.agent-task').textContent = task;
+            }
+        }
+        
+        function addLog(agent, message) {
+            const container = document.getElementById('log-container');
+            const now = new Date();
+            const time = now.toTimeString().substring(0, 8);
+            
+            const entry = document.createElement('div');
+            entry.className = 'log-entry';
+            entry.innerHTML = `
+                <span class="log-time">${time}</span>
+                <span class="log-agent">${agent}</span>
+                <span class="log-message">${message}</span>
+            `;
+            
+            container.insertBefore(entry, container.firstChild);
+            
+            while (container.children.length > 15) {
+                container.removeChild(container.lastChild);
+            }
+        }
+        
+        function simulateActivity() {
+            // Random agent activity
+            const agentIds = Object.keys(systemData.agents);
+            const randomAgent = agentIds[Math.floor(Math.random() * agentIds.length)];
+            const randomActivity = activities[Math.floor(Math.random() * activities.length)];
+            
+            // Mostrar como running
+            updateAgent(randomAgent, 'running', randomActivity.message);
+            addLog(randomActivity.agent, randomActivity.message);
+            
+            // Después de 2-4 segundos, volver a idle
+            setTimeout(() => {
+                const statuses = ['idle', 'thinking', 'idle'];
+                const newStatus = statuses[Math.floor(Math.random() * statuses.length)];
+                updateAgent(randomAgent, newStatus, newStatus === 'idle' ? 'Idle' : 'Pensando...');
+            }, 2000 + Math.random() * 3000);
+        }
+        
+        function runCommand(cmd) {
+            const commands = {
+                'status': '📊 Obteniendo status completo...',
+                'analyze': '🔍 Ejecutando análisis...',
+                'memory': '🧠 Sincronizando memoria...'
+            };
+            
+            updateAgent('tota', 'working', commands[cmd] || 'Ejecutando...');
+            addLog('Tota', commands[cmd] || 'Comando: ' + cmd);
+            
+            setTimeout(() => {
+                updateAgent('tota', 'thinking', 'Esperando...');
+            }, 2000);
+        }
+        
+        // Iniciar
+        updateTime();
+        setInterval(updateTime, 1000);
+        
+        // Simular actividad cada 8 segundos
+        setInterval(simulateActivity, 8000);
+        
+        // Primera actividad
+        setTimeout(() => {
+            addLog('Sistema', 'Oficina virtual iniciada');
+            addLog('Tota', 'Listo para trabajar');
+        }, 1000);
+    </script>
+</body>
+</html>

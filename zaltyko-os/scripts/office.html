@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🏢 Tota Office - Operations Center</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: 'SF Mono', 'Fira Code', 'Monaco', monospace;
+            background: #0a0e14;
+            color: #e6edf3;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        /* Header */
+        .header {
+            text-align: center;
+            padding: 25px;
+            background: linear-gradient(180deg, #161b22 0%, #0d1117 100%);
+            border-radius: 16px;
+            border: 1px solid #30363d;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 24px rgba(0,0,0,0.4);
+        }
+        
+        .header h1 {
+            font-size: 2.2em;
+            font-weight: 700;
+            background: linear-gradient(90deg, #58a6ff, #bc8cff, #f778ba);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 12px;
+        }
+        
+        .meta {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            font-size: 0.9em;
+            color: #8b949e;
+        }
+        
+        .meta-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 6px 14px;
+            background: #21262d;
+            border-radius: 20px;
+            border: 1px solid #30363d;
+        }
+        
+        .meta-item.active {
+            border-color: #3fb950;
+            color: #3fb950;
+        }
+        
+        /* Stats Row */
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+            max-width: 1400px;
+            margin: 0 auto 20px;
+        }
+        
+        .stat-card {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 12px;
+            padding: 20px;
+            text-align: center;
+            transition: transform 0.2s, border-color 0.2s;
+        }
+        
+        .stat-card:hover {
+            transform: translateY(-2px);
+            border-color: #58a6ff;
+        }
+        
+        .stat-icon { font-size: 2em; margin-bottom: 8px; }
+        .stat-value { font-size: 1.8em; font-weight: bold; margin: 8px 0; }
+        .stat-label { font-size: 0.8em; color: #8b949e; text-transform: uppercase; letter-spacing: 1px; }
+        
+        .stat-card.green .stat-value { color: #3fb950; }
+        .stat-card.blue .stat-value { color: #58a6ff; }
+        .stat-card.yellow .stat-value { color: #d29922; }
+        .stat-card.purple .stat-value { color: #bc8cff; }
+        
+        /* Office Grid */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        .station {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 12px;
+            padding: 20px;
+            transition: border-color 0.2s;
+        }
+        
+        .station:hover {
+            border-color: #484f58;
+        }
+        
+        .station-header {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 15px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid #30363d;
+        }
+        
+        .station-icon { font-size: 1.4em; }
+        .station-title { font-size: 0.85em; color: #8b949e; text-transform: uppercase; letter-spacing: 2px; font-weight: 600; }
+        
+        /* Agents */
+        .agent {
+            background: #21262d;
+            border-radius: 8px;
+            padding: 12px;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            transition: all 0.3s ease;
+            cursor: default;
+        }
+        
+        .agent:hover {
+            transform: translateX(4px);
+            background: #282e36;
+        }
+        
+        .agent.running {
+            border-left: 4px solid #3fb950;
+            background: rgba(63, 185, 80, 0.08);
+        }
+        
+        .agent.working {
+            border-left: 4px solid #d29922;
+            background: rgba(210, 153, 34, 0.08);
+        }
+        
+        .agent.thinking {
+            border-left: 4px solid #58a6ff;
+            background: rgba(88, 166, 255, 0.08);
+        }
+        
+        .agent.idle {
+            border-left: 4px solid #484f58;
+            opacity: 0.6;
+        }
+        
+        .agent-emoji { font-size: 1.4em; }
+        .agent-info { flex: 1; }
+        .agent-name { font-size: 0.85em; font-weight: 600; }
+        .agent-task { font-size: 0.72em; color: #8b949e; margin-top: 2px; }
+        
+        .agent-status {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            flex-shrink: 0;
+        }
+        
+        .agent.running .agent-status { background: #3fb950; box-shadow: 0 0 8px #3fb950; animation: pulse 1s infinite; }
+        .agent.working .agent-status { background: #d29922; box-shadow: 0 0 8px #d29922; animation: pulse 0.6s infinite; }
+        .agent.thinking .agent-status { background: #58a6ff; box-shadow: 0 0 8px #58a6ff; }
+        .agent.idle .agent-status { background: #484f58; }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.6; transform: scale(0.85); }
+        }
+        
+        /* Pending Items */
+        .pending {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-top: 12px;
+            padding-top: 12px;
+            border-top: 1px solid #30363d;
+        }
+        
+        .pending-item {
+            background: rgba(210, 153, 34, 0.15);
+            color: #d29922;
+            padding: 5px 12px;
+            border-radius: 14px;
+            font-size: 0.7em;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        
+        /* Log Section */
+        .log-section {
+            max-width: 1400px;
+            margin: 20px auto;
+            background: #161b22;
+            border-radius: 12px;
+            padding: 20px;
+            border: 1px solid #30363d;
+        }
+        
+        .log-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        
+        .log-title { font-size: 0.9em; color: #8b949e; text-transform: uppercase; letter-spacing: 1px; display: flex; align-items: center; gap: 8px; }
+        
+        .log-entry {
+            font-size: 0.8em;
+            padding: 10px 0;
+            border-bottom: 1px solid #21262d;
+            display: flex;
+            gap: 20px;
+            animation: fadeIn 0.3s ease;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateX(-10px); }
+            to { opacity: 1; transform: translateX(0); }
+        }
+        
+        .log-time { color: #6e7681; min-width: 70px; font-size: 0.85em; }
+        .log-agent { color: #bc8cff; min-width: 110px; font-weight: 500; }
+        .log-message { color: #e6edf3; flex: 1; }
+        
+        .log-entry:last-child { border-bottom: none; }
+        
+        /* Refresh Button */
+        .refresh {
+            text-align: center;
+            margin-top: 20px;
+        }
+        
+        .refresh button {
+            background: linear-gradient(135deg, #238636, #2ea043);
+            border: none;
+            color: white;
+            padding: 12px 28px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.9em;
+            font-weight: 600;
+            transition: all 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .refresh button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(46, 160, 67, 0.4);
+        }
+        
+        /* Auto-refresh indicator */
+        .auto-refresh {
+            font-size: 0.75em;
+            color: #6e7681;
+            margin-top: 10px;
+        }
+        
+        /* Loading state */
+        .loading {
+            opacity: 0.5;
+            animation: pulse 1s infinite;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🏢 TOTA OFFICE</h1>
+        <div class="meta">
+            <div class="meta-item" id="clock">
+                <span>🕐</span>
+                <span>--:--:--</span>
+            </div>
+            <div class="meta-item active">
+                <span>🎯</span>
+                <span>MAIN</span>
+            </div>
+            <div class="meta-item active">
+                <span>🧠</span>
+                <span>ACTIVE</span>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Stats -->
+    <div class="stats">
+        <div class="stat-card green">
+            <div class="stat-icon">🦊</div>
+            <div class="stat-value" id="agents-count">5</div>
+            <div class="stat-label">Agents</div>
+        </div>
+        <div class="stat-card blue">
+            <div class="stat-icon">⏰</div>
+            <div class="stat-value" id="cron-count">15</div>
+            <div class="stat-label">Cron Jobs</div>
+        </div>
+        <div class="stat-card yellow">
+            <div class="stat-icon">📈</div>
+            <div class="stat-value" id="balance">$0</div>
+            <div class="stat-label">Paper Balance</div>
+        </div>
+        <div class="stat-card purple">
+            <div class="stat-icon">🧠</div>
+            <div class="stat-value">30+</div>
+            <div class="stat-label">Skills</div>
+        </div>
+    </div>
+    
+    <!-- Office Grid -->
+    <div class="grid">
+        <!-- Orquestador -->
+        <div class="station">
+            <div class="station-header">
+                <span class="station-icon">🎯</span>
+                <span class="station-title">Orquestador</span>
+            </div>
+            <div class="agent thinking" id="agent-tota">
+                <div class="agent-emoji">🦊</div>
+                <div class="agent-info">
+                    <div class="agent-name">Tota</div>
+                    <div class="agent-task">Esperando instrucciones...</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+            <div class="pending">
+                <span class="pending-item">⏳ Gmail Auth</span>
+                <span class="pending-item">⏳ API Exchange</span>
+            </div>
+        </div>
+        
+        <!-- Research -->
+        <div class="station">
+            <div class="station-header">
+                <span class="station-icon">🔍</span>
+                <span class="station-title">Research Lab</span>
+            </div>
+            <div class="agent idle" id="agent-research">
+                <div class="agent-emoji">🔍</div>
+                <div class="agent-info">
+                    <div class="agent-name">Research Lead</div>
+                    <div class="agent-task">Listo para investigar</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+            <div class="agent idle" id="agent-xscout">
+                <div class="agent-emoji">🐦</div>
+                <div class="agent-info">
+                    <div class="agent-name">X Scout</div>
+                    <div class="agent-task">Buscando tendencias</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+        </div>
+        
+        <!-- Trading -->
+        <div class="station">
+            <div class="station-header">
+                <span class="station-icon">📈</span>
+                <span class="station-title">Trading Floor</span>
+            </div>
+            <div class="agent idle" id="agent-trading">
+                <div class="agent-emoji">📈</div>
+                <div class="agent-info">
+                    <div class="agent-name">Trading Bot</div>
+                    <div class="agent-task" id="trading-task">Estrategia 5min</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+            <div class="agent idle" id="agent-risk">
+                <div class="agent-emoji">🛡️</div>
+                <div class="agent-info">
+                    <div class="agent-name">Risk Manager</div>
+                    <div class="agent-task">Monitoreando riesgos</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+        </div>
+        
+        <!-- Content -->
+        <div class="station">
+            <div class="station-header">
+                <span class="station-icon">🎬</span>
+                <span class="station-title">Content Lab</span>
+            </div>
+            <div class="agent idle" id="agent-transcriber">
+                <div class="agent-emoji">🎬</div>
+                <div class="agent-info">
+                    <div class="agent-name">Transcriber</div>
+                    <div class="agent-task">YouTube (gratis)</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+            <div class="agent idle" id="agent-notion">
+                <div class="agent-emoji">📝</div>
+                <div class="agent-info">
+                    <div class="agent-name">Notion</div>
+                    <div class="agent-task">⏳ Sin token</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+        </div>
+        
+        <!-- System -->
+        <div class="station">
+            <div class="station-header">
+                <span class="station-icon">⚙️</span>
+                <span class="station-title">System</span>
+            </div>
+            <div class="agent idle" id="agent-memory">
+                <div class="agent-emoji">🧠</div>
+                <div class="agent-info">
+                    <div class="agent-name">Memory</div>
+                    <div class="agent-task">30+ skills passing</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+            <div class="agent idle" id="agent-intel">
+                <div class="agent-emoji">🔎</div>
+                <div class="agent-info">
+                    <div class="agent-name">Intelligence</div>
+                    <div class="agent-task">Daily 09:00</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+        </div>
+        
+        <!-- Projects -->
+        <div class="station">
+            <div class="station-header">
+                <span class="station-icon">💼</span>
+                <span class="station-title">Proyectos</span>
+            </div>
+            <div class="agent idle" id="agent-zaltyko">
+                <div class="agent-emoji">🏋️</div>
+                <div class="agent-info">
+                    <div class="agent-name">Zaltyko</div>
+                    <div class="agent-task">SaaS Academias</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+            <div class="agent idle" id="agent-tradingproj">
+                <div class="agent-emoji">💰</div>
+                <div class="agent-info">
+                    <div class="agent-name">Trading</div>
+                    <div class="agent-task">Hyperliquid/Asterdex</div>
+                </div>
+                <div class="agent-status"></div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Log -->
+    <div class="log-section">
+        <div class="log-header">
+            <div class="log-title">
+                <span>📝</span>
+                <span>ACTIVIDAD RECIENTE</span>
+            </div>
+        </div>
+        <div id="log-container">
+            <div class="log-entry">
+                <span class="log-time">--:--:--</span>
+                <span class="log-agent">Sistema</span>
+                <span class="log-message">Oficina iniciada - esperando datos...</span>
+            </div>
+        </div>
+    </div>
+    
+    <div class="refresh">
+        <button onclick="refreshAll()">
+            <span>🔄</span>
+            Actualizar Datos
+        </button>
+        <div class="auto-refresh">Auto-actualización cada 5s</div>
+    </div>
+    
+    <script>
+        // State
+        let lastBalance = 0;
+        
+        // Clock
+        function updateClock() {
+            const now = new Date();
+            const time = now.toLocaleTimeString('es-ES', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+            document.querySelector('#clock span:last-child').textContent = time;
+        }
+        
+        // Fetch Trading Data
+        async function fetchTradingData() {
+            try {
+                const response = await fetch('trading_bot_v2_state.json?_=' + Date.now());
+                if (response.ok) {
+                    const data = await response.json();
+                    lastBalance = data.balance || 0;
+                    document.getElementById('balance').textContent = '$' + lastBalance.toFixed(2);
+                    
+                    // Update trading task
+                    const positions = data.positions || {};
+                    const posCount = Object.keys(positions).length;
+                    if (posCount > 0) {
+                        document.getElementById('trading-task').textContent = `${posCount} posición(es)`;
+                    } else {
+                        document.getElementById('trading-task').textContent = 'Sin posiciones';
+                    }
+                    return data;
+                }
+            } catch (e) {
+                console.log('Trading data not available');
+            }
+            return null;
+        }
+        
+        // Fetch Memory for activity
+        async function fetchMemoryActivity() {
+            try {
+                const response = await fetch('/Users/elvisvaldesinerarte/.openclaw/workspace/memory/2026-02-25.md');
+                if (response.ok) {
+                    const text = await response.text();
+                    return text;
+                }
+            } catch (e) {
+                console.log('Memory not available');
+            }
+            return null;
+        }
+        
+        // Add log entry
+        function addLog(agent, message) {
+            const container = document.getElementById('log-container');
+            const now = new Date();
+            const time = now.toLocaleTimeString('es-ES', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+            
+            const entry = document.createElement('div');
+            entry.className = 'log-entry';
+            entry.innerHTML = `
+                <span class="log-time">${time}</span>
+                <span class="log-agent">${agent}</span>
+                <span class="log-message">${message}</span>
+            `;
+            
+            container.insertBefore(entry, container.firstChild);
+            
+            // Keep only 10 entries
+            while (container.children.length > 10) {
+                container.removeChild(container.lastChild);
+            }
+        }
+        
+        // Simulate agent activity
+        function simulateActivity() {
+            const agents = [
+                { name: 'Tota', tasks: ['Procesando mensaje...', 'Analizando contexto...', 'Guardando memoria...'] },
+                { name: 'Trading Bot', tasks: ['Analizando mercado...', 'Buscando señales...', 'Verificando posiciones...'] },
+                { name: 'Research Lead', tasks: ['Buscando leads...', 'Analizando X...', 'Extrayendo datos...'] },
+                { name: 'Transcriber', tasks: ['Procesando video...', 'Extrayendo subtitles...', 'Generando resumen...'] },
+                { name: 'Risk Manager', tasks: ['Verificando límites...', 'Calculando exposición...', 'Monitoreando riesgo...'] }
+            ];
+            
+            const agent = agents[Math.floor(Math.random() * agents.length)];
+            const task = agent.tasks[Math.floor(Math.random() * agent.tasks.length)];
+            
+            addLog(agent.name, task);
+        }
+        
+        // Update agent status
+        function updateAgentStatus(agentId, status, task) {
+            const el = document.getElementById('agent-' + agentId);
+            if (el) {
+                el.className = 'agent ' + status;
+                el.querySelector('.agent-task').textContent = task;
+            }
+        }
+        
+        // Refresh all data
+        async function refreshAll() {
+            document.body.classList.add('loading');
+            
+            await fetchTradingData();
+            updateClock();
+            
+            document.body.classList.remove('loading');
+            addLog('Tota', 'Datos actualizados');
+        }
+        
+        // Initialize
+        async function init() {
+            updateClock();
+            setInterval(updateClock, 1000);
+            
+            // Initial data fetch
+            await fetchTradingData();
+            
+            // Add startup logs
+            addLog('Sistema', 'Oficina iniciada');
+            addLog('Tota', 'Conectando con servicios...');
+            
+            // Simulate activity periodically
+            setInterval(simulateActivity, 8000);
+            
+            // Auto refresh
+            setInterval(refreshAll, 5000);
+        }
+        
+        init();
+    </script>
+</body>
+</html>

@@ -1,73 +1,37 @@
-# Testing Plan - Zaltyko MVP
+# Zaltyko — QA Onboarding Test
 
-## Objetivo
-Testear todo el sistema antes de primeros clientes. Sin errores.
+Fecha: 2026-02-20 19:00 (Europe/Madrid)
+URL: https://zaltyko.vercel.app/onboarding
 
-## Módulos a Testear
+## Credenciales usadas
+- Email: test-onboarding-1771610425@test.com
+- Password: QA-Test-2026!
 
-### 1. Onboarding Flow
-- [ ] Registro nuevo usuario
-- [ ] Crear academia
-- [ ] Setup inicial (wizard)
-- [ ] Login funciona
+## Resultado
+**FAIL**
 
-### 2. Athlettes
-- [ ] Crear atleta
-- [ ] Editar atleta
-- [ ] Asignar a grupo
-- [ ] Ver perfil atleta
+## Pasos ejecutados
+1) Abrí /onboarding (Paso 1 de 2).
+2) Rellené:
+   - Nombre completo: `QA Onboarding Test`
+   - Correo: `test-onboarding-1771610425@test.com`
+   - Contraseña / confirmación: `QA-Test-2026!`
+3) Click en **“Crear cuenta y continuar”**.
 
-### 3. Grupos y Clases
-- [ ] Crear grupo
-- [ ] Crear clase
-- [ ] Asignar atletas a clase
-- [ ] Ver calendario
+## Errores encontrados
+### 1) Registro falla con mensaje genérico
+- Observado: aparece notificación **“Error al registrar”** con detalle **`INTERNAL_ERROR`**.
+- Impacto: bloquea onboarding (no se puede pasar al paso 2, no se crea la cuenta).
 
-### 4. Asistencia
-- [ ] Registrar asistencia
-- [ ] Historial por atleta
-- [ ] Reporte por clase
+### 2) Redirección / sesión inconsistente → Dashboard rompe
+- Tras intentar ir a **/auth/login**, el sistema redirige a **/dashboard**, pero la página muestra:
+  - **“Algo salió mal”**
+  - “Ha ocurrido un error inesperado. Por favor, intenta recargar la página.”
+- Repetido al navegar de nuevo a /auth/login (otra vez redirige a /dashboard y vuelve el error).
+- Impacto: incluso si hay sesión/cookie parcial, la app termina en error boundary en dashboard.
 
-### 5. Pagos (Stripe)
-- [ ] Checkout funciona
-- [ ] Payment success
-- [ ] Payment failed
-- [ ] Factura generada
+## Evidencia
+- Screenshot: capturado en el flujo (pantalla “Algo salió mal” en /dashboard).
 
-### 6. Notificaciones
-- [ ] Email welcome
-- [ ] In-app notification
-- [ ] Parent portal access
-
-### 7. Páginas Públicas
-- [ ] /academias - directorio carga
-- [ ] /events - eventos carga
-- [ ] /academias/[id] - perfil público
-- [ ] /events/[id] - evento público
-
-### 8. Mobile/Responsive
-- [ ] Dashboard funciona en móvil
-- [ ] Forms funcionan en móvil
-
-## Errores a Buscar
-- UI/UX bugs
-- Errores de consola
-- Links rotos
-- Forms que no submiten
-- API errors
-- Auth issues
-
-## Formato de Reporte
-
-```markdown
-## [Módulo] - STATUS
-
-### Tests:
-- [PASS/FAIL] Test name
-
-### Issues:
-1. Issue name
-   - Severity: HIGH/MEDIUM/LOW
-   - Steps to reproduce
-   - Fix suggested
-```
+## Notas
+- No fue posible completar el wizard (Paso 2) ni verificar login exitoso debido a `INTERNAL_ERROR` en registro y error boundary en /dashboard.

@@ -1,0 +1,8 @@
+[
+  {{
+    "name": "Input vacío",
+    "input": "",
+    "expected": "manejo graceful",
+    "timeout": 10
+  }}
+]

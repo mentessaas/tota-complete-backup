@@ -1,0 +1,30 @@
+{
+  "sent": 0,
+  "errors": [
+    {
+      "to": "club@grdleganes.org",
+      "status": 401,
+      "body": "{\"message\":\"We have detected you are using an unrecognised IP address 2a02:9130:fc1a:1c7b:dd36:50cc:fff3:c32c. If you performed this action make sure to add the new IP address in this link: https://app.brevo.com/security/authorised_ips\",\"code\":\"unauthorized\"}\n"
+    },
+    {
+      "to": "ritmica.euritmia@gmail.com",
+      "status": 401,
+      "body": "{\"message\":\"We have detected you are using an unrecognised IP address 2a02:9130:fc1a:1c7b:dd36:50cc:fff3:c32c. If you performed this action make sure to add the new IP address in this link: https://app.brevo.com/security/authorised_ips\",\"code\":\"unauthorized\"}\n"
+    },
+    {
+      "to": "clubgimnasticbarcelona@gmail.com",
+      "status": 401,
+      "body": "{\"message\":\"We have detected you are using an unrecognised IP address 2a02:9130:fc1a:1c7b:dd36:50cc:fff3:c32c. If you performed this action make sure to add the new IP address in this link: https://app.brevo.com/security/authorised_ips\",\"code\":\"unauthorized\"}\n"
+    },
+    {
+      "to": "administracio@graciagimnasticclub.cat",
+      "status": 401,
+      "body": "{\"message\":\"We have detected you are using an unrecognised IP address 2a02:9130:fc1a:1c7b:dd36:50cc:fff3:c32c. If you performed this action make sure to add the new IP address in this link: https://app.brevo.com/security/authorised_ips\",\"code\":\"unauthorized\"}\n"
+    },
+    {
+      "to": "clubesportiubarna@gmail.com",
+      "status": 401,
+      "body": "{\"message\":\"We have detected you are using an unrecognised IP address 2a02:9130:fc1a:1c7b:dd36:50cc:fff3:c32c. If you performed this action make sure to add the new IP address in this link: https://app.brevo.com/security/authorised_ips\",\"code\":\"unauthorized\"}\n"
+    }
+  ]
+}
