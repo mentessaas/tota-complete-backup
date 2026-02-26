@@ -1,0 +1,42 @@
+[
+  {
+    "fact": "| market-analyst | \u2705 Integrad (SKILL + SOUL) |",
+    "source": "daily_log",
+    "timestamp": "2026-02-26T15:40:37.419804"
+  },
+  {
+    "fact": "| risk-manager | \u2705 Eliminado (vac\u00edo) |",
+    "source": "daily_log",
+    "timestamp": "2026-02-26T15:40:37.419810"
+  },
+  {
+    "fact": "| research_lead | \u2705 OK |",
+    "source": "daily_log",
+    "timestamp": "2026-02-26T15:40:37.419813"
+  },
+  {
+    "fact": "| research-agent | \u2705 OK |",
+    "source": "daily_log",
+    "timestamp": "2026-02-26T15:40:37.419815"
+  },
+  {
+    "fact": "## Estado: \u2705 AL D\u00cdA",
+    "source": "daily_log",
+    "timestamp": "2026-02-26T15:40:37.419820"
+  },
+  {
+    "fact": "\u2705 Scan de memoria y proyectos",
+    "source": "daily_log",
+    "timestamp": "2026-02-26T15:40:37.419873"
+  },
+  {
+    "fact": "\u2705 Verificaci\u00f3n de CoinGecko (funciona)",
+    "source": "daily_log",
+    "timestamp": "2026-02-26T15:40:37.419876"
+  },
+  {
+    "fact": "\u2705 Actualizado trading.md",
+    "source": "daily_log",
+    "timestamp": "2026-02-26T15:40:37.419878"
+  }
+]

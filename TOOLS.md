@@ -37,15 +37,59 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ---
 
-### Trading (KuCoin)
+### Trading
 
-- **Folder:** `/Users/elvisvaldesinerarte/Desktop/Clawd_Workspace/kucoin-paper`
-- **API Key:** Configurada en multi-bot.js
-- **Symbols:** XBTUSDTM, ETHUSDTM, SOLUSDTM
-- **Modo:** Paper Trading (simulación)
-- **Balance:** $220 USDT
-- **Código referido:** QBAMB94P
+**KuCoin:** ✅ API运作正常
+- API Key: `878483cd310dafb51a9817e8da1dd4e37de15638661d2b1ff0f18d78d360359a`
+- Secret: `909acf6898599f35d0c2d6b35e1a8026ca3a26ebfa776afcdce69d1089969401`
+- Balance Futures: $222.00 USDT
+**Hyperliquid:** ✅ Testnet funcionando
+- Script: `~/zaltyko-os/scripts/hyperliquid_bot.py`
+- Docs: `https://hyperliquid.gitbook.io`
+- Símbolos: BTC/USDC:USDC, ETH/USDC:USDC, SOL/USDC:USDC
 
 ---
 
-Add whatever helps you do your job. This is your cheat sheet.
+### Scrapling (Web Scraping)
+
+- **Script:** `~/zaltyko-os/scripts/scrapling_tool.py`
+- **venv:** `~/.openclaw/workspace/.venv/`
+- **Activar:** `source ~/.openclaw/workspace/.venv/bin/activate`
+
+**Uso:**
+```bash
+# Script básico
+python3 ~/zaltyko-os/scripts/scrapling_tool.py "https://ejemplo.com" "h1"
+
+# En Python:
+from scrapling import Fetcher
+f = Fetcher()
+resp = f.get('https://ejemplo.com', verify=False)
+print(resp.css('title').first.text)
+```
+
+**Nota:** Requiere `verify=False` por SSL del sistema.
+
+---
+
+### Mis Capacidades ( Nivel 2.5)
+
+| Categoría | Herramienta | Estado |
+|-----------|-------------|--------|
+| **Búsqueda** | web_search, web_fetch, scraping | ✅ |
+| **Browser** | camofox (stealth), browser | ✅ |
+| **Email** | himalaya, gog | ⚠️ Sin auth |
+| **Trading** | KuCoin API | ❌ API rota |
+| **CRM** | Brevo, Supabase | ⚠️ Sin config |
+| **Mensajería** | Telegram, Signal, iMessage | ✅ |
+| **Archivos** | read, write, edit, exec | ✅ |
+| **TTS** | mac-tts, voicebox | ✅ |
+| **Scheduling** | cron | ✅ |
+
+---
+
+### Pending (Lo que necesito de Elvis)
+
+1. **Gmail:** `gog auth add elvisvaldes544@gmail.com`
+2. **Nueva API Exchange:** Pendiente que me la envíe
+3. **Brevo:** API key en secrets

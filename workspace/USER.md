@@ -1,16 +1,22 @@
 # USER.md - About Your Human
 
-_Learn about the person you're helping. Update this as you go._
-
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+- **Name:** Elvis
+- **What to call them:** Elvis
+- **Pronouns:** él
+- **Timezone:** Europe/Madrid
+- **Email:** elvisvaldes544@gmail.com
 
 ## Context
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+- Trainer de gimansia rítmica
+- Building Zaltyko (SaaS para academias)
+- Trading crypto自动化
+- Likes: One Piece 🏴‍☠️
+- Prefers: Comunicación directa, concisa, no robótica
+
+## Pending Actions (Elvis)
+1. Autorizar Gmail: `gog auth add elvisvaldes544@gmail.com`
+2. Nueva API Exchange
 
 ---
 

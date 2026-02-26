@@ -1,0 +1,42 @@
+{
+  "fecha": "2026-02-19",
+  "total_enviados": 6,
+  "results": [
+    {
+      "lead": "Club Gimnasia R\u00edtmica Ciudad de Sevilla",
+      "email": "clubritmicaciudaddesevilla@gmail.com",
+      "status": "\u2705 Enviado",
+      "message_id": "<202602192305.49984158009@smtp-relay.mailin.fr>"
+    },
+    {
+      "lead": "Club Deportivo Gimnasia R\u00edtmica Azahar",
+      "email": "clubritmicaazahar@gmail.com",
+      "status": "\u2705 Enviado",
+      "message_id": "<202602192305.87169082699@smtp-relay.mailin.fr>"
+    },
+    {
+      "lead": "Club Deportivo Gimnastico Sur",
+      "email": "escuelas@clubsur.es",
+      "status": "\u2705 Enviado",
+      "message_id": "<202602192305.54354570192@smtp-relay.mailin.fr>"
+    },
+    {
+      "lead": "Club Gimnasia R\u00edtmica M\u00e1laga",
+      "email": "ritmicamalaga@hotmail.com",
+      "status": "\u2705 Enviado",
+      "message_id": "<202602192305.44568876159@smtp-relay.mailin.fr>"
+    },
+    {
+      "lead": "CD RITMICA NAZARI Granada",
+      "email": "ritmicanazari@gmail.com",
+      "status": "\u2705 Enviado",
+      "message_id": "<202602192305.38034396055@smtp-relay.mailin.fr>"
+    },
+    {
+      "lead": "Club Gimnasia R\u00edtmica Ciudad de Ja\u00e9n",
+      "email": "ritmicalegria@gmail.com",
+      "status": "\u2705 Enviado",
+      "message_id": "<202602192305.43229317374@smtp-relay.mailin.fr>"
+    }
+  ]
+}

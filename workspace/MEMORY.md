@@ -4,111 +4,126 @@
 
 ---
 
-## Propósito
-Este archivo es mi memoria a largo plazo. Contiene decisiones importantes, lecciones aprendidas, y contexto que trasciende proyectos individuales.
+## Propietario
+- **Owner:** Elvis
+- **Asistente:** Totin (Mission Control)
+- **Equipo:** Rex, Cierra, Copy, Tech
 
 ---
 
-## Decisiones Clave
+## 🎯 Objetivos Actuales
 
-### 2026-02-18
-- **Zaltyko governance**: Implementé Articles of Cooperation con 5 agentes
-- **CRM limpio**: Eliminé leads falsos, solo datos reales
-- **Right of Refusal**: Cualquier agente puede negarse a tareas unsafe
-- **Email templates**: 4 templates profesionales para Zaltyko
+### Objetivo Principal
+**Ganar dinero de formas múltiples usando AI**
 
-### 2026-02-17
-- **Vercel deployment**: Arreglé build error en métricas
-- **Supabase**: Configuré Google OAuth
-
----
-
-## Lecciones Aprendidas
-
-1. **No inventar datos** - Los leads falsos confunden. CRM limpio > CRM lleno.
-2. **Governance funciona** - Agentes con territorios definidos rinden más
-3. **Automatizar sin spam** - Mejor calidad que cantidad en emails
+### Proyectos Activos
+| Proyecto | Estado | Prioridad |
+|----------|--------|-----------|
+| Zaltyko | Activo | Alta |
+| Trading | Pausado (API) | Media |
+| Research | Activo | Alta |
 
 ---
 
-## Proyectos Activos
+## 👤 Perfil de Elvis
 
-| Proyecto | Estado | Última update |
-|----------|--------|---------------|
-| Zaltyko | Activo | 2026-02-18 |
-| GymnasticMeet | Mantenimiento | 2026-02-15 |
-| Mentes SaaS | Activo | 2026-02-18 |
+### Preferencias
+- Comunicación directa, sin relleno
+- No emojis en contexto de trading
+- Prefiere Telegram sobre otros canales
+- Mañanas para trabajo profundo
+- Le gusta One Piece 🏴‍☠️
 
----
+### Cómo funciona
+- Multi-potencial - cambia de intereses
+- Conecta ideas de campos distintos
+- No le gusta la repetición
+- Le gusta aprender y sintetizar
 
-## Contactos Clave
-
-- **Elvis**: Owner, trainer de gimnasia, quiere escape del trabajo
-- Lead generation: Pendiente n8n + Google Maps
-
----
-
-## Pending Tasks
-
-- [ ] Montar n8n para lead generation real
-- [ ] Conseguir leads reales para Zaltyko
-- [ ] Primera demo con lead real
-- [ ] Cerrar primer cliente
+### Objetivos
+- Escape del trabajo tradicional
+- Building: Zaltyko (SaaS para academias)
+- Trading crypto automatizado
 
 ---
 
-## Tags Importantes
+## 📊 Decisiones Clave
 
-- #decision - Decisiones de negocio
-- #lesson - Aprendiza
+### 2026-02-26
+- Setup de equipo de agentes: Rex, Cierra, Copy, Tech
+- Workflow paralelo por canales Discord
+- Sistema de correcciones (self-improver)
+- Daily Research + Evening Review
+
+### 2026-02-25
+- Cambio de KuCoin a Asterdex
+- Implementación de Articles of Cooperation
+- CRM limpio (leads reales)
+
+---
+
+## 🔧 Configuraciones
+
+### APIs Activas
+- MiniMax (principal)
+- OpenRouter (fallback)
+
+### APIs Pendientes
+- Brevo (necesita nueva key)
+- Gmail (necesita autorización)
+
+### Scripts
+- Trading: ~/zaltyko-os/scripts/
+- Scrapling: ~/zaltyko-os/scripts/scrapling_tool.py
+
+---
+
+## 📈 Patterns de Trabajo
+
+### Cómo pedirme cosas
+1.直接 - máximo 3 opciones
+2. Si puedo arreglarlo en 2 min → lo hago
+3. Resumen al final de sesiones importantes
+
+### Auto-save
+- Decisiones → MEMORY.md + daily
+- Errores → errors.md
+- Proyectos → projects/*.md
+
+---
+
+## 📅 Tareas Pendientes
+
+### Alta Prioridad
+- [ ] Resolver API trading (Asterdex)
+- [ ] Configurar nueva API Brevo
+
+### Media Prioridad
+- [ ] Probar workflow de canales Discord
+- [ ] Setup Morning Research
+
+---
+
+## 🧠 Lecciones
+
+1. **No inventar datos** - CRM limpio > CRM lleno
+2. **Governance funciona** - Agentes con territorios definidos
+3. **Automatizar sin spam** - Calidad > Cantidad
+4. **Auto-save crítico** - Si no lo grabo, se pierde
+
+---
+
+## Etiquetas
+
+- #decision - Decisiones importantes
+- #lesson - Aprendizados
 - #lead - Leads de Zaltyko
-- #config - Configuraciones importantes
-- #blocker - Bloqueos pendientes
+- #config - Configuraciones
+- #blocker - Bloqueos
+- #trading - Trading crypto
+- #workflow - Workflows activos
 
 ---
 
-*Última actualización: 2026-02-18 15:30*
-*Tota 🦊*
-
-### 2026-02-18 - tarde
-- Implementé automatizaciones 24/7:
-  - Lead Research 3x/día (busca leads reales)
-  - Check Responses cada hora
-  - Health Check cada hora
-  - CRM Workflow automatizado
-  - Onboarding welcome webhook
-- Sistema ahora fluye solo
-
-
-### Corrección importante (2026-02-18):
-- mitotabot@gmail.com = Mi email (Tota/agent)
-- elvisvaldes544@gmail.com = Email de Elvis (owner)
-
-### 2026-02-19 - 21:30
-- **Recordatorio Gmail**: Elvis debe ejecutar `gog auth add elvisvaldes544@gmail.com` para autorizar acceso a Gmail
-  - pending_action: ejecutar comando en terminal
-  - Estado: ⏰ Pendiente
-
-### 2026-02-19 - 21:35
-- **Autoauditoría aprobada por Elvis**: Me corregiré:
-  - ✅ Escribí IDENTITY.md (nombre: Tota, emoji: 🐻)
-  - ✅ Creé KERNEL.md con lo esencial de Elvis
-  - ✅ Regla: "2 min = hago, no pregunto"
-  - ✅ Resumen al final de sesión importante
-
-### 2026-02-19 - 22:10
-- **Implementé Mission Statement** (basado en tweet de Alex Finn):
-  - ✅ Mission: "Hacer crecer Zaltyko hasta primer cliente cerrado"
-  - ✅ Reverse Prompt: si no tengo tarea → me pregunto qué me acerca a la misión
-  - ✅ Nightly Mission Cron: cada día 23:00 me propongo tareas
-  - ✅ Context inclusion: la misión está en status.json y AGENTS.md
-
-### 2026-02-19 - 23:27
-- **Reglas de Operaciones actualizadas** (ELVIS MODE):
-  - ✅ Tavily como herramienta de búsqueda principal
-  - ✅ Stealth-browser como fallback
-  - ✅ NO ejecutar código de internet sin preguntar
-  - ✅ Puedo instalar tools desde repos oficiales sin pedir permiso
-  - ✅ Subagentes heredan estas reglas
-  - ✅ Objetivo: intentar TODO para alcanzar objetivos
-
+*Última actualización: 2026-02-26*
+*Totin 🐻*
