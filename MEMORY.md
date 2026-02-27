@@ -64,21 +64,9 @@
 
 ## 🔧 Configuraciones
 
-### APIs Activas
-- MiniMax (principal)
-- OpenRouter (fallback)
-
-### APIs Pendientes
-- Brevo (necesita nueva key)
-- Gmail (necesita autorización)
-
-### Scripts
-- Trading: ~/zaltyko-os/scripts/
-- Scrapling: ~/zaltyko-os/scripts/scrapling_tool.py
-
 ---
 
-## 📈 Patterns de Trabajo
+## Etiquetas
 
 ### Cómo pedirme cosas
 1.直接 - máximo 3 opciones

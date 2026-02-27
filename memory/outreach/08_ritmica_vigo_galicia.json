@@ -1,0 +1,16 @@
+{
+  "lead": {
+    "nombre": "Rítmica Vigo",
+    "provincia": "Pontevedra",
+    "region": "Galicia",
+    "web": "https://ritmovigo.com",
+    "email": "info@ritmovigo.com",
+    "telefono": "672230437"
+  },
+  "email": {
+    "subject": "Gestión централизada para Rítmica Vigo",
+    "body": "Hola,\n\nSomos Zaltyko, software de gestión para clubes de gimnásia rítmica.\n\nVi que lleváis Rítmica Vigo con presencia en toda Galicia y me pregunté: ¿cómo estáis gestionando hoy las inscripciones, cobros y comunicación con las familias?\n\nCon Zaltyko podríais:\n- Automatizar cobros recurrentes (mensualidades, anualidades)\n- Gestionar grupos, categorías y niveles\n- Comunicaros con padres sin perder tiempo en WhatsApps\n- Tener todo centralizado:_asistencias, pagos, eventos\n- Eliminar hojas de cálculo y mensajes perdidos\n\nEs gratis empezar y os lleva 15 minutos configurar todo.\n\n¿Queréis ver cómo funciona? Podéis entrar en zaltyko.com o si prefieres,schedule una llamada rápida y os mostrado en 10 minutos.\n\nUn saludo,\nElvis\nZaltyko - zaltyko.com",
+    "notas": "Lead de alta prioridad: tiene web activa, teléfono y email profesional"
+  },
+  "timestamp": "2026-02-27T13:41:00Z"
+}

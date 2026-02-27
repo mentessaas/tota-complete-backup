@@ -37,20 +37,7 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ---
 
-### Trading
-
-**KuCoin:** ✅ API运作正常
-- API Key: `878483cd310dafb51a9817e8da1dd4e37de15638661d2b1ff0f18d78d360359a`
-- Secret: `909acf6898599f35d0c2d6b35e1a8026ca3a26ebfa776afcdce69d1089969401`
-- Balance Futures: $222.00 USDT
-**Hyperliquid:** ✅ Testnet funcionando
-- Script: `~/zaltyko-os/scripts/hyperliquid_bot.py`
-- Docs: `https://hyperliquid.gitbook.io`
-- Símbolos: BTC/USDC:USDC, ETH/USDC:USDC, SOL/USDC:USDC
-
----
-
-### Scrapling (Web Scraping)
+### Pending (Lo que necesito de Elvis)
 
 - **Script:** `~/zaltyko-os/scripts/scrapling_tool.py`
 - **venv:** `~/.openclaw/workspace/.venv/`

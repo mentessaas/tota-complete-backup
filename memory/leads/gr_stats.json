@@ -1,0 +1,36 @@
+{
+  "total": 63,
+  "regions": {
+    "Galicia": 6,
+    "Asturias": 1,
+    "Madrid": 7,
+    "Cataluña": 6,
+    "C. Valenciana": 6,
+    "Andalucía": 8,
+    "Castilla y León": 6,
+    "Canarias": 2,
+    "Islas Baleares": 3,
+    "Aragón": 3,
+    "País Vasco": 3,
+    "Navarra": 1,
+    "La Rioja": 1,
+    "Cantabria": 1,
+    "Extremadura": 2,
+    "Castilla-La Mancha": 5,
+    "Murcia": 2
+  },
+  "top_provincias": {
+    "Madrid": 7,
+    "Barcelona": 6,
+    "Valencia": 4,
+    "Islas Baleares": 3,
+    "Lugo": 2,
+    "A Coruña": 2,
+    "Murcia": 2,
+    "Gijón": 1,
+    "Sevilla": 1,
+    "Granada": 1
+  },
+  "source": "Investigación Zaltyko",
+  "date": "2026-02-26"
+}

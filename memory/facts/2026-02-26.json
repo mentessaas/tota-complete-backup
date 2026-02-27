@@ -2,41 +2,71 @@
   {
     "fact": "| market-analyst | \u2705 Integrad (SKILL + SOUL) |",
     "source": "daily_log",
-    "timestamp": "2026-02-26T15:40:37.419804"
+    "timestamp": "2026-02-26T23:02:09.241489"
   },
   {
     "fact": "| risk-manager | \u2705 Eliminado (vac\u00edo) |",
     "source": "daily_log",
-    "timestamp": "2026-02-26T15:40:37.419810"
+    "timestamp": "2026-02-26T23:02:09.241498"
   },
   {
     "fact": "| research_lead | \u2705 OK |",
     "source": "daily_log",
-    "timestamp": "2026-02-26T15:40:37.419813"
+    "timestamp": "2026-02-26T23:02:09.241501"
   },
   {
     "fact": "| research-agent | \u2705 OK |",
     "source": "daily_log",
-    "timestamp": "2026-02-26T15:40:37.419815"
+    "timestamp": "2026-02-26T23:02:09.241503"
   },
   {
     "fact": "## Estado: \u2705 AL D\u00cdA",
     "source": "daily_log",
-    "timestamp": "2026-02-26T15:40:37.419820"
+    "timestamp": "2026-02-26T23:02:09.241508"
   },
   {
-    "fact": "\u2705 Scan de memoria y proyectos",
+    "fact": "| Setup estructura | \u2705 | Optimizaci\u00f3n completada |",
     "source": "daily_log",
-    "timestamp": "2026-02-26T15:40:37.419873"
+    "timestamp": "2026-02-26T23:02:09.241562"
   },
   {
-    "fact": "\u2705 Verificaci\u00f3n de CoinGecko (funciona)",
+    "fact": "| Memory system | \u2705 | Facts, Events, Projects working |",
     "source": "daily_log",
-    "timestamp": "2026-02-26T15:40:37.419876"
+    "timestamp": "2026-02-26T23:02:09.241565"
   },
   {
-    "fact": "\u2705 Actualizado trading.md",
+    "fact": "| Lead Research | \u2705 | 12-15 clubs encontrados |",
     "source": "daily_log",
-    "timestamp": "2026-02-26T15:40:37.419878"
+    "timestamp": "2026-02-26T23:02:09.241568"
+  },
+  {
+    "fact": "| Crons activos | \u2705 | 15+ crons running |",
+    "source": "daily_log",
+    "timestamp": "2026-02-26T23:02:09.241570"
+  },
+  {
+    "fact": "| Proactive 4h | \u2705 | Scan working |",
+    "source": "daily_log",
+    "timestamp": "2026-02-26T23:02:09.241573"
+  },
+  {
+    "fact": "| Discord delivery | \u274c | Crons no pueden publicar |",
+    "source": "daily_log",
+    "timestamp": "2026-02-26T23:02:09.241578"
+  },
+  {
+    "fact": "| Trading API | \u274c | Sin permisos |",
+    "source": "daily_log",
+    "timestamp": "2026-02-26T23:02:09.241581"
+  },
+  {
+    "fact": "| Gmail auth | \u274c | Pendiente Elvis |",
+    "source": "daily_log",
+    "timestamp": "2026-02-26T23:02:09.241583"
+  },
+  {
+    "fact": "| Brevo API | \u274c | Pendiente Elvis |",
+    "source": "daily_log",
+    "timestamp": "2026-02-26T23:02:09.241585"
   }
 ]

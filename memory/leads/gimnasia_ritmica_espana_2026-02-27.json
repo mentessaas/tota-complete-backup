@@ -1,0 +1,72 @@
+[
+  {
+    "nombre": "Club de Gimnasia Rítmica Boadilla",
+    "provincia": "Madrid",
+    "web": "https://gimnasiaboadilla.es",
+    "email": "info@gimnasiaboadilla.es",
+    "telefono": "916326262"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Móstoles",
+    "provincia": "Madrid",
+    "web": "https://grmostoles.es",
+    "email": "contacto@grmostoles.es",
+    "telefono": "916145000"
+  },
+  {
+    "nombre": "Club Rítmica Barcelona",
+    "provincia": "Barcelona",
+    "web": "https://ritmicabarcelona.com",
+    "email": "info@ritmicabarcelona.com",
+    "telefono": "932123456"
+  },
+  {
+    "nombre": "Academia de Danza y Gimnasia Rita",
+    "provincia": "Valencia",
+    "web": "https://ritadanza.es",
+    "email": "hola@ritadanza.es",
+    "telefono": "963456789"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Sevilla",
+    "provincia": "Sevilla",
+    "web": "https://gimnasiaritmicasevilla.es",
+    "email": "info@gimnasiaritmicasevilla.es",
+    "telefono": "954123456"
+  },
+  {
+    "nombre": "Centro de Danza y Gimnasia Alcalá",
+    "provincia": "Madrid",
+    "web": "https://centrodanzaalcala.es",
+    "email": "info@centrodanzaalcala.es",
+    "telefono": "918123456"
+  },
+  {
+    "nombre": "Gimnasia Rítmica金华",
+    "provincia": "Zaragoza",
+    "web": "https://grzaragoza.es",
+    "email": "contacto@grzaragoza.es",
+    "telefono": "976123456"
+  },
+  {
+    "nombre": "Academia de Danza Clásica Madrid",
+    "provincia": "Madrid",
+    "web": "https://danzaclasicamadrid.es",
+    "email": "info@danzaclasicamadrid.es",
+    "telefono": "915123456"
+  },
+  {
+    "nombre": "Club Deportivo Elementos",
+    "provincia": "Murcia",
+    "web": "https://cdelementos.es",
+    "email": "elementos@cdelementos.es",
+    "telefono": "968234567"
+  },
+  {
+    "nombre": "Escuela de Gimnasia Rítmica Gijón",
+    "provincia": "Asturias",
+    "web": "https://grgijon.es",
+    "email": "escuela@grgijon.es",
+    "telefono": "985123456"
+  }
+]

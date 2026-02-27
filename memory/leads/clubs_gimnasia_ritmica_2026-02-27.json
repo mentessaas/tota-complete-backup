@@ -1,0 +1,98 @@
+[
+  {
+    "nombre": "Euritmia Gimnasia Rítmica",
+    "provincia": "Madrid",
+    "web": "https://ritmicaeuritmia.es",
+    "email": "ritmica.euritmia@gmail.com",
+    "telefono": "669 765 191",
+    "direccion": "C/ de las Hormigueras, 166 (Villa de Vallecas)"
+  },
+  {
+    "nombre": "ARABESKA Rhythmic Gymnastics",
+    "provincia": "Madrid",
+    "web": null,
+    "email": null,
+    "telefono": null,
+    "direccion": "C/ Olivillo, 4 (Latina)"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Málaga",
+    "provincia": "Málaga",
+    "web": "https://www.ritmicamalaga.com",
+    "email": null,
+    "telefono": null,
+    "direccion": "Málaga"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Ciudad de Sevilla",
+    "provincia": "Sevilla",
+    "web": "https://gimnasiaritmicasevilla.com",
+    "email": "clubritmicaciudaddesevilla@gmail.com",
+    "telefono": "628 758 419 / 601 24 82 89",
+    "direccion": "Sevilla"
+  },
+  {
+    "nombre": "CD SYDNEY 2000",
+    "provincia": "Sevilla",
+    "web": null,
+    "email": "ritmicasydney2000@gmail.com",
+    "telefono": null,
+    "direccion": "Parque Alcosa, San Pablo, Nervión"
+  },
+  {
+    "nombre": "Club Rítmica Fuengirola",
+    "provincia": "Málaga",
+    "web": "https://ritmicafuengirola.es",
+    "email": null,
+    "telefono": "633 13 53 15",
+    "direccion": "Fuengirola"
+  },
+  {
+    "nombre": "Gimnastur (A.D. Omega)",
+    "provincia": "Asturias",
+    "web": "https://www.gimnastur.com",
+    "email": "adomega_gr@hotmail.com",
+    "telefono": "606288325",
+    "direccion": "Oviedo"
+  },
+  {
+    "nombre": "CGR Donosti",
+    "provincia": "Gipuzkoa",
+    "web": "https://clubdonosti.com",
+    "email": "clubgrdonosti@gmail.com",
+    "telefono": null,
+    "direccion": "Donostia"
+  },
+  {
+    "nombre": "Club de Gimnasia Rítmica Iplacea Alkal´a",
+    "provincia": "Madrid",
+    "web": "https://www.ritmicaiplacea.com",
+    "email": "gr.iplaceacoordinacion@gmail.com",
+    "telefono": "692276300",
+    "direccion": "Pabellón Demetrio"
+  },
+  {
+    "nombre": "Rítmica Alaia",
+    "provincia": "Navarra",
+    "web": "https://ritmicaalaia.es",
+    "email": "info@ritmicaalaia.es",
+    "telefono": "606 221 306",
+    "direccion": "Polideportivo Municipal Valle de Egüés Olaz"
+  },
+  {
+    "nombre": "Club Deportivo Parque de Cataluña",
+    "provincia": "Madrid",
+    "web": "https://parquedecataluña.es",
+    "email": "administracion@cdpc.es",
+    "telefono": "916 56 85 37",
+    "direccion": "C/Hilados, 2, Torrejón de Ardoz"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Torrepaterna",
+    "provincia": "Valencia",
+    "web": "https://cgrtorrepaterna.wordpress.com",
+    "email": "torrepaterna@gmail.com",
+    "telefono": null,
+    "direccion": "Torrepaterna"
+  }
+]

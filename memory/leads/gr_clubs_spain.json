@@ -1,0 +1,343 @@
+[
+  {
+    "nombre": "Club Gimnasia Rítmica Burela",
+    "provincia": "Lugo",
+    "region": "Galicia",
+    "web": "https://cgburela.es/"
+  },
+  {
+    "nombre": "Club Rítmica Jovellanos",
+    "provincia": "Gijón",
+    "region": "Asturias",
+    "web": "https://ritmicajovellanos.com"
+  },
+  {
+    "nombre": "Club Deportivo Element",
+    "provincia": "Madrid",
+    "region": "Madrid",
+    "web": "https://cdelement.es"
+  },
+  {
+    "nombre": "Club Deportivo Aritmetic",
+    "provincia": "Madrid",
+    "region": "Madrid"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Alcorcón",
+    "provincia": "Madrid",
+    "region": "Madrid"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Rivas",
+    "provincia": "Madrid",
+    "region": "Madrid",
+    "web": "https://ritmicarivas.com",
+    "email": "inforitmica@ritmicarivas.com",
+    "telefono": "615340574"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Móstoles",
+    "provincia": "Madrid",
+    "region": "Madrid",
+    "web": "https://cgrmostoles.com",
+    "email": "cgrmostoles@gmail.com",
+    "telefono": "636806048"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Fuenlabrada",
+    "provincia": "Madrid",
+    "region": "Madrid",
+    "web": "https://ritmicafuenlabrada.com",
+    "notas": "CDE Rítmica Fuenlabrada. Tfno Ayuntamiento: 916076919"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Torrejón de Ardoz",
+    "provincia": "Madrid",
+    "region": "Madrid",
+    "web": "https://www.ritmicatorrejon.es",
+    "email": "web@ritmicatorrejon.es",
+    "telefono": "677175701"
+  },
+  {
+    "nombre": "Club Deportivo Gimnova",
+    "provincia": "Barcelona",
+    "region": "Cataluña",
+    "web": "https://gimnova.com"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Cornellà",
+    "provincia": "Barcelona",
+    "region": "Cataluña"
+  },
+  {
+    "nombre": "Club Rítmica Maresme",
+    "provincia": "Barcelona",
+    "region": "Cataluña"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Vallès",
+    "provincia": "Barcelona",
+    "region": "Cataluña"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Sabadell",
+    "provincia": "Barcelona",
+    "region": "Cataluña"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Terrassa",
+    "provincia": "Barcelona",
+    "region": "Cataluña"
+  },
+  {
+    "nombre": "Club Rítmica Valencia",
+    "provincia": "Valencia",
+    "region": "C. Valenciana"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Xàtiva",
+    "provincia": "Valencia",
+    "region": "C. Valenciana"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Sedaví",
+    "provincia": "Valencia",
+    "region": "C. Valenciana"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Alzira",
+    "provincia": "Valencia",
+    "region": "C. Valenciana"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Sevilla",
+    "provincia": "Sevilla",
+    "region": "Andalucía",
+    "web": "https://gimnasiasevilla.es"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Granada",
+    "provincia": "Granada",
+    "region": "Andalucía",
+    "web": "https://ritmicanazari.com",
+    "email": "c.d.ritmicacastell@gmail.com",
+    "telefono": "672175244"
+  },
+  {
+    "nombre": "Rítmica Málaga",
+    "provincia": "Málaga",
+    "region": "Andalucía"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Almería",
+    "provincia": "Almería",
+    "region": "Andalucía"
+  },
+  {
+    "nombre": "Club Deportivo Egiba",
+    "provincia": "Jaén",
+    "region": "Andalucía",
+    "web": "https://egiba.es"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Córdoba",
+    "provincia": "Córdoba",
+    "region": "Andalucía"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Cádiz",
+    "provincia": "Cádiz",
+    "region": "Andalucía"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Huelva",
+    "provincia": "Huelva",
+    "region": "Andalucía"
+  },
+  {
+    "nombre": "Rítmica Valladolid",
+    "provincia": "Valladolid",
+    "region": "Castilla y León",
+    "web": "https://ritmicavalladolid.es"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Burgos",
+    "provincia": "Burgos",
+    "region": "Castilla y León"
+  },
+  {
+    "nombre": "Club de Gimnasia Rítmica Salamanca",
+    "provincia": "Salamanca",
+    "region": "Castilla y León"
+  },
+  {
+    "nombre": "Gimnasia Rítmica León",
+    "provincia": "León",
+    "region": "Castilla y León"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Segovia",
+    "provincia": "Segovia",
+    "region": "Castilla y León"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Palencia",
+    "provincia": "Palencia",
+    "region": "Castilla y León"
+  },
+  {
+    "nombre": "Rítmica Vigo",
+    "provincia": "Pontevedra",
+    "region": "Galicia",
+    "web": "https://ritmovigo.com",
+    "email": "info@ritmovigo.com",
+    "telefono": "672230437"
+  },
+  {
+    "nombre": "Gimnasia Rítmica A Coruña",
+    "provincia": "A Coruña",
+    "region": "Galicia"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Lugo",
+    "provincia": "Lugo",
+    "region": "Galicia"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Ourense",
+    "provincia": "Ourense",
+    "region": "Galicia"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Santiago de Compostela",
+    "provincia": "A Coruña",
+    "region": "Galicia"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Tenerife",
+    "provincia": "Santa Cruz de Tenerife",
+    "region": "Canarias"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Las Palmas",
+    "provincia": "Las Palmas",
+    "region": "Canarias"
+  },
+  {
+    "nombre": "Club Rítmica Mallorca",
+    "provincia": "Islas Baleares",
+    "region": "Islas Baleares"
+  },
+  {
+    "nombre": "Club Rítmica Ibiza",
+    "provincia": "Islas Baleares",
+    "region": "Islas Baleares"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Menorca",
+    "provincia": "Islas Baleares",
+    "region": "Islas Baleares"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Zaragoza",
+    "provincia": "Zaragoza",
+    "region": "Aragón",
+    "web": "https://ritmicazaragoza.es"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Huesca",
+    "provincia": "Huesca",
+    "region": "Aragón"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Teruel",
+    "provincia": "Teruel",
+    "region": "Aragón"
+  },
+  {
+    "nombre": "Club Deportivo Baskonia (Rítmica)",
+    "provincia": "Vitoria",
+    "region": "País Vasco"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Bilbao",
+    "provincia": "Bilbao",
+    "region": "País Vasco",
+    "web": "https://ritmicabilbao.com"
+  },
+  {
+    "nombre": "Gimnasia Rítmica San Sebastián",
+    "provincia": "Guipúzcoa",
+    "region": "País Vasco"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Navarra",
+    "provincia": "Navarra",
+    "region": "Navarra"
+  },
+  {
+    "nombre": "Gimnasia Rítmica La Rioja",
+    "provincia": "La Rioja",
+    "region": "La Rioja"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Cantabria",
+    "provincia": "Cantabria",
+    "region": "Cantabria"
+  },
+  {
+    "nombre": "Rítmica Cáceres",
+    "provincia": "Cáceres",
+    "region": "Extremadura"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Badajoz",
+    "provincia": "Badajoz",
+    "region": "Extremadura"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Albacete",
+    "provincia": "Albacete",
+    "region": "Castilla-La Mancha"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Ciudad Real",
+    "provincia": "Ciudad Real",
+    "region": "Castilla-La Mancha"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Cuenca",
+    "provincia": "Cuenca",
+    "region": "Castilla-La Mancha"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Guadalajara",
+    "provincia": "Guadalajara",
+    "region": "Castilla-La Mancha"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Toledo",
+    "provincia": "Toledo",
+    "region": "Castilla-La Mancha"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Murcia",
+    "provincia": "Murcia",
+    "region": "Murcia"
+  },
+  {
+    "nombre": "Club Rítmica Cartagena",
+    "provincia": "Murcia",
+    "region": "Murcia"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Alicante",
+    "provincia": "Alicante",
+    "region": "C. Valenciana"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Castellón",
+    "provincia": "Castellón",
+    "region": "C. Valenciana"
+  }
+]
