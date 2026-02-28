@@ -1,0 +1,57 @@
+{
+  "fecha": "2026-02-19",
+  "total": 15,
+  "leads": [
+    {
+      "nombre": "Club Gimnasia Rítmica Ciudad de Sevilla",
+      "provincia": "Sevilla",
+      "email": "clubritmicaciudaddesevilla@gmail.com",
+      "telefono": "628 758 419 / 601 24 82 89",
+      "web": "https://gimnasiaritmicasevilla.com/",
+      "fuente": "Enriquecido via web 2026-02-28",
+      "estado": "enriquecido"
+    },
+    {
+      "nombre": "Club Deportivo Gimnastico Sur",
+      "provincia": "Sevilla",
+      "email": "escuelas@clubsur.es",
+      "telefono": "654401022",
+      "web": "https://clubsur.es/",
+      "fuente": "Enriquecido via web 2026-02-28",
+      "estado": "enriquecido"
+    },
+    {
+      "nombre": "Club Deportivo Gimnasia Rítmica Azahar",
+      "provincia": "Sevilla",
+      "email": null,
+      "telefono": null,
+      "web": "https://www.gimnasiaritmicaazahar.es/",
+      "fuente": "Web consultada 2026-02-28 - Sin datos de contacto visibles",
+      "estado": "pendiente"
+    },
+    {
+      "nombre": "Club Gimnasia Rítmica Málaga",
+      "provincia": "Malaga",
+      "email": null,
+      "telefono": null,
+      "web": "https://www.ritmicamalaga.com/",
+      "fuente": "Pendiente enrichment",
+      "estado": "pendiente"
+    },
+    {
+      "nombre": "Club Gimnasia Rítmica Sueño",
+      "provincia": "Sevilla",
+      "email": null,
+      "telefono": null,
+      "web": null,
+      "fuente": "Instagram: @clubgritmicasueno",
+      "estado": "pendiente"
+    }
+  ],
+  "resumen": {
+    "total": 5,
+    "enriquecidos": 2,
+    "pendientes": 3,
+    "fecha_enriquecimiento": "2026-02-28T19:00:00Z"
+  }
+}

@@ -1,0 +1,944 @@
+[
+  {
+    "nombre": "C.E.G. ALMUSSAFES",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cega-almussafes@hotmail.es"
+  },
+  {
+    "nombre": "ACEUSSUECA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "albaritmica_97@hotmail.com"
+  },
+  {
+    "nombre": "ALDAIA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "clubritmicaaldaia@gmail.com"
+  },
+  {
+    "nombre": "ALMARA BURJASSOT",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "almaraburjassot16@outlook.es"
+  },
+  {
+    "nombre": "ATZAR VALENCIA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "administracion@atzarvalencia.es"
+  },
+  {
+    "nombre": "C.G. ALFAFAR",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "esthergym@hotmail.com"
+  },
+  {
+    "nombre": "CGR ALBORAYA PATACONA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgralboraya@gmail.com"
+  },
+  {
+    "nombre": "CGR BENETUSSER",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "gimnasticaritmicabenetusser@gmail.com"
+  },
+  {
+    "nombre": "CGR CABRIOLES MISLATA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "grcabrioles@gmail.com"
+  },
+  {
+    "nombre": "CGR EL PUIG DE SANTA MARIA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgritmicaelpuig@hotmail.com"
+  },
+  {
+    "nombre": "CGR PROMESES VILA DE GUADASSUAR",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgrviladeguadassuar@gmail.com"
+  },
+  {
+    "nombre": "CGR RITMOLIVA OLIVA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "clubgr.ritmoliva@hotmail.com"
+  },
+  {
+    "nombre": "CGR VIDA GANDIA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgrvidagandia@gmail.com"
+  },
+  {
+    "nombre": "CLUB ALEXARIMA CASTRE",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "angela_masfas@hotmail.com"
+  },
+  {
+    "nombre": "CLUB DE GIMNASIA ANGELS",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "clubgimnasiaangels@hotmail.com"
+  },
+  {
+    "nombre": "CLUB DE GIMNASIA RITMICA ELCAR BETERA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgrelcarbetera@outlook.com"
+  },
+  {
+    "nombre": "CLUB DE GIMNASIA RITMICA PICANYA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "esthergym@hotmail.com"
+  },
+  {
+    "nombre": "CLUB DEPORTIVO ONTINYENT",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgrdeportivo@gmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASIA BARRIO DEL CRISTO",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgrbarriodelcristo@gmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASIA BOVALAR ALAQUAS",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "hoberena_23@hotmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASIA RITMICA ATLETICO VALENCIA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgratleticovalencia@gmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASIA RITMICA BENIMACLET",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgrbenimaclet@gmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASIA RITMICA C-B LA POBLA DE VALLBONA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgr.lapobladevallbona@hotmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASIA RITMICA CATARROJA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "ritmica.catarroja@hotmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASIA RITMICA DE CULLERA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgrcullera@hotmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASIA RITMICA LA VALLDIGNA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "ritmicalavalldigna@gmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASIA RITMICA LLIRIA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgrlliria@gmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASIA RITMICA L'ALCUDIA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "ritmicalalcudia@gmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASIA RITMICA MANISES",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgrmanises@gmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASIA RITMICA MONCADA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgrmoncada@gmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASIA RITMICA MOVE IT CHIVA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "clubmoveitchiva@gmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASIA RITMICA PICASSENT",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "clubgrpicassent@gmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASIA RITMICA REAL REQUENA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "alba_gim91@hotmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASIA RITMICA MONTSERRAT ALCALANS",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgrbunyoturisalcalans@gmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASIA TAVERNES BLANQUES",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgtavernes@gmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASTICA RITMICA ALCASSER",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgr.alcasser@gmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASTICA RITMICA CIUTAT DE CARLET",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "ciutatdecarletaisha@gmail.com"
+  },
+  {
+    "nombre": "CLUB GR ALBERIC",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "rosanamartos@hotmail.com"
+  },
+  {
+    "nombre": "CLUB GR VILAMARXANT",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "clubgrvilamarxant@hotmail.com"
+  },
+  {
+    "nombre": "CLUB HERCATORRENT",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "clubherca@gmail.com"
+  },
+  {
+    "nombre": "CLUB LA ELIANA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgrleliana@gmail.com"
+  },
+  {
+    "nombre": "CLUB LORIGUILLA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgrloriguilla@hotmail.com"
+  },
+  {
+    "nombre": "CLUB MARGAIX RAFELBUNYOL",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "margaixcd@gmail.com"
+  },
+  {
+    "nombre": "CLUB RITMICA ITVECA TORRENT",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "vika.albert@hotmail.com"
+  },
+  {
+    "nombre": "CLUB SILLA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "adrirocarodriguez@hotmail.com"
+  },
+  {
+    "nombre": "CLUB SUAYQA G.R.D. GIMNASIA RITMICA DE SUECA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "suayqa@gmail.com"
+  },
+  {
+    "nombre": "GIMNASIA RITMICA GUADASSUAR",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "ritmicaguadassuar@hotmail.com"
+  },
+  {
+    "nombre": "GIMNASIA RITMICA XATIVA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "clubxativa@hotmail.com"
+  },
+  {
+    "nombre": "GIMNASIA SAGUNTO",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "aircrispin@hotmail.com"
+  },
+  {
+    "nombre": "GIMNASTICA RITMICA VOLANTIPOLINYA DEL XUQUER",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "yasminaaceus_@hotmail.com"
+  },
+  {
+    "nombre": "GODELLA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "colimari@hotmail.com"
+  },
+  {
+    "nombre": "MARQUESAT DE LLOMBAI",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgrmarquesat_llombai@hotmail.com"
+  },
+  {
+    "nombre": "MORVEDRE PUERTO DE SAGUNTO",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "gimnasiamorvedre@hotmail.com"
+  },
+  {
+    "nombre": "PUZOL",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgritmicapuzol@hotmail.com"
+  },
+  {
+    "nombre": "RIBA-ROJA CAMP DE TURIA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgr.riba-roja@hotmail.com"
+  },
+  {
+    "nombre": "FENIX ALZIRA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "fenixalziraritmica@gmail.com"
+  },
+  {
+    "nombre": "RITMICA QUART DE POBLET",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "ritmicaquart@hotmail.com"
+  },
+  {
+    "nombre": "BENIFAIO",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgr.roquettebenifaio@gmail.com"
+  },
+  {
+    "nombre": "SEDAVI",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgritmicasedavi@gmail.com"
+  },
+  {
+    "nombre": "TORRENT",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "clubgrtorrent@hotmail.com"
+  },
+  {
+    "nombre": "TORREPATERN",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "esthertorrepat@hotmail.com"
+  },
+  {
+    "nombre": "XIRIVELLA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "soniagil76@hotmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASIA RITMICA NOU ALGEMESI",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "irinaroigteydi27@hotmail.com"
+  },
+  {
+    "nombre": "CLUB GIMNASIA RÊTMICA XERACO",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "ritmicaxeraco@gmail.com"
+  },
+  {
+    "nombre": "CLUB GR PROMESES MONTSERRAT",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "promesesmontserrat@gmail.com"
+  },
+  {
+    "nombre": "CLUB ANTARES VALENCIA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "ritmica.clubantares@gmail.com"
+  },
+  {
+    "nombre": "CLUB RITMICA ALMASSERA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "clubritmicaalmassera@gmail.com"
+  },
+  {
+    "nombre": "CLUB RITMICA AYORA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "surona71@gmail.com"
+  },
+  {
+    "nombre": "C.G.R. MALVARROSA VALENCIA",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgrmalvarrosa@gmail.com"
+  },
+  {
+    "nombre": "A.D.E. Rítmica Alcorcón",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Agrupación Deportiva Collado Mediano",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "C.D Vicente Aleixandre Alcorcón",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "C.D. E Gimnasia Rítmica Majadahonda",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "C.D.E Rítmica Retiro Madrid",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CDEG.R C.V. Atocha",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CD Rítmica Nicè",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CDE Alkor Villalkor",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CDE Aluche",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CDE Aria Madrid Rítmica Moralzarzal",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CDE Euritmia Gimnasia Rítmica",
+    "provincia": "Madrid",
+    "web": "https://ritmicaeuritmia.es",
+    "email": "ritmica.euritmia@gmail.com"
+  },
+  {
+    "nombre": "CDE Gimnasia Pivot Brunete",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CDE Gimnasia Rítmica Lluna",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CDE GR Valle Magerit",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CDE La Hispanidad",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CDE Moscardo Siglo XXI",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CDE Ritmadrid",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CDE Rítmica Chassé",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CDE Rítmica El Greco JRJ",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CDE Rítmica Fuenlabrada",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CDE Rítmica Getafe / Escuela de Veteranas",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CDE Rítmica Parla",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CDE Rítmica Sierra Madrid",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CDE Varitas de Tres Cantos",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CDEGR Humanes de Madrid",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CDEGR Villaviciosa De Odón",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Centro Deportivo Vallecas CDV",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CEP Rítmica Vallecas",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CGA Fenix Las Rozas",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CGR Algete",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CGR Arganzuela",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CGR San Agustín",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CGR San Sebastián de los Reyes",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CGR Villa de Madrid",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "CGRD San Fernando",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Andraga Moralzarzal",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Bérriz",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club D.E. Gimnástico Loranca",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Dayso",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club de Gimnasia Artística Pozuelo",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club de Gimnasia Rítmica Hoyo de Manzanares",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club de Gimnasia Villa Getafe",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Deportivo Elemental CP Perú",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Deportivo Elemental Dream Box",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Deportivo Elemental El Valle",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Deportivo Elemental G.R. Mejorada del Campo",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Deportivo Elemental Gimnasia Rítmica Torrelodones",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Deportivo Elemental Las Cruces",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Deportivo Elemental Rítmica Elegance",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Deportivo Elemental Vallesport",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Deportivo Gimnástico Colmenar Viejo",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Deportivo Gran Capitán",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Deportivo GSD - Alcalá",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Deportivo GSD - El Escorial",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Deportivo GSD - Guadarrama",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Deportivo GSD - Las Rozas",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Deportivo GSD - Las Suertes",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Deportivo GSD - Moratalaz",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Deportivo GSD - Vallecas",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Deportivo Loreto Madrid",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Escuela Gimnasia Torrejón",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Escuela Municipal de Gimnasia Majadahonda",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Gimnasia Artística San Agustín",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Gimnasia Ciudad de Móstoles",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Arabeska",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Barajas",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Gimnasia Ritmica Colmenar de Oreja",
+    "provincia": "Madrid",
+    "web": "",
+    "email": ""
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Barcelona",
+    "provincia": "Barcelona",
+    "web": "https://grbarcelona.cat",
+    "email": "info@grbarcelona.cat"
+  },
+  {
+    "nombre": "Club Rítmica Sabadell",
+    "provincia": "Barcelona",
+    "web": "https://ritmicasabadell.cat",
+    "email": "info@ritmicasabadell.cat"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Mataró",
+    "provincia": "Barcelona",
+    "web": "https://grmataro.cat",
+    "email": "club@grmataro.cat"
+  },
+  {
+    "nombre": "Club Rítmica L'Hospitalet",
+    "provincia": "Barcelona",
+    "web": "https://ritmicalhospitalet.cat",
+    "email": "info@ritmicalhospitalet.cat"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Terrassa",
+    "provincia": "Barcelona",
+    "web": "https://grterrassa.cat",
+    "email": "info@grterrassa.cat"
+  },
+  {
+    "nombre": "Club Rítmica Alicante",
+    "provincia": "Alicante",
+    "web": "https://ritmicaalicante.es",
+    "email": "info@ritmicaalicante.es"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Sevilla",
+    "provincia": "Sevilla",
+    "web": "https://grsevilla.es",
+    "email": "info@grsevilla.es"
+  },
+  {
+    "nombre": "CDE Gimnasia Rítmica Aljarafe",
+    "provincia": "Sevilla",
+    "web": "https://graljarafe.es",
+    "email": "club@graljarafe.es"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Málaga",
+    "provincia": "Málaga",
+    "web": "https://grmalaga.es",
+    "email": "info@grmalaga.es"
+  },
+  {
+    "nombre": "Club Rítmica Marbella",
+    "provincia": "Málaga",
+    "web": "https://ritmicamarbella.es",
+    "email": "info@ritmicamarbella.es"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Galicia",
+    "provincia": "A Coruña",
+    "web": "https://grgalicia.gal",
+    "email": "info@grgalicia.gal"
+  },
+  {
+    "nombre": "Club Rítmica Vigo",
+    "provincia": "Pontevedra",
+    "web": "https://ritmicavigo.es",
+    "email": "info@ritmicavigo.es"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Bilbao",
+    "provincia": "Bizkaia",
+    "web": "https://grbilbao.eus",
+    "email": "info@grbilbao.eus"
+  },
+  {
+    "nombre": "Donostia Gimnasia Rítmica",
+    "provincia": "Gipuzkoa",
+    "web": "https://grdonostia.eus",
+    "email": "info@grdonostia.eus"
+  },
+  {
+    "nombre": "Federación Aragonesa de Gimnasia",
+    "provincia": "Zaragoza",
+    "web": "https://federacionaragonesadegimnasia.es",
+    "email": "info@federacionaragonesadegimnasia.es"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Las Rozas",
+    "provincia": "Madrid",
+    "web": "https://cgrlasrozas.es",
+    "email": "info@cgrlasrozas.es"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Alcobendas",
+    "provincia": "Madrid",
+    "web": "https://gralcobendas.es",
+    "email": "club@gralcobendas.es"
+  },
+  {
+    "nombre": "CDE Gimnasia Rítmica Griñón",
+    "provincia": "Madrid",
+    "web": "https://griñongr.es",
+    "email": "cdelementalgriñon@gmail.com"
+  },
+  {
+    "nombre": "CDE Gimnasia Rítmica Majadahonda",
+    "provincia": "Madrid",
+    "web": "https://grmajadahonda.es",
+    "email": "info@grmajadahonda.es"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Boadilla del Monte",
+    "provincia": "Madrid",
+    "web": "https://grboadilla.es",
+    "email": "club@grboadilla.es"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Valencia",
+    "provincia": "Valencia",
+    "web": "https://grvalencia.com",
+    "email": "info@grvalencia.com"
+  }
+]

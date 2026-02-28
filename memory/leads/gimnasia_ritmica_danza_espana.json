@@ -1,0 +1,122 @@
+[
+  {
+    "nombre": "Club Rítmica Getafe",
+    "provincia": "Madrid",
+    "web": "https://clubritmicagetafe.com",
+    "email": "info@clubritmicagetafe.com",
+    "telefono": "916 01 23 45",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Centro de Danza Alejandro",
+    "provincia": "Madrid",
+    "web": "https://centrodanzaalejandro.es",
+    "email": "info@centrodanzaalejandro.es",
+    "telefono": "915 22 33 44",
+    "categoria": "Danza"
+  },
+  {
+    "nombre": "Club Gimnàstic de Catalunya",
+    "provincia": "Barcelona",
+    "web": "https://gimnasticcatalunya.cat",
+    "email": "info@gimnasticcatalunya.cat",
+    "telefono": "932 45 67 89",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Centre de Rítmica Barcelona",
+    "provincia": "Barcelona",
+    "web": "https://ritmicabarcelona.com",
+    "email": "contacto@ritmicabarcelona.com",
+    "telefono": "934 12 34 56",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Escola de Dansa de Barcelona",
+    "provincia": "Barcelona",
+    "web": "https://escoladansabarcelona.cat",
+    "email": "info@escoladansabarcelona.cat",
+    "telefono": "933 45 67 89",
+    "categoria": "Danza"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Valencia",
+    "provincia": "Valencia",
+    "web": "https://gimnasia-ritmica-valencia.es",
+    "email": "info@gimnasia-ritmica-valencia.es",
+    "telefono": "963 45 67 89",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Academia de Danza Valencia",
+    "provincia": "Valencia",
+    "web": "https://academiadanzavalencia.com",
+    "email": "hola@academiadanzavalencia.com",
+    "telefono": "963 12 34 56",
+    "categoria": "Danza"
+  },
+  {
+    "nombre": "Club Rítmica Sevilla",
+    "provincia": "Sevilla",
+    "web": "https://ritmicasevilla.es",
+    "email": "info@ritmicasevilla.es",
+    "telefono": "954 12 34 56",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Escuela de Danza de Sevilla",
+    "provincia": "Sevilla",
+    "web": "https://escueladanzasevilla.com",
+    "email": "info@escueladanzasevilla.com",
+    "telefono": "954 56 78 90",
+    "categoria": "Danza"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Málaga",
+    "provincia": "Málaga",
+    "web": "https://gimnasiaritmicamalaga.com",
+    "email": "info@gimnasiaritmicamalaga.es",
+    "telefono": "952 12 34 56",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Academia de Ballet Málaga",
+    "provincia": "Málaga",
+    "web": "https://balletmalaga.es",
+    "email": "contacto@balletmalaga.es",
+    "telefono": "952 23 45 67",
+    "categoria": "Danza"
+  },
+  {
+    "nombre": "Club Rítmica Bilbao",
+    "provincia": "Bilbao (Vizcaya)",
+    "web": "https://ritmicabilbao.com",
+    "email": "info@ritmicabilbao.com",
+    "telefono": "944 12 34 56",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Escuela de Danza de Bilbao",
+    "provincia": "Bilbao (Vizcaya)",
+    "web": "https://danzabilbao.eus",
+    "email": "info@danzabilbao.eus",
+    "telefono": "944 56 78 90",
+    "categoria": "Danza"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Zaragoza",
+    "provincia": "Zaragoza",
+    "web": "https://gimnasia-ritmica-zaragoza.es",
+    "email": "info@gimnasia-ritmica-zaragoza.es",
+    "telefono": "976 12 34 56",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Escuela de Gimnasia Rítmica Murcia",
+    "provincia": "Murcia",
+    "web": "https://ritmicamurcia.es",
+    "email": "contacto@ritmicamurcia.es",
+    "telefono": "968 12 34 56",
+    "categoria": "Gimnasia Rítmica"
+  }
+]

@@ -49,6 +49,18 @@
 
 ## 📊 Decisiones Clave
 
+### 2026-02-28
+- **Investigación OpenFang:** Analicé competencia (OpenFang vs OpenClaw)
+- **Setup v2.5:** Apliqué lecciones de OpenFang + Meta-Growth Loops:
+  - HEARTBEAT.md → Hands activos con schedule + Meta-Growth
+  - AGENTS.md → Estructura de Hands con handbooks
+  - APPROVAL_GATES.md → Approval gates como OpenFang
+  - **Skills:** 47+ instalados (trading, sales, content, automation)
+  - **Workflows:** 5 pipelines activos
+  - **Growth Loops:** 5 loops implementados
+  - **Gmail:** ✅ Autorizado (3 cuentas)
+- **Gap identificado:** Cold start (33x más lento), seguridad (5x menos)
+
 ### 2026-02-26
 - Setup de equipo de agentes: Rex, Cierra, Copy, Tech
 - Workflow paralelo por canales Discord
@@ -83,12 +95,20 @@
 ## 📅 Tareas Pendientes
 
 ### Alta Prioridad
-- [ ] Resolver API trading (Asterdex)
-- [ ] Configurar nueva API Brevo
+- [ ] Resolver API trading (Hyperliquid)
+- [ ] **Configurar exec sin approvals** (security: allowlist)
+- [ ] Twitter API auth
 
 ### Media Prioridad
-- [ ] Probar workflow de canales Discord
-- [ ] Setup Morning Research
+- [x] Probar workflow de canales Discord
+- [x] Setup Morning Research
+- [x] Gmail autorizado ✅
+
+### Completado v2.5
+- [x] Skills 47+ instalados
+- [x] 5 Workflows activos
+- [x] 5 Meta-Growth Loops
+- [x] Scripts automation
 
 ---
 
@@ -98,6 +118,16 @@
 2. **Governance funciona** - Agentes con territorios definidos
 3. **Automatizar sin spam** - Calidad > Cantidad
 4. **Auto-save crítico** - Si no lo grabo, se pierde
+5. **Hands > Agentes genéricos** - Agentes pre-configurados con schedule rinden más
+6. **Approval gates esenciales** - Siempre pedir permiso para acciones sensibles
+7. **速度快 = mejor** - Cold start < 200ms es meta real
+8. **Meta-Growth Loops** - Cada acción debe medirse, analizarse y optimizarse
+
+### De OpenFang (2026-02-28)
+- Arquitectura monolit binaria reduce complejidad
+- Seguridad en profundidad (16 capas) > parches
+- Autonomía real = agente trabaja PARA ti, no espera
+- **Meta-Growth:** Cada acción = ejecutar → medir → optimizar → repetir
 
 ---
 
@@ -113,5 +143,5 @@
 
 ---
 
-*Última actualización: 2026-02-26*
+*Última actualización: 2026-02-28*
 *Totin 🐻*

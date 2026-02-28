@@ -1,8 +1,0 @@
-[
-  {{
-    "name": "Caso básico 1",
-    "input": "input de prueba",
-    "expected": "output esperado",
-    "timeout": 30
-  }}
-]

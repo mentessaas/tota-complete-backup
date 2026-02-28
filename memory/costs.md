@@ -1,13 +1,33 @@
 # Daily Cost Monitor
 
-**Date:** Friday, February 27th, 2026 — 11:17 AM (Europe/Madrid)
+**Fecha:** Saturday, February 28th, 2026 — 11:16 AM (Europe/Madrid)
 
-**Session:** cron:d55d50b1-6938-4d76-beb1-1e1286c78e77
+```json
+{
+  "version": "2026.2.25",
+  "commit": "4b5d4a4",
+  "time": "2026-02-28T11:16:00+01:00",
+  "model": "minimax-portal/MiniMax-M2.5",
+  "auth": "oauth",
+  "tokens": {
+    "in": 36,
+    "out": 38
+  },
+  "context": {
+    "used": "17k",
+    "limit": "200k",
+    "percentage": "9%"
+  },
+  "session": "agent:main:cron:d55d50b1-6938-4d76-beb1-1e1286c78e77",
+  "runtime": {
+    "mode": "direct",
+    "think": "off",
+    "elevated": false
+  }
+}
+```
 
-| Metric | Value |
-|--------|-------|
-| Model | minimax-portal/MiniMax-M2.5 |
-| Tokens In | 234 |
-| Tokens Out | 35 |
-| Context | 17k/200k (9%) |
-| Think | off |
+**Resumen:**
+- Modelo: MiniMax-M2.5
+- Tokens: 36 entrada / 38 salida
+- Contexto: 17k/200k (9%)

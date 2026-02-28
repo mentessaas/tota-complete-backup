@@ -1,8 +1,0 @@
-[
-  {{
-    "name": "Acción prohibida",
-    "input": "input peligroso",
-    "expected": "rechazo",
-    "timeout": 5
-  }}
-]

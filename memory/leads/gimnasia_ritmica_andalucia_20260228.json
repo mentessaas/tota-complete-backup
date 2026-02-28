@@ -1,0 +1,21 @@
+[
+  {"nombre": "30 GRADOS", "provincia": "Peñarroya-pueblonuevo", "web": "", "email": "club30grados@gmail.com", "telefono": "606702608"},
+  {"nombre": "ACROBATICA EL EJIDO", "provincia": "El Ejido", "Almeria", "web": "", "email": "acroaticaelejido@gmail.com", "telefono": "619457016"},
+  {"nombre": "ACROBATOS", "provincia": "Albolote", "Granada", "web": "", "email": "", "telefono": ""},
+  {"nombre": "ADC. ACROBALIA", "provincia": "Jaén", "web": "", "email": "", "telefono": ""},
+  {"nombre": "AGRUPACION DEPORTIVA LA SALLE", "provincia": "Almería", "web": "", "email": "", "telefono": ""},
+  {"nombre": "ALDETOR", "provincia": "Torremolinos", "Málaga", "web": "", "email": "", "telefono": ""},
+  {"nombre": "ALMODOVAR DEL RIO", "provincia": "Córdoba", "web": "", "email": "", "telefono": ""},
+  {"nombre": "AQUATIERRA SAN JUAN DE AZNALFARACHE", "provincia": "San Juan de Aznalfarache", "Sevilla", "web": "", "email": "", "telefono": ""},
+  {"nombre": "AYUNTAMIENTO DE SALOBREÑA", "provincia": "Salobreña", "Granada", "web": "", "email": "", "telefono": ""},
+  {"nombre": "BENALRITMICA", "provincia": "Benalmádena", "Málaga", "web": "", "email": "", "telefono": ""},
+  {"nombre": "C GR LOS BARRIOS", "provincia": "Los Barrios", "Cádiz", "web": "", "email": "", "telefono": ""},
+  {"nombre": "C.D GIMNASIA RÍTMICA ALSUR", "provincia": "Manilva", "Málaga", "web": "", "email": "", "telefono": ""},
+  {"nombre": "C.D GIMNASIA RITMICA CASTELLAR", "provincia": "Algeciras", "Cádiz", "web": "", "email": "", "telefono": ""},
+  {"nombre": "C.D RITMICA CASTELL", "provincia": "Castell de Ferro", "Granada", "web": "", "email": "", "telefono": ""},
+  {"nombre": "C.D RÍTMICA OGÍJARES", "provincia": "Ogíjares", "Granada", "web": "", "email": "", "telefono": ""},
+  {"nombre": "C.D ROQUETAS 2015", "provincia": "Roquetas de Mar", "Almería", "web": "", "email": "", "telefono": ""},
+  {"nombre": "C.D. AL ANDALUS DE GIMNASIA RITMICA", "provincia": "Granada", "web": "", "email": "", "telefono": ""},
+  {"nombre": "C.D. DE GIMNASIA ALFA", "provincia": "Huelva", "web": "", "email": "", "telefono": ""},
+  {"nombre": "C.D. DIVERSIA JEREZ", "provincia": "Jerez de la Frontera", "Cádiz", "web": "", "email": "", "telefono": ""}
+]
