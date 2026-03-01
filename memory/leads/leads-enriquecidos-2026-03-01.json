@@ -1,0 +1,100 @@
+{
+  "fecha": "2026-03-01",
+  "hora": "13:59",
+  "total": 7,
+  "leads": [
+    {
+      "nombre": "Club Gimnasia Rítmica Ciudad de Sevilla",
+      "provincia": "Sevilla",
+      "email": "clubritmicaciudaddesevilla@gmail.com",
+      "telefono": "628 758 419 / 601 24 82 89",
+      "web": "https://gimnasiaritmicasevilla.com/",
+      "fuente": "Enriquecido via web 2026-02-28",
+      "estado": "enriquecido"
+    },
+    {
+      "nombre": "Club Deportivo Gimnastico Sur",
+      "provincia": "Sevilla",
+      "email": "escuelas@clubsur.es",
+      "telefono": "654401022",
+      "web": "https://clubsur.es/",
+      "fuente": "Enriquecido via web 2026-02-28",
+      "estado": "enriquecido"
+    },
+    {
+      "nombre": "CDE Euritmia Gimnasia Rítmica",
+      "provincia": "Madrid",
+      "email": "ritmica.euritmia@gmail.com",
+      "telefono": "669 765 191",
+      "web": "https://ritmicaeuritmia.es",
+      "fuente": "Enriquecido via web 2026-03-01",
+      "estado": "enriquecido"
+    },
+    {
+      "nombre": "Club Rítmica Fuengirola",
+      "provincia": "Málaga",
+      "email": null,
+      "telefono": "+34 633 13 53 15",
+      "web": "https://ritmicafuengirola.es",
+      "instagram": "@ritmicafuengirola",
+      "fuente": "Web scraping 2026-03-01 - Teléfono encontrado, email protegido Cloudflare",
+      "estado": "enriquecido"
+    },
+    {
+      "nombre": "Club Deportivo Gimnasia Rítmica Azahar",
+      "provincia": "Sevilla",
+      "email": null,
+      "telefono": null,
+      "web": "https://www.gimnasiaritmicaazahar.es/",
+      "instagram": "@gimnasiaritmicaazahar",
+      "fuente": "Web minima - sin datos contacto visibles. Web scraping no disponible.",
+      "estado": "pendiente"
+    },
+    {
+      "nombre": "Club Gimnasia Rítmica Málaga",
+      "provincia": "Málaga",
+      "email": null,
+      "telefono": null,
+      "web": "https://www.ritmicamalaga.com/",
+      "instagram": "@ritmicamalaga",
+      "facebook": "@clubgimnasiaritmicamalaga",
+      "twitter": "@ritmicamalaga",
+      "fuente": "Web no muestra email/telefono. Solo redes sociales.",
+      "estado": "pendiente"
+    },
+    {
+      "nombre": "Club Gimnasia Rítmica Sueño",
+      "provincia": "Sevilla",
+      "email": null,
+      "telefono": null,
+      "web": null,
+      "instagram": "@clubgritmicasueno",
+      "fuente": "Solo Instagram disponible",
+      "estado": "pendiente"
+    }
+  ],
+  "resumen": {
+    "total": 7,
+    "enriquecidos": 4,
+    "pendientes": 3,
+    "fecha_enriquecimiento": "2026-03-01T12:59:00Z",
+    "notas": "Web search API no disponible. Web scraping limitado. Añadido Club Rítmica Fuengirola con teléfono. 3 leads pendientes (necesitan email/telfono público o LinkedIn)."
+  },
+  "nuevos_datos_encontrados": {
+    "Club Gimnasia Rítmica Málaga": {
+      "instagram": "@ritmicamalaga",
+      "facebook": "@clubgimnasiaritmicamalaga",
+      "twitter": "@ritmicamalaga"
+    },
+    "Club Deportivo Gimnasia Rítmica Azahar": {
+      "instagram": "@gimnasiaritmicaazahar"
+    },
+    "Club Gimnasia Rítmica Sueño": {
+      "instagram": "@clubgritmicasueno"
+    },
+    "Club Rítmica Fuengirola": {
+      "telefono": "+34 633 13 53 15",
+      "instagram": "@ritmicafuengirola"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "fecha": "2026-02-19",
-  "total": 15,
+  "fecha": "2026-03-01",
+  "total": 6,
   "leads": [
     {
       "nombre": "Club Gimnasia Rítmica Ciudad de Sevilla",
@@ -21,6 +21,15 @@
       "estado": "enriquecido"
     },
     {
+      "nombre": "CDE Euritmia Gimnasia Rítmica",
+      "provincia": "Madrid",
+      "email": "ritmica.euritmia@gmail.com",
+      "telefono": "669 765 191",
+      "web": "https://ritmicaeuritmia.es",
+      "fuente": "Enriquecido via web 2026-03-01",
+      "estado": "enriquecido"
+    },
+    {
       "nombre": "Club Deportivo Gimnasia Rítmica Azahar",
       "provincia": "Sevilla",
       "email": null,
@@ -35,7 +44,7 @@
       "email": null,
       "telefono": null,
       "web": "https://www.ritmicamalaga.com/",
-      "fuente": "Pendiente enrichment",
+      "fuente": "Pendiente enrichment - web no funciona",
       "estado": "pendiente"
     },
     {
@@ -49,9 +58,9 @@
     }
   ],
   "resumen": {
-    "total": 5,
-    "enriquecidos": 2,
+    "total": 6,
+    "enriquecidos": 3,
     "pendientes": 3,
-    "fecha_enriquecimiento": "2026-02-28T19:00:00Z"
+    "fecha_enriquecimiento": "2026-03-01T01:59:00Z"
   }
 }

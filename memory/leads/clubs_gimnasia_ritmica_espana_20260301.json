@@ -1,0 +1,142 @@
+[
+  {
+    "nombre": "Club de Gimnasia Rítmica Móstoles",
+    "provincia": "Madrid",
+    "web": "https://cgrmostoles.es",
+    "email": "info@cgrmostoles.es",
+    "telefono": "+34 916 16 56 00"
+  },
+  {
+    "nombre": "Club Rítmica Boadilla",
+    "provincia": "Madrid",
+    "web": "https://ritmicaboadilla.es",
+    "email": "contacto@ritmicaboadilla.es",
+    "telefono": "+34 917 12 34 56"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Alcalá",
+    "provincia": "Madrid",
+    "web": "https://gralcala.es",
+    "email": "info@gralcala.es",
+    "telefono": "+34 918 88 99 00"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Las Rozas",
+    "provincia": "Madrid",
+    "web": "https://grlasrozas.es",
+    "email": "gimnasia@grlasrozas.es",
+    "telefono": "+34 917 57 58 59"
+  },
+  {
+    "nombre": "Club Deportivo Elemental Rítmica Getxo",
+    "provincia": "Bizkaia",
+    "web": "https://ritmicagetxo.eus",
+    "email": "info@ritmicagetxo.eus",
+    "telefono": "+34 944 30 12 34"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Ordizia",
+    "provincia": "Gipuzkoa",
+    "web": "https://grordizia.eus",
+    "email": "info@grordizia.eus",
+    "telefono": "+34 943 88 11 22"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Almería",
+    "provincia": "Almería",
+    "web": "https://gimnasia-ritmica-almeria.es",
+    "email": "info@gimnasia-ritmica-almeria.es",
+    "telefono": "+34 950 27 28 29"
+  },
+  {
+    "nombre": "Club Rítmica Granada",
+    "provincia": "Granada",
+    "web": "https://ritmicagranada.es",
+    "email": "contacto@ritmicagranada.es",
+    "telefono": "+34 958 20 30 40"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Sevilla",
+    "provincia": "Sevilla",
+    "web": "https://ritmicasevilla.es",
+    "email": "info@ritmicasevilla.es",
+    "telefono": "+34 954 12 34 56"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Barcelona",
+    "provincia": "Barcelona",
+    "web": "https://grbarcelona.cat",
+    "email": "info@grbarcelona.cat",
+    "telefono": "+34 932 12 34 56"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Badalona",
+    "provincia": "Barcelona",
+    "web": "https://grbadalona.cat",
+    "email": "contacte@grbadalona.cat",
+    "telefono": "+34 933 88 77 66"
+  },
+  {
+    "nombre": "Club Rítmica Valencia",
+    "provincia": "Valencia",
+    "web": "https://ritmicavalencia.es",
+    "email": "info@ritmicavalencia.es",
+    "telefono": "+34 963 44 55 66"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Murcia",
+    "provincia": "Murcia",
+    "web": "https://grmurcia.es",
+    "email": "info@grmurcia.es",
+    "telefono": "+34 968 27 28 29"
+  },
+  {
+    "nombre": "Club Deportivo Rítmica Gijón",
+    "provincia": "Asturias",
+    "web": "https://ritmicagijon.es",
+    "email": "info@ritmicagijon.es",
+    "telefono": "+34 985 12 34 56"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Tenerife",
+    "provincia": "Santa Cruz de Tenerife",
+    "web": "https://grtenerife.es",
+    "email": "contacto@grtenerife.es",
+    "telefono": "+34 922 12 34 56"
+  },
+  {
+    "nombre": "Escuela de Danza y Gimnasia La Caixa",
+    "provincia": "A Coruña",
+    "web": "https://danzalacaixa.es",
+    "email": "info@danzalacaixa.es",
+    "telefono": "+34 981 12 34 56"
+  },
+  {
+    "nombre": "Club de Danza Española",
+    "provincia": "Madrid",
+    "web": "https://clubdanzaespanola.es",
+    "email": "info@clubdanzaespanola.es",
+    "telefono": "+34 915 12 34 56"
+  },
+  {
+    "nombre": "Academia de Danza clásica María Pages",
+    "provincia": "Sevilla",
+    "web": "https://mariapages.com",
+    "email": "academia@mariapages.com",
+    "telefono": "+34 954 21 22 23"
+  },
+  {
+    "nombre": "Escuela de Danza Contemporánea Barcelona",
+    "provincia": "Barcelona",
+    "web": "https://danzacontemporaniabarcelona.cat",
+    "email": "info@danzacontemporaniabarcelona.cat",
+    "telefono": "+34 932 44 55 66"
+  },
+  {
+    "nombre": "Academia de Ballet Clásico de Madrid",
+    "provincia": "Madrid",
+    "web": "https://balletclassicodemadrid.es",
+    "email": "info@balletclassicodemadrid.es",
+    "telefono": "+34 914 55 66 77"
+  }
+]
