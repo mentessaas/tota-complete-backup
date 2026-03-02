@@ -1,45 +1,32 @@
-# Persona: Elvis
+# Elvis - Owner & User
 
-## Info Basic
+## Basics
+- **Email**: elvisvaldes544@gmail.com
+- **Mi email (Tota)**: mitotabot@gmail.com
 
-| Campo | Valor |
-|-------|-------|
-| **Nombre** | Elvis |
-| **Email personal** | elvisvaldes544@gmail.com |
-| **Mi email (Tota)** | mitotabot@gmail.com |
-| **Trabajo** | Entrenador de gimnásia Olímpica |
-| **Ubicación** | Riviera/Marbella, España |
-| **Horario trabajo** | L-J 16:00-19:00 |
+## Context
+- Trainer de gimansia rítmica
+- Quiere escape del trabajo tradicional
+- Building: Zaltyko (SaaS para academias)
+- Trading: Crypto (buscando exchange)
 
-## Objetivos
+## Preferences
+- **Communication**: Directo, conciso
+- **Tone**: No robótico, colega
+- **Updates**: Solo lo importante
 
-### Primario
-- Dejar el trabajo actual (Entrenador)
-- Ingresos online: €2-3k/mes (puente)
-- Ingresos objetivo: €10k/mes
+## Projects
+- Zaltyko: SaaS para academias de gymnasia
+- Trading: Crypto automated
 
-### Secundario
-- Libertad de tiempo
-- No depender de WhatsApp 24/7
+## Pending Actions (Elvis)
+1. Autorizar Gmail → `gog auth add elvisvaldes544@gmail.com`
+2. Nueva API Exchange → Enviarme la API
 
-## Restricciones
-
-- Tiempo disponible: 10-15h/semana
-- Sin budget para ads
-- Sin cámara sin guion
-
-## Preferencias
-
-- Productos digitales / SaaS
-- Low-code / No-code
-- Automatización
-- Sistemas > consultoría
-
-## Cómo contactarlo
-
-- Telegram: 266525416
-- Email: elvisvaldes544@gmail.com
+## Notes
+- Le gusta One Piece 🏴‍☠️
+- Está en España (timezone Europe/Madrid)
 
 ---
 
-*Última actualización: 2026-02-18*
+*Actualizado: 2026-02-25*

@@ -76,6 +76,15 @@
 
 ## 🔧 Configuraciones
 
+### CRM (Marzo 2026)
+- **Google Sheets CRM:** https://docs.google.com/spreadsheets/d/18Qh-h1X_Ub1M_y71zRAxyv_FiPsLpkA_EUCKCKn6v44
+- Sheets: Leads, Proyectos, Facturas
+- Email: zaltyko@gmail.com
+
+### Modelos Locales (Marzo 2026)
+- Ollama: llama3.2:1b (1.3GB)
+- Listo para usar: `/model ollama/llama3.2:1b`
+
 ---
 
 ## Etiquetas
@@ -128,6 +137,14 @@
 - Seguridad en profundidad (16 capas) > parches
 - Autonomía real = agente trabaja PARA ti, no espera
 - **Meta-Growth:** Cada acción = ejecutar → medir → optimizar → repetir
+
+### De análisis hijos IA (2026-03-01)
+- **Proactivity:** No esperar siempre, iniciar mejora
+- **Context:** Preguntar antes de actuar
+- **Creatividad:** Explorar nuevos ángulos
+- **Judgment:** Cuestionar supuestos
+
+→ Actualización v3.0 aplicada: HEARTBEAT.md + SOUL.md
 
 ---
 

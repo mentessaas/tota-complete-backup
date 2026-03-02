@@ -20,7 +20,7 @@
 
 ---
 
-## 📊 Skills Instalados (47+)
+## 📊 Skills Instalados (50+)
 
 ### Trading/Crypto
 - hyperliquid
@@ -40,8 +40,10 @@
 - copywriting
 - seo-content-writer
 
-### Content
-- content-creator
+### Custom Skills (Yota)
+- yota-hands - Agency team agents
+- browser-automation - Scraping & research
+- outreach - Cold email framework
 - content-marketer
 - youtube-automation
 - instagram-automation
