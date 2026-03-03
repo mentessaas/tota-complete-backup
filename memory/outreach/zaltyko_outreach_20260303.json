@@ -1,0 +1,40 @@
+{
+  "outreach_batch": "2026-03-03",
+  "product": "Zaltyko - Software para Academias de Gimnasia Rítmica",
+  "emails": [
+    {
+      "id": 13,
+      "club": "Club Gimnasia Rítmica Arabeska",
+      "provincia": "Madrid",
+      "email": "contacto@clubarabeska.com",
+      "file": "13_arabeska_madrid_outreach.md",
+      "status": "pending"
+    },
+    {
+      "id": 14,
+      "club": "C.D.E. Gimnasia Rítmica Majadahonda",
+      "provincia": "Madrid",
+      "email": "gimnasiarritmica.majadahonda@gmail.com",
+      "file": "14_majadahonda_madrid_outreach.md",
+      "status": "pending"
+    },
+    {
+      "id": 15,
+      "club": "CGA Fenix Las Rozas",
+      "provincia": "Madrid",
+      "email": "info@cgafenixlasrozas.es",
+      "file": "15_fenix_lasrozas_outreach.md",
+      "status": "pending"
+    },
+    {
+      "id": 16,
+      "club": "Club Deportivo Elemental CP Perú",
+      "provincia": "Madrid",
+      "email": "club.deportivo.cp.peru@gmail.com",
+      "file": "16_cp_peru_madrid_outreach.md",
+      "status": "pending"
+    }
+  ],
+  "total_leads_with_email": 4,
+  "generated": "2026-03-03T13:43:00Z"
+}

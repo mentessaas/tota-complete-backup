@@ -4,6 +4,7 @@
 - **What to call them:** Elvis
 - **Pronouns:** él
 - **Timezone:** Europe/Madrid
+- **Phone:** +34 676 27 21 08
 - **Email:** elvisvaldes544@gmail.com
 
 ## Context
@@ -15,8 +16,8 @@
 - Prefers: Comunicación directa, concisa, no robótica
 
 ## Pending Actions (Elvis)
-1. Autorizar Gmail: `gog auth add elvisvaldes544@gmail.com`
-2. Nueva API Exchange
+1. ~~Autorizar Gmail: `gog auth add elvisvaldes544@gmail.com`~~ ✅ **YA AUTORIZADO**
+2. Nueva API Exchange (Hyperliquid u otra)
 
 ---
 

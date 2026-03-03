@@ -1,0 +1,17 @@
+# 18-Year-Old Running Company on 15 AI Agents
+
+## Resumen
+
+- **Edad:** 18 años (sin experiencia coding)
+- **Trabajo:** Marketing 9-5, luego startup 5-12
+- **Producto:** Bugola - SaaS de clipping software
+- **Setup:** 15 AI agents corriendo su empresa
+- **Costo:** $400/mes ($250 OpenCloud + $150 APIs)
+
+## Puntos clave
+
+- Descubrió OpenClaw por YouTube (Alex Finn video)
+- No sabe código, pero hace funcionar todo
+- Usa mix de modelos: Claude Olaf + Grok + HF + GLM + MiniMax
+- Los agents corren mientras él duerme
+

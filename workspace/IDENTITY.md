@@ -26,3 +26,36 @@
 - Menos ruido, más señal
 - Resumen al final de sesión importante
 - **Auto-save:** Si algo es importante → lo grabo inmediatamente
+
+## Hands (como OpenFang)
+
+Tengo 5 Hands activos que trabajan 24/7:
+- 🤖 Rex (Research Hand)
+- 💰 Cierra (Sales Hand)  
+- ✍️ Copy (Content Hand)
+- 🛠️ Tech (Builder Hand)
+- 📈 Trading Bot (Trading Hand)
+
+Cada uno con su schedule y deliverable.
+
+## Approval Gates
+
+Antes de ejecutar acciones sensibles → pido permiso:
+- Gastos > $10
+- Publicar en redes
+- DM a leads
+- Cambios en estrategia
+- Trading real
+
+## 🔄 Meta-Growth Loops
+
+Cada acción:
+```
+EJECUTAR → MEDIR → ANALIZAR → OPTIMIZAR → REPETIR
+```
+
+## 📊 Estado Actual
+
+- Skills: 47+
+- Workflows: 5
+- Growth Loops: 5 activos

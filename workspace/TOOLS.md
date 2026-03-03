@@ -1,95 +1,142 @@
-# TOOLS.md - Local Notes
+# TOOLS.md - Local Notes v2.5
 
-Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
-
-## What Goes Here
-
-Things like:
-
-- Camera names and locations
-- SSH hosts and aliases
-- Preferred voices for TTS
-- Speaker/room names
-- Device nicknames
-- Anything environment-specific
-
-## Examples
-
-```markdown
-### Cameras
-
-- living-room → Main area, 180° wide angle
-- front-door → Entrance, motion-triggered
-
-### SSH
-
-- home-server → 192.168.1.100, user: admin
-
-### TTS
-
-- Preferred voice: "Nova" (warm, slightly British)
-- Default speaker: Kitchen HomePod
-```
-
-## Why Separate?
-
-Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leakage your infrastructure.
+> Skills define _how_ tools work. This file is for _your_ specifics.
 
 ---
 
-### Trading
+## 🎯 Mis Capacidades (Nivel 2.5 - Optimizado)
 
-**KuCoin:** ✅ API运作正常
-- API Key: `878483cd310dafb51a9817e8da1dd4e37de15638661d2b1ff0f18d78d360359a`
-- Secret: `909acf6898599f35d0c2d6b35e1a8026ca3a26ebfa776afcdce69d1089969401`
-- Balance Futures: $222.00 USDT
-**Hyperliquid:** ✅ Testnet funcionando
-- Script: `~/zaltyko-os/scripts/hyperliquid_bot.py`
-- Docs: `https://hyperliquid.gitbook.io`
-- Símbolos: BTC/USDC:USDC, ETH/USDC:USDC, SOL/USDC:USDC
+| Categoría | Herramienta | Estado | Notas |
+|-----------|-------------|--------|-------|
+| **Búsqueda** | web_search, web_fetch | ✅ | |
+| **Browser** | camofox, browser | ✅ | Stealth mode |
+| **Email** | gog, himalaya | ✅ | 3 cuentas auth |
+| **Trading** | hyperliquid, yahoo-data-fetcher | ✅ | Skills ready, API pending |
+| **CRM** | close-automation, supabase | ✅ | Skills installed |
+| **Mensajería** | Telegram, Signal, iMessage, Discord | ✅ | |
+| **Archivos** | read, write, edit, exec | ✅ | |
+| **TTS** | mac-tts, voicebox | ✅ | |
+| **Scheduling** | cron | ✅ | |
 
 ---
 
-### Scrapling (Web Scraping)
+## 📊 Skills Instalados (50+)
 
-- **Script:** `~/zaltyko-os/scripts/scrapling_tool.py`
-- **venv:** `~/.openclaw/workspace/.venv/`
-- **Activar:** `source ~/.openclaw/workspace/.venv/bin/activate`
+### Trading/Crypto
+- hyperliquid
+- yahoo-data-fetcher
+- backtesting-frameworks
+- crypto-bd-agent
 
-**Uso:**
+### Sales/Leads
+- data-enricher
+- close-automation
+- cold-outreach
+- linkedin-automation
+
+### Email/Marketing
+- email-sequence
+- email-systems
+- copywriting
+- seo-content-writer
+
+### Custom Skills (Yota)
+- yota-hands - Agency team agents
+- browser-automation - Scraping & research
+- outreach - Cold email framework
+- content-marketer
+- youtube-automation
+- instagram-automation
+
+### Research
+- deep-research
+- context7-auto-research
+- exa-search
+- competitor-alternatives
+
+### Automation
+- automate-whatsapp
+- telegram-bot-builder
+- discord-bot-architect
+- slack-bot-builder
+
+---
+
+## 🔄 Workflows Activos
+
+| Workflow | Status |
+|----------|--------|
+| Lead Generation | ✅ Ready |
+| Trading Intelligence | ⏳ API pending |
+| Content Creation | ✅ Ready |
+| Research | ✅ Ready |
+| Trading Automation | ✅ Setup |
+
+---
+
+## 🚀 Growth Loops
+
+| Loop | Estado |
+|------|--------|
+| Skill Acquisition | ✅ Activo |
+| Workflow Optimization | ✅ Activo |
+| Knowledge Building | ✅ Activo |
+| Decision Making | ✅ Activo |
+| Output Generation | ✅ Activo |
+
+---
+
+## 📁 Scripts de Automatización
+
 ```bash
-# Script básico
-python3 ~/zaltyko-os/scripts/scrapling_tool.py "https://ejemplo.com" "h1"
-
-# En Python:
-from scrapling import Fetcher
-f = Fetcher()
-resp = f.get('https://ejemplo.com', verify=False)
-print(resp.css('title').first.text)
+~/.openclaw/workspace/scripts/optimizer.sh      # Auto-optimizer
+~/.openclaw/workspace/scripts/run-workflow.sh   # Workflow runner
+~/.openclaw/workspace/scripts/send-outreach.sh  # Email sender
+~/.openclaw/workspace/scripts/cold_start_preload.sh  # Context cache
 ```
 
-**Nota:** Requiere `verify=False` por SSL del sistema.
+---
+
+## 🔧 Pending (Lo que necesito de Elvis)
+
+| Item | Estado | Notas |
+|------|--------|-------|
+| **Trading API** | ⏳ Pendiente | Hyperliquid o otra |
+| **Twitter Auth** | ⏳ Pendiente | API keys |
+| **Brevo API** | ⏳ Pendiente | Email marketing |
 
 ---
 
-### Mis Capacidades ( Nivel 2.5)
+## 🏗️ Arquitectura - Optimizaciones
 
-| Categoría | Herramienta | Estado |
-|-----------|-------------|--------|
-| **Búsqueda** | web_search, web_fetch, scraping | ✅ |
-| **Browser** | camofox (stealth), browser | ✅ |
-| **Email** | himalaya, gog | ⚠️ Sin auth |
-| **Trading** | KuCoin API | ❌ API rota |
-| **CRM** | Brevo, Supabase | ⚠️ Sin config |
-| **Mensajería** | Telegram, Signal, iMessage | ✅ |
-| **Archivos** | read, write, edit, exec | ✅ |
-| **TTS** | mac-tts, voicebox | ✅ |
-| **Scheduling** | cron | ✅ |
+### Hecho
+- [x] 47+ skills instalados
+- [x] 5 workflows activos
+- [x] 5 Meta-Growth Loops
+- [x] Scripts de automatización
+- [x] Gmail autorizado (3 cuentas)
+
+### Pendiente
+- [ ] Reducir cold start
+- [ ] Twitter auth
+- [ ] Trading API
 
 ---
 
-### Pending (Lo que necesito de Elvis)
+## 📋 Discord Channels
 
-1. **Gmail:** `gog auth add elvisvaldes544@gmail.com`
-2. **Nueva API Exchange:** Pendiente que me la envíe
-3. **Brevo:** API key en secrets
+- **#trading:** 1476561823162695763
+- **#tota:** Comandos
+- **#tota-operaciones:** Logs
+
+---
+
+## 🧠 Meta-Growth Loop (cada acción)
+
+```
+EJECUTAR → MEDIR → ANALIZAR → OPTIMIZAR → REPETIR
+```
+
+---
+
+*Actualizado: 2026-02-28 v2.5*

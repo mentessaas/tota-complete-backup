@@ -1,6 +1,6 @@
 {
-  "fecha": "2026-03-01",
-  "hora": "13:59",
+  "fecha": "2026-03-02",
+  "hora": "01:57",
   "total": 7,
   "leads": [
     {
@@ -43,58 +43,61 @@
     {
       "nombre": "Club Deportivo Gimnasia Rítmica Azahar",
       "provincia": "Sevilla",
-      "email": null,
-      "telefono": null,
+      "email": "clubritmicaazahar@gmail.com",
+      "telefono": "+34 722 450 501 / +34 684 740 348",
       "web": "https://www.gimnasiaritmicaazahar.es/",
       "instagram": "@gimnasiaritmicaazahar",
-      "fuente": "Web minima - sin datos contacto visibles. Web scraping no disponible.",
-      "estado": "pendiente"
+      "fuente": "Enriquecido via web 2026-03-02 - Datos encontrados en página contacto",
+      "estado": "enriquecido"
     },
     {
       "nombre": "Club Gimnasia Rítmica Málaga",
       "provincia": "Málaga",
-      "email": null,
-      "telefono": null,
+      "email": "ritmicamalaga@gmail.com",
+      "telefono": "667 627 954",
       "web": "https://www.ritmicamalaga.com/",
       "instagram": "@ritmicamalaga",
       "facebook": "@clubgimnasiaritmicamalaga",
       "twitter": "@ritmicamalaga",
-      "fuente": "Web no muestra email/telefono. Solo redes sociales.",
-      "estado": "pendiente"
+      "fuente": "Enriquecido via web 2026-03-02 - Email y teléfono encontrados en web",
+      "estado": "enriquecido"
     },
     {
       "nombre": "Club Gimnasia Rítmica Sueño",
       "provincia": "Sevilla",
-      "email": null,
-      "telefono": null,
-      "web": null,
+      "email": "deportes@aytogines.es",
+      "telefono": "954 713 137 / 954 715 400",
+      "web": "https://www.deportesgines.es/club-gimnasia-ritmica-sueno/",
       "instagram": "@clubgritmicasueno",
-      "fuente": "Solo Instagram disponible",
-      "estado": "pendiente"
+      "direccion": "Calle Manuel Canela, 22. Calle Virgen del Pilar, s/n 41960 – Gines (Sevilla)",
+      "fuente": "Enriquecido via web 2026-03-02 - Datos encontrados en web Ayuntamiento de Gines",
+      "estado": "enriquecido"
     }
   ],
   "resumen": {
     "total": 7,
-    "enriquecidos": 4,
-    "pendientes": 3,
-    "fecha_enriquecimiento": "2026-03-01T12:59:00Z",
-    "notas": "Web search API no disponible. Web scraping limitado. Añadido Club Rítmica Fuengirola con teléfono. 3 leads pendientes (necesitan email/telfono público o LinkedIn)."
+    "enriquecidos": 7,
+    "pendientes": 0,
+    "fecha_enriquecimiento": "2026-03-02T00:57:00Z",
+    "notas": "✅ 3/3 leads pendientes enriquecidos. Todos los leads ahora tienen email y teléfono."
   },
   "nuevos_datos_encontrados": {
+    "Club Deportivo Gimnasia Rítmica Azahar": {
+      "email": "clubritmicaazahar@gmail.com",
+      "telefono": "+34 722 450 501 / +34 684 740 348"
+    },
     "Club Gimnasia Rítmica Málaga": {
+      "email": "ritmicamalaga@gmail.com",
+      "telefono": "667 627 954",
       "instagram": "@ritmicamalaga",
       "facebook": "@clubgimnasiaritmicamalaga",
       "twitter": "@ritmicamalaga"
     },
-    "Club Deportivo Gimnasia Rítmica Azahar": {
-      "instagram": "@gimnasiaritmicaazahar"
-    },
     "Club Gimnasia Rítmica Sueño": {
-      "instagram": "@clubgritmicasueno"
-    },
-    "Club Rítmica Fuengirola": {
-      "telefono": "+34 633 13 53 15",
-      "instagram": "@ritmicafuengirola"
+      "email": "deportes@aytogines.es",
+      "telefono": "954 713 137 / 954 715 400",
+      "web": "https://www.deportesgines.es/club-gimnasia-ritmica-sueno/",
+      "direccion": "Calle Manuel Canela, 22. Calle Virgen del Pilar, s/n 41960 – Gines (Sevilla)"
     }
   }
 }
