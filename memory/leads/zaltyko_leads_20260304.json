@@ -1,0 +1,82 @@
+[
+  {
+    "nombre": "Club Gimnasia Rítmica Málaga",
+    "provincia": "Málaga",
+    "web": "https://www.ritmicamalaga.com",
+    "email": "ritmicalsur@gmail.com",
+    "telefono": "681936774",
+    "fuente": "Google Search"
+  },
+  {
+    "nombre": "Club Miralmar",
+    "provincia": "Málaga",
+    "web": "https://www.clubmiralmar.com",
+    "email": "",
+    "telefono": "",
+    "fuente": "Google Search"
+  },
+  {
+    "nombre": "Club Rítmica Nazarí",
+    "provincia": "Granada",
+    "web": "https://ritmicanazari.com",
+    "email": "",
+    "telefono": "",
+    "fuente": "Google Search"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Séneca",
+    "provincia": "Granada",
+    "web": "https://www.grdseneca.com",
+    "email": "",
+    "telefono": "",
+    "fuente": "Google Search"
+  },
+  {
+    "nombre": "Club Antares",
+    "provincia": "Sevilla",
+    "web": "https://www.gimnasiaesantares.com",
+    "email": "",
+    "telefono": "",
+    "fuente": "Google Search"
+  },
+  {
+    "nombre": "Club Deportivo Gimnastico Sur",
+    "provincia": "Sevilla",
+    "web": "https://clubsur.es",
+    "email": "",
+    "telefono": "654401022",
+    "fuente": "Google Search"
+  },
+  {
+    "nombre": "Club Ritmica Lledó",
+    "provincia": "Castellón",
+    "web": "https://www.facebook.com/clubritmica.lledo",
+    "email": "",
+    "telefono": "",
+    "fuente": "Google Search"
+  },
+  {
+    "nombre": "Club Liceo Córdoba",
+    "provincia": "Córdoba",
+    "web": "https://www.clubliceocordoba.es",
+    "email": "",
+    "telefono": "",
+    "fuente": "Google Search"
+  },
+  {
+    "nombre": "Club Deportivo Ximnasia Rítmica Compostela",
+    "provincia": "A Coruña",
+    "web": "https://www.ritmicacompostela.com",
+    "email": "",
+    "telefono": "",
+    "fuente": "Google Search"
+  },
+  {
+    "nombre": "C.D. Gimnasia Rítmica Alsur Manilva",
+    "provincia": "Málaga",
+    "web": "",
+    "email": "ritmicalsur@gmail.com",
+    "telefono": "681936774",
+    "fuente": "Federación Andaluza"
+  }
+]

@@ -1,0 +1,11 @@
+# Lead: CEP Rítmica Vallecas
+- **Nombre:** CEP Rítmica Vallecas | Club Escuela de Gimnasia Rítmica
+- **Provincia:** Madrid
+- **Web:** https://www.ritmicavallecas.es
+- **Email:** club@ritmicavallecas.es / ritmicavallecas@gmail.com
+- **Teléfono:** -
+- **Dirección:** C/ Payaso Fofó, s/n. Madrid 28018
+- **Fuente:** Web oficial
+- **Notas:** Desarrollo integral gimnastas, club constituido en 2003
+- **Fecha:** 2026-03-05
+- **Enriquecido:** 2026-03-05 19:00

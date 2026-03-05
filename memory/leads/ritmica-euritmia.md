@@ -1,0 +1,11 @@
+# Lead: Ritmica Euritmia
+- **Nombre:** Ritmica Euritmia
+- **Provincia:** Madrid (14 ubicaciones)
+- **Web:** https://ritmicaeuritmia.es
+- **Email:** ritmica.euritmia@gmail.com
+- **Teléfono:** +34 669 765 191
+- **Dirección:** Camino de Hormigueras 166, 28031 Madrid
+- **Fuente:** Web oficial
+- **Notas:** Líder en Madrid, 500 gimnastas, 10 años experiencia
+- **Fecha:** 2026-03-05
+- **Enriquecido:** 2026-03-05 19:00

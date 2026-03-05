@@ -1,0 +1,11 @@
+# Lead: Rítmica Dansei - ACDC Cuenca
+- **Nombre:** Rítmica Dansei - ACDC
+- **Provincia:** Cuenca
+- **Web:** https://www.acdcuenca.com/club/ritmica-dansei
+- **Email:** info@acdcuenca.com
+- **Teléfono:** -
+- **Dirección:** C/ Hermanos Becerril 17 5° A, 16002 - Cuenca
+- **Fuente:** Web oficial
+- **Notas:** Escuela de danza y gimnásia rítmica,始于2022年10月
+- **Fecha:** 2026-03-05
+- **Enriquecido:** 2026-03-05 19:00

@@ -104,7 +104,7 @@
 ## 📅 Tareas Pendientes
 
 ### Alta Prioridad
-- [ ] Resolver API trading (Hyperliquid)
+- [ ] Resolver API trading (Hyperliquid u otro exchange)
 - [ ] **Configurar exec sin approvals** (security: allowlist)
 - [ ] Twitter API auth
 
@@ -144,7 +144,21 @@
 - **Creatividad:** Explorar nuevos ángulos
 - **Judgment:** Cuestionar supuestos
 
-→ Actualización v3.0 aplicada: HEARTBEAT.md + SOUL.md
+### De Simon Willison - Agentic Engineering (2026-03-04)
+- **Code is cheap, good code isn't:** Escribir código = barato, pero código bueno (testeado, documentado, mantenible) = caro
+- **Hoard patterns:** Acumular soluciones probadas con código funcional → recombinar para nuevos problemas
+- **Red/Green TDD:** Tests primero → confirmar fail → implementar → pass
+- **First run tests:** Siempre ejecutar tests al inicio de sesión coding
+- **Linear walkthroughs:** Para entender código que no has escrito
+- **Interactive explanations:** Crear visualizaciones para conceptos complejos
+
+### De Polsia - AI That Runs Your Company (2026-03-04)
+- **80/20 Revenue Split:** AI only gana cuando cliente gana (para servicios de resultados)
+- **Agents selling to agents:** El futuro B2B es AI-to-AI (considerar más adelante)
+- **Insight clave:** "If it's not not automatic, it's not scalable" → seguir automatizando
+
+→ Investigación guardada en ~/workspace/research/polsia-analysis.md
+→ No requiere action items - Yota es sistema personal, no producto
 
 ---
 
@@ -160,5 +174,5 @@
 
 ---
 
-*Última actualización: 2026-02-28*
+*Última actualización: 2026-03-03*
 *Totin 🐻*

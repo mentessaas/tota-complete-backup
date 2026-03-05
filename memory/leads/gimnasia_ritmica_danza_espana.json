@@ -1,343 +1,122 @@
 [
   {
-    "nombre": "TXIMELETA",
-    "provincia": "Gipuzkoa",
-    "localidad": "Donostia / San Sebastián",
-    "web": "http://www.tximeleta.eus",
-    "email": "info@tximeleta.eus",
-    "telefono": "943 116 342",
-    "categoria": "Gimnasia",
-    "rating": 4.5,
-    "fuente": "Badgie"
-  },
-  {
     "nombre": "Club Rítmica Salamanca",
     "provincia": "Salamanca",
-    "localidad": "Salamanca",
     "web": "https://clubritmicasalamanca.com",
     "email": "info@clubritmicasalamanca.com",
-    "telefono": "680 173 593",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 4.9,
-    "fuente": "Badgie"
+    "telefono": "",
+    "categoria": "Gimnasia Rítmica"
   },
   {
-    "nombre": "Argitzal Gimnasia Rítmica",
-    "provincia": "Araba",
-    "localidad": "Vitoria-Gasteiz",
-    "web": "http://www.argitzal.es",
+    "nombre": "Ritmica Las Alas",
+    "provincia": "Badajoz",
+    "web": "https://cdritmicalasalas.wordpress.com",
+    "email": "cdritmicalasalas@gmail.com",
+    "telefono": "601195687",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Flow Training Pilates Alcalá de Guadaíra",
+    "provincia": "Sevilla",
+    "web": "https://www.flowtraining.es",
+    "email": "info@flowtraining.es",
+    "telefono": "624542189",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Gymnastics Federation Madrileña",
+    "provincia": "Madrid",
+    "web": "http://www.fmgimnasia.com",
+    "email": "ritmica@fmgimnasia.com",
+    "telefono": "917251649",
+    "categoria": "Federación Gimnasia"
+  },
+  {
+    "nombre": "AerialMad",
+    "provincia": "Madrid",
+    "web": "http://aerialmad.es",
+    "email": "hola@aerialmad.es",
+    "telefono": "695030605",
+    "categoria": "Gimnasia"
+  },
+  {
+    "nombre": "GM Formación",
+    "provincia": "Alicante",
+    "web": "https://www.gmformacion.com",
+    "email": "informacion@gmformacion.com",
+    "telefono": "+34 96 513 11 56 / 673 80 01 80",
+    "categoria": "Gimnasia"
+  },
+  {
+    "nombre": "Club Gimnasia Artística La Safor Gandia",
+    "provincia": "Valencia",
+    "web": "https://www.facebook.com/cgalasaforgandia",
     "email": "",
-    "telefono": "685 724 331",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 5.0,
-    "fuente": "Badgie"
+    "telefono": "686907093",
+    "categoria": "Gimnasia Artística"
   },
   {
-    "nombre": "Federación de Gimnasia del Principado de Asturias",
-    "provincia": "Asturias",
-    "localidad": "Gijón",
-    "web": "https://www.gimnastur.com",
-    "email": "secretaria@gimnastur.com",
-    "telefono": "985 330 551",
-    "categoria": "Federación",
-    "rating": 3.3,
-    "fuente": "Badgie"
-  },
-  {
-    "nombre": "Federación Andaluza de Gimnasia",
-    "provincia": "Andalucía",
-    "localidad": "Sevilla",
-    "web": "https://www.andaluciagym.com",
-    "email": "info@andaluciagym.com",
-    "telefono": "954 29 60 92",
-    "categoria": "Federación",
-    "rating": 0,
-    "fuente": "Federación"
-  },
-  {
-    "nombre": "Federación Madrileña de Gimnasia",
-    "provincia": "Madrid",
-    "localidad": "Madrid",
-    "web": "https://www.fmgimnasia.com",
+    "nombre": "Gimnàs Club Francàs",
+    "provincia": "Barcelona",
+    "web": "https://instagram.com/gymclubfrancas",
     "email": "",
-    "telefono": "91 725 16 49",
-    "categoria": "Federación",
-    "rating": 0,
-    "fuente": "Federación"
+    "telefono": "933533302",
+    "categoria": "Gimnasia"
   },
   {
-    "nombre": "A.D.E. Rítmica Alcorcón",
-    "provincia": "Madrid",
-    "localidad": "Alcorcón",
-    "web": "",
-    "email": "clubritmica@gmail.com",
-    "telefono": "646 612 034",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 0,
-    "fuente": "FMG"
+    "nombre": "SFA gymboutique",
+    "provincia": "Córdoba",
+    "web": "https://www.sfaboutique.com",
+    "email": "welcome@sfaboutique.com",
+    "telefono": "722544414",
+    "categoria": "Gimnasia"
   },
   {
-    "nombre": "Adam Asociación Deportiva Aeróbica de Móstoles",
-    "provincia": "Madrid",
-    "localidad": "Móstoles",
-    "web": "",
-    "email": "jdadam2009@gmail.com",
-    "telefono": "640 163 049",
-    "categoria": "Gimnasia Aeróbica",
-    "rating": 0,
-    "fuente": "FMG"
+    "nombre": "G2 Sport Malgrat de Mar",
+    "provincia": "Barcelona",
+    "web": "http://www.g2sport.es",
+    "email": "77info@g2sport.es",
+    "telefono": "669831348",
+    "categoria": "Gimnasia"
   },
   {
-    "nombre": "C.D. E Gimnasia Rítmica Majadahonda",
-    "provincia": "Madrid",
-    "localidad": "Majadahonda",
-    "web": "https://www.ritmicamajadahonda.com",
-    "email": "gimnasia.ritmica.majadahonda@gmail.com",
-    "telefono": "689 335 205",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "C.D.E Rítmica Retiro Madrid",
-    "provincia": "Madrid",
-    "localidad": "Madrid",
-    "web": "www.ritmicaretiro.com",
-    "email": "ritmicaretiro@gmail.com",
-    "telefono": "617 141 669",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "CD Rítmica Nicè",
-    "provincia": "Madrid",
-    "localidad": "Madrid",
-    "web": "https://www.clubgimnasiarítmicanicé.es",
-    "email": "cdritmica_nice@hotmail.com",
-    "telefono": "645 311 637",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "Andraga Club",
-    "provincia": "Madrid",
-    "localidad": "Madrid",
-    "web": "https://www.andraga.es",
-    "email": "andragaclub@andraga.es",
-    "telefono": "638 587 421",
-    "categoria": "Gimnasia",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "CDE Euritmia Gimnasia Rítmica",
-    "provincia": "Madrid",
-    "localidad": "Madrid",
-    "web": "",
-    "email": "ritmica.euritmia@gmail.com",
-    "telefono": "914 891 111",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "CDE Gimnasia Rítmica Lluna",
-    "provincia": "Madrid",
-    "localidad": "Madrid",
-    "web": "",
-    "email": "cdegrlluna@hotmail.com",
-    "telefono": "608 222 389",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "CDE Ritmadrid",
-    "provincia": "Madrid",
-    "localidad": "Madrid",
-    "web": "",
-    "email": "clubritmadrid@hotmail.com",
-    "telefono": "630 924 323",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "CDE Rítmica Fuenlabrada",
-    "provincia": "Madrid",
-    "localidad": "Fuenlabrada",
-    "web": "",
-    "email": "cderitmicafuenlabrada@gmail.com",
-    "telefono": "636 350 4343",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "CDE Rítmica Getafe",
-    "provincia": "Madrid",
-    "localidad": "Getafe",
-    "web": "www.cderitmicagetafe.com",
-    "email": "cderitmicagetafe@hotmail.com",
-    "telefono": "717 712 251",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "CDE Rítmica Parla",
-    "provincia": "Madrid",
-    "localidad": "Parla",
-    "web": "",
-    "email": "cderitmicaparla@gmail.com",
-    "telefono": "690 11 13 17",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "CDE Rítmica Sierra Madrid",
-    "provincia": "Madrid",
-    "localidad": "Colmenarejo",
-    "web": "https://www.clubritmicasierramadrid.com",
-    "email": "ritmicasierramadrid@gmail.com",
-    "telefono": "633 448 705",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "CDE Varitas de Tres Cantos",
-    "provincia": "Madrid",
-    "localidad": "Tres Cantos",
-    "web": "https://www.gimnasiaritmica3cantos.es",
-    "email": "ritmica3cantos@gmail.com",
-    "telefono": "659 983 433",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "CEP Rítmica Vallecas",
-    "provincia": "Madrid",
-    "localidad": "Madrid",
-    "web": "https://www.ritmicavallecas.es",
-    "email": "ritmicavallecas@gmail.com",
-    "telefono": "696 428 031",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "CGA Fenix Las Rozas",
-    "provincia": "Madrid",
-    "localidad": "Las Rozas",
-    "web": "https://cgafenixlasrozas.es",
-    "email": "info@cgafenixlasrozas.es",
-    "telefono": "679 980 626",
-    "categoria": "Gimnasia",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "CGR Algete",
-    "provincia": "Madrid",
-    "localidad": "Algete",
-    "web": "http://www.cgralgete.es",
-    "email": "cgralgete@hotmail.com",
-    "telefono": "605 036 359",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "Club Bérriz",
-    "provincia": "Madrid",
-    "localidad": "Las Rozas",
-    "web": "https://colegioberriz.com",
-    "email": "ritmica.berriz@colegioberriz.com",
-    "telefono": "636 559 580",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "Club Deportivo Elemental Rítmica Elegance",
-    "provincia": "Madrid",
-    "localidad": "Madrid",
-    "web": "",
-    "email": "ritmicaelegance@hotmail.com",
-    "telefono": "609 123 380",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "Club Deportivo GSD - Alcalá",
-    "provincia": "Madrid",
-    "localidad": "Alcalá de Henares",
-    "web": "http://www.clubdeportivogsd.com",
-    "email": "cdalcala@gsd.coop",
-    "telefono": "918 303 864",
-    "categoria": "Gimnasia",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "Club Deportivo GSD - Las Rozas",
-    "provincia": "Madrid",
-    "localidad": "Las Rozas",
-    "web": "http://www.clubdeportivogsd.com",
-    "email": "cdlasrozas@gsd.coop",
-    "telefono": "916 408 923",
-    "categoria": "Gimnasia",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "Club Gimnasia Rítmica Arabeska",
-    "provincia": "Madrid",
-    "localidad": "Madrid",
-    "web": "https://www.clubarabeska.com",
-    "email": "contacto@clubarabeska.com",
-    "telefono": "637 230 982",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "Club Gimnasia Ciudad de Móstoles",
-    "provincia": "Madrid",
-    "localidad": "Móstoles",
-    "web": "https://www.gimnasiaciudaddemostoles.com",
-    "email": "clubciudaddemostoles@gmail.com",
-    "telefono": "629 88 47 04",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 0,
-    "fuente": "FMG"
-  },
-  {
-    "nombre": "C.D GIMNASIA RÍTMICA ALSUR",
-    "provincia": "Málaga",
-    "localidad": "Manilva",
-    "web": "",
-    "email": "ritmicalsur@gmail.com",
-    "telefono": "681 936 774",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 0,
-    "fuente": "Federación Andalucía"
-  },
-  {
-    "nombre": "C.D GIMNASIA RITMICA CASTELLAR",
-    "provincia": "Cádiz",
-    "localidad": "Algeciras",
-    "web": "",
+    "nombre": "Rocio Rodríguez Danza Estudio",
+    "provincia": "Toledo",
+    "web": "https://www.instagram.com/danzaestudiorociorodriguez",
     "email": "",
-    "telefono": "626 651 090",
-    "categoria": "Gimnasia Rítmica",
-    "rating": 0,
-    "fuente": "Federación Andalucía"
+    "telefono": "647713934",
+    "categoria": "Danza"
+  },
+  {
+    "nombre": "Gym ATEMI Mora",
+    "provincia": "Toledo",
+    "web": "https://www.facebook.com/GymAtemiMora",
+    "email": "",
+    "telefono": "635414161",
+    "categoria": "Gimnasia"
+  },
+  {
+    "nombre": "Baccus Gym Club",
+    "provincia": "La Rioja",
+    "web": "https://www.instagram.com/baccus_gymclub",
+    "email": "",
+    "telefono": "681015381",
+    "categoria": "Gimnasia"
+  },
+  {
+    "nombre": "Pavelló de gimnàstica artística Salt",
+    "provincia": "Girona",
+    "web": "http://saltgimnastic.cat",
+    "email": "",
+    "telefono": "972233239",
+    "categoria": "Gimnasia Artística"
+  },
+  {
+    "nombre": "Fisioentrena",
+    "provincia": "Alicante",
+    "web": "http://www.fisioentrenabenidorm.com",
+    "email": "",
+    "telefono": "865677249",
+    "categoria": "Gimnasia"
   }
 ]

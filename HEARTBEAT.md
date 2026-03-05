@@ -1,4 +1,4 @@
-# HEARTBEAT.md — Yota Auto Factory v1.0
+# HEARTBEAT.md — Tota Auto Factory v1.0
 
 > "11 agents trabajando como uno solo"
 

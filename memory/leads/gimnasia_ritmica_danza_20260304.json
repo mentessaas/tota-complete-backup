@@ -1,0 +1,162 @@
+[
+  {
+    "nombre": "C.D. Gimnasia Rítmica Alsur",
+    "provincia": "Málaga",
+    "email": "ritmicalsur@gmail.com",
+    "telefono": "681936774",
+    "web": "",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Málaga",
+    "provincia": "Málaga",
+    "email": "",
+    "telefono": "667627954",
+    "web": "www.ritmicamalaga.com",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Club Antares",
+    "provincia": "Valencia",
+    "email": "gimnasia@clubantares.com",
+    "telefono": "625810115",
+    "web": "www.clubantares.com",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Federación Andaluza de Gimnasia",
+    "provincia": "Andalucía",
+    "email": "info@andaluciagym.com",
+    "telefono": "954 29 60 92",
+    "web": "www.andaluciagym.com",
+    "categoria": "Federación"
+  },
+  {
+    "nombre": "Euritmia Gimnasia Rítmica Madrid",
+    "provincia": "Madrid",
+    "email": "RITMICA.EURITMIA@GMAIL.COM",
+    "telefono": "669765191",
+    "web": "www.ritmicaeuritmia.es",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Dos Hermanas",
+    "provincia": "Sevilla",
+    "email": "",
+    "telefono": "692 22 11 98",
+    "web": "www.ritmicados.es",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Club Viravolta",
+    "provincia": "A Coruña",
+    "email": "",
+    "telefono": "",
+    "web": "www.clubviravoltasantiago.com",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Iplacea Alkal´a",
+    "provincia": "Madrid",
+    "email": "gr,iplaceacoordinacion@gmail.com",
+    "telefono": "692276300",
+    "web": "www.ritmicaiplacea.com",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Club de Gimnasia Villa Getafe",
+    "provincia": "Madrid",
+    "email": "escuelas@cdgrvillagetafe.com",
+    "telefono": "",
+    "web": "www.cdgrvillagetafe.com",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Club de Gimnasia Ritmica Sakoneta",
+    "provincia": "Bizkaia",
+    "email": "",
+    "telefono": "",
+    "web": "www.bizkaialde.eus",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Danzarte",
+    "provincia": "Jaén",
+    "email": "danzartelinares@gmail.com",
+    "telefono": "635 565 554",
+    "web": "facebook.com/danzartelinares",
+    "categoria": "Danza"
+  },
+  {
+    "nombre": "Danza Lía",
+    "provincia": "Asturias",
+    "email": "",
+    "telefono": "",
+    "web": "escueladedanzalia.com",
+    "categoria": "Danza"
+  },
+  {
+    "nombre": "Escuela de Danza Sara Lobo",
+    "provincia": "Madrid",
+    "email": "info@escueladedanzasaralobo.com",
+    "telefono": "638 01 66 16",
+    "web": "escueladedanzasaralobo.com",
+    "categoria": "Danza"
+  },
+  {
+    "nombre": "Laura Esteve Escola de Dansa",
+    "provincia": "Barcelona",
+    "email": "lauraesteve@telefonica.net",
+    "telefono": "935 898 356",
+    "web": "www.lauraesteve.cat",
+    "categoria": "Danza"
+  },
+  {
+    "nombre": "Inma Danza",
+    "provincia": "Castellón",
+    "email": "escuela@inmadanza.es",
+    "telefono": "609 54 75 52",
+    "web": "inmadanza.es",
+    "categoria": "Danza"
+  },
+  {
+    "nombre": "Escuela Broadway",
+    "provincia": "Madrid",
+    "email": "",
+    "telefono": "",
+    "web": "escuelabroadway.com",
+    "categoria": "Danza"
+  },
+  {
+    "nombre": "Entrebailes",
+    "provincia": "Madrid",
+    "email": "entrebailes@gmail.com",
+    "telefono": "611 60 77 86",
+    "web": "entrebailes.com",
+    "categoria": "Danza"
+  },
+  {
+    "nombre": "International Dance School",
+    "provincia": "Alicante",
+    "email": "info@internationaldanceschool.es",
+    "telefono": "966 837 366",
+    "web": "internationaldanceschool.es",
+    "categoria": "Danza"
+  },
+  {
+    "nombre": "Academia Lucía Diez",
+    "provincia": "Madrid",
+    "email": "academialucia@yahoo.es",
+    "telefono": "656285458",
+    "web": "academiadebaileluciadiez.com",
+    "categoria": "Danza"
+  },
+  {
+    "nombre": "Eszena Danza",
+    "provincia": "Madrid",
+    "email": "eszena@eszena.es",
+    "telefono": "644306807",
+    "web": "www.eszena.es",
+    "categoria": "Danza"
+  }
+]
