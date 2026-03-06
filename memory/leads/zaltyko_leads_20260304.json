@@ -5,15 +5,19 @@
     "web": "https://www.ritmicamalaga.com",
     "email": "ritmicalsur@gmail.com",
     "telefono": "681936774",
-    "fuente": "Google Search"
+    "fuente": "Google Search",
+    "enriquecido": "2026-03-06",
+    "notas": "Sin cambios"
   },
   {
     "nombre": "Club Miralmar",
     "provincia": "Málaga",
     "web": "https://www.clubmiralmar.com",
-    "email": "",
-    "telefono": "",
-    "fuente": "Google Search"
+    "email": "administracion@clubmiralmar.com",
+    "telefono": "699622211",
+    "fuente": "Google Search",
+    "enriquecido": "2026-03-06",
+    "notas": "Email y teléfono encontrados via Facebook/Búsqueda"
   },
   {
     "nombre": "Club Rítmica Nazarí",
@@ -21,15 +25,19 @@
     "web": "https://ritmicanazari.com",
     "email": "",
     "telefono": "",
-    "fuente": "Google Search"
+    "fuente": "Google Search",
+    "enriquecido": "2026-03-06",
+    "notas": "Sin datos de contacto públicos. Web sin email. Facebook: Calle Miguel Hernández, 15 Cájar"
   },
   {
     "nombre": "Club Gimnasia Rítmica Séneca",
-    "provincia": "Granada",
+    "provincia": "Córdoba",
     "web": "https://www.grdseneca.com",
     "email": "",
-    "telefono": "",
-    "fuente": "Google Search"
+    "telefono": "957752175",
+    "fuente": "Google Search",
+    "enriquecido": "2026-03-06",
+    "notas": "Teléfono encontrado via búsqueda. Email no localizado"
   },
   {
     "nombre": "Club Antares",
@@ -37,7 +45,9 @@
     "web": "https://www.gimnasiaesantares.com",
     "email": "",
     "telefono": "",
-    "fuente": "Google Search"
+    "fuente": "Google Search",
+    "enriquecido": "2026-03-06",
+    "notas": "⚠️ La web redirecta a Club Antares Valencia. Possibly incorrect lead"
   },
   {
     "nombre": "Club Deportivo Gimnastico Sur",
@@ -45,7 +55,9 @@
     "web": "https://clubsur.es",
     "email": "",
     "telefono": "654401022",
-    "fuente": "Google Search"
+    "fuente": "Google Search",
+    "enriquecido": "2026-03-06",
+    "notas": "Sin cambios"
   },
   {
     "nombre": "Club Ritmica Lledó",
@@ -53,23 +65,29 @@
     "web": "https://www.facebook.com/clubritmica.lledo",
     "email": "",
     "telefono": "",
-    "fuente": "Google Search"
+    "fuente": "Google Search",
+    "enriquecido": "2026-03-06",
+    "notas": "Solo Facebook disponible. Sin datos de contacto públicos"
   },
   {
     "nombre": "Club Liceo Córdoba",
     "provincia": "Córdoba",
-    "web": "https://www.clubliceocordoba.es",
+    "web": "https://www.clублиceocordoba.es",
     "email": "",
     "telefono": "",
-    "fuente": "Google Search"
+    "fuente": "Google Search",
+    "enriquecido": "2026-03-06",
+    "notas": "Sin datos de contacto públicos. Web inaccesible"
   },
   {
     "nombre": "Club Deportivo Ximnasia Rítmica Compostela",
     "provincia": "A Coruña",
     "web": "https://www.ritmicacompostela.com",
-    "email": "",
+    "email": "info@ritmicacompostela.com",
     "telefono": "",
-    "fuente": "Google Search"
+    "fuente": "Google Search",
+    "enriquecido": "2026-03-06",
+    "notas": "Email encontrado via web oficial"
   },
   {
     "nombre": "C.D. Gimnasia Rítmica Alsur Manilva",
@@ -77,6 +95,8 @@
     "web": "",
     "email": "ritmicalsur@gmail.com",
     "telefono": "681936774",
-    "fuente": "Federación Andaluza"
+    "fuente": "Federación Andaluza",
+    "enriquecido": "2026-03-06",
+    "notas": "Sin cambios"
   }
 ]

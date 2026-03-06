@@ -49,6 +49,28 @@
 
 ## 📊 Decisiones Clave
 
+### 2026-03-06
+- **Auto-Auditoría configurada:**
+  - Exec sin approval (security: allowlist) ✅
+  - Script: ~/workspace/scripts/auto-audit.sh
+  - Cron job: cada 2 horas → reporta en #tota
+  - Aprende de errores sin romper nada
+
+### 2026-03-02
+- **Investigación OpenFang:** Analicé competencia (OpenFang vs OpenClaw)
+
+### 2026-02-28
+- **Investigación OpenFang:** Analicé competencia (OpenFang vs OpenClaw)
+- **Setup v2.5:** Apliqué lecciones de OpenFang + Meta-Growth Loops:
+  - HEARTBEAT.md → Hands activos con schedule + Meta-Growth
+  - AGENTS.md → Estructura de Hands con handbooks
+  - APPROVAL_GATES.md → Approval gates como OpenFang
+  - **Skills:** 47+ instalados (trading, sales, content, automation)
+  - **Workflows:** 5 pipelines activos
+  - **Growth Loops:** 5 loops implementados
+  - **Gmail:** ✅ Autorizado (3 cuentas)
+- **Gap identificado:** Cold start (33x más lento), seguridad (5x menos)
+
 ### 2026-02-26
 - Setup de equipo de agentes: Rex, Cierra, Copy, Tech
 - Workflow paralelo por canales Discord
@@ -62,23 +84,33 @@
 
 ---
 
-## 🔧 Configuraciones
+## 🔧 Auto-Correction Rules
 
-### APIs Activas
-- MiniMax (principal)
-- OpenRouter (fallback)
+### Discord Channel Errors
+Si un job falla con "Message failed" o canal no encontrado:
+1. Cambiar `delivery.to` a canal principal #tota: `1476346800389619773`
+2. Verificar con `message action=channel-list`
 
-### APIs Pendientes
-- Brevo (necesita nueva key)
-- Gmail (necesita autorización)
+### Canales válidos actuales:
+- #tota: 1476346800389619773 (principal)
+- #tota-operaciones: 1476340924790603847
 
-### Scripts
-- Trading: ~/zaltyko-os/scripts/
-- Scrapling: ~/zaltyko-os/scripts/scrapling_tool.py
+### Errores comunes:
+- "Message failed" = canal no existe
+- Timeout = job muy largo, aumentar timeoutSeconds
+
+### CRM (Marzo 2026)
+- **Google Sheets CRM:** https://docs.google.com/spreadsheets/d/18Qh-h1X_Ub1M_y71zRAxyv_FiPsLpkA_EUCKCKn6v44
+- Sheets: Leads, Proyectos, Facturas
+- Email: zaltyko@gmail.com
+
+### Modelos Locales (Marzo 2026)
+- Ollama: llama3.2:1b (1.3GB)
+- Listo para usar: `/model ollama/llama3.2:1b`
 
 ---
 
-## 📈 Patterns de Trabajo
+## Etiquetas
 
 ### Cómo pedirme cosas
 1.直接 - máximo 3 opciones
@@ -95,12 +127,20 @@
 ## 📅 Tareas Pendientes
 
 ### Alta Prioridad
-- [ ] Resolver API trading (Asterdex)
-- [ ] Configurar nueva API Brevo
+- [ ] Resolver API trading (Hyperliquid u otro exchange)
+- [x] **Configurar exec sin approvals** (security: allowlist) ✅
+- [ ] Twitter API auth
 
 ### Media Prioridad
-- [ ] Probar workflow de canales Discord
-- [ ] Setup Morning Research
+- [x] Probar workflow de canales Discord
+- [x] Setup Morning Research
+- [x] Gmail autorizado ✅
+
+### Completado v2.5
+- [x] Skills 47+ instalados
+- [x] 5 Workflows activos
+- [x] 5 Meta-Growth Loops
+- [x] Scripts automation
 
 ---
 
@@ -110,6 +150,38 @@
 2. **Governance funciona** - Agentes con territorios definidos
 3. **Automatizar sin spam** - Calidad > Cantidad
 4. **Auto-save crítico** - Si no lo grabo, se pierde
+5. **Hands > Agentes genéricos** - Agentes pre-configurados con schedule rinden más
+6. **Approval gates esenciales** - Siempre pedir permiso para acciones sensibles
+7. **速度快 = mejor** - Cold start < 200ms es meta real
+8. **Meta-Growth Loops** - Cada acción debe medirse, analizarse y optimizarse
+
+### De OpenFang (2026-02-28)
+- Arquitectura monolit binaria reduce complejidad
+- Seguridad en profundidad (16 capas) > parches
+- Autonomía real = agente trabaja PARA ti, no espera
+- **Meta-Growth:** Cada acción = ejecutar → medir → optimizar → repetir
+
+### De análisis hijos IA (2026-03-01)
+- **Proactivity:** No esperar siempre, iniciar mejora
+- **Context:** Preguntar antes de actuar
+- **Creatividad:** Explorar nuevos ángulos
+- **Judgment:** Cuestionar supuestos
+
+### De Simon Willison - Agentic Engineering (2026-03-04)
+- **Code is cheap, good code isn't:** Escribir código = barato, pero código bueno (testeado, documentado, mantenible) = caro
+- **Hoard patterns:** Acumular soluciones probadas con código funcional → recombinar para nuevos problemas
+- **Red/Green TDD:** Tests primero → confirmar fail → implementar → pass
+- **First run tests:** Siempre ejecutar tests al inicio de sesión coding
+- **Linear walkthroughs:** Para entender código que no has escrito
+- **Interactive explanations:** Crear visualizaciones para conceptos complejos
+
+### De Polsia - AI That Runs Your Company (2026-03-04)
+- **80/20 Revenue Split:** AI only gana cuando cliente gana (para servicios de resultados)
+- **Agents selling to agents:** El futuro B2B es AI-to-AI (considerar más adelante)
+- **Insight clave:** "If it's not not automatic, it's not scalable" → seguir automatizando
+
+→ Investigación guardada en ~/workspace/research/polsia-analysis.md
+→ No requiere action items - Yota es sistema personal, no producto
 
 ---
 
@@ -125,5 +197,5 @@
 
 ---
 
-*Última actualización: 2026-02-26*
+*Última actualización: 2026-03-03*
 *Totin 🐻*

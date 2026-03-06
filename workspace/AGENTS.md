@@ -1,4 +1,4 @@
-# AGENTS.md - Yota Auto Factory v1.0
+# AGENTS.md - Tota Auto Factory v1.0
 
 ## Philosophy
 **Yota = Orchestrator** - No construye, coordina 11 agents especializados
@@ -60,6 +60,7 @@
 ## Archivos de Configuración
 
 - `~/.openclaw/workspace/agency-agents/auto-factory/README.md` - Arquitectura completa
+- `~/.openclaw/workspace/agency-agents/routing/` - Jarvis routing system ⭐ NUEVO
 - `~/.openclaw/workspace/skills/yota-hands/` - Skills legacy
 - `~/.openclaw/workspace/PROJECTS.md` - Estructura de proyectos
 
@@ -89,6 +90,22 @@
 # Ver status
 /status agents
 ```
+
+---
+
+## 🧹 Workspace Hygiene Rule
+
+> After modifying any workspace file (SOUL.md, AGENTS.md, TOOLS.md, USER.md, HEARTBEAT.md): **does it belong here (always-loaded), in a skill (on-demand), or in memory (historical)?** If it's only relevant to specific tasks, move it to a skill.
+
+### Regla:
+1. **Always-loaded** → Solo lo fundamental (quién soy, cómo trabajo, tools disponibles)
+2. **On-demand (skills)** → Lo procedimental (cómo hacer tareas específicas)
+3. **Historical (memory)** → Lo factual/decisiones pasadas
+
+### Antes de modificar workspace:
+- ¿Esto cambia cada sesión? → Memory
+- ¿Solo relevante para una tarea? → Skill
+- ¿Crítico para cada conversación? → Workspace
 
 ---
 

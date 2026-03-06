@@ -40,7 +40,7 @@
 - copywriting
 - seo-content-writer
 
-### Custom Skills (Yota)
+### Custom Skills (Tota)
 - yota-hands - Agency team agents
 - browser-automation - Scraping & research
 - outreach - Cold email framework
