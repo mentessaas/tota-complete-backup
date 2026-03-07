@@ -60,6 +60,7 @@
 ## Archivos de Configuración
 
 - `~/.openclaw/workspace/agency-agents/auto-factory/README.md` - Arquitectura completa
+- `~/.openclaw/workspace/agency-agents/routing/` - Jarvis routing system ⭐ NUEVO
 - `~/.openclaw/workspace/skills/yota-hands/` - Skills legacy
 - `~/.openclaw/workspace/PROJECTS.md` - Estructura de proyectos
 

@@ -49,6 +49,16 @@
 
 ## 📊 Decisiones Clave
 
+### 2026-03-06
+- **Auto-Auditoría configurada:**
+  - Exec sin approval (security: allowlist) ✅
+  - Script: ~/workspace/scripts/auto-audit.sh
+  - Cron job: cada 2 horas → reporta en #tota
+  - Aprende de errores sin romper nada
+
+### 2026-03-02
+- **Investigación OpenFang:** Analicé competencia (OpenFang vs OpenClaw)
+
 ### 2026-02-28
 - **Investigación OpenFang:** Analicé competencia (OpenFang vs OpenClaw)
 - **Setup v2.5:** Apliqué lecciones de OpenFang + Meta-Growth Loops:
@@ -74,7 +84,20 @@
 
 ---
 
-## 🔧 Configuraciones
+## 🔧 Auto-Correction Rules
+
+### Discord Channel Errors
+Si un job falla con "Message failed" o canal no encontrado:
+1. Cambiar `delivery.to` a canal principal #tota: `1476346800389619773`
+2. Verificar con `message action=channel-list`
+
+### Canales válidos actuales:
+- #tota: 1476346800389619773 (principal)
+- #tota-operaciones: 1476340924790603847
+
+### Errores comunes:
+- "Message failed" = canal no existe
+- Timeout = job muy largo, aumentar timeoutSeconds
 
 ### CRM (Marzo 2026)
 - **Google Sheets CRM:** https://docs.google.com/spreadsheets/d/18Qh-h1X_Ub1M_y71zRAxyv_FiPsLpkA_EUCKCKn6v44
@@ -105,7 +128,7 @@
 
 ### Alta Prioridad
 - [ ] Resolver API trading (Hyperliquid u otro exchange)
-- [ ] **Configurar exec sin approvals** (security: allowlist)
+- [x] **Configurar exec sin approvals** (security: allowlist) ✅
 - [ ] Twitter API auth
 
 ### Media Prioridad

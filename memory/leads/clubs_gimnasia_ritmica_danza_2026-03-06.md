@@ -74,34 +74,34 @@ Fecha: 2026-03-06
 
 | Club | Provincia | Web | Email | Teléfono |
 |------|------------|-----|-------|----------|
-| Club Gimnasia Rítmica Arabeska | Madrid | clubarabeska.com | - | - |
-| Club Rítmica Retiro Madrid | Madrid | ritmicaretiro.com | - | - |
-| CEP Rítmica Vallecas | Madrid | ritmicavallecas.es | - | - |
-| Club GR San Sebastián de los Reyes | Madrid | ritmicasanse.es | - | - |
+| Club Gimnasia Rítmica Arabeska | Madrid | clubarabeska.com | - | 652604095 | WhatsApp disponible |
+| Club Rítmica Retiro Madrid | Madrid | ritmicaretiro.com | - | - | Solo formulario web |
+| CEP Rítmica Vallecas | Madrid | ritmicavallecas.es | - | - | President: Ana Urueña García |
+| Club GR San Sebastián de los Reyes | Madrid | ritmicasanse.es | info@ritmicasanse.es | 678940164, 691340385 | |
 
 ## Galicia
 
 | Club | Provincia | Web | Email | Teléfono |
 |------|------------|-----|-------|----------|
-| CD Ximnasia Rítmica Compostela | A Coruña | ritmicacompostela.com | - | - |
+| CD Ximnasia Rítmica Compostela | A Coruña | ritmicacompostela.com | - | - | +300 gimnastas |
 
 ## País Vasco
 
 | Club | Provincia | Web | Email | Teléfono |
 |------|------------|-----|-------|----------|
-| Club Gimnasia Rítmica Donostia | Gipuzkoa | clubdonosti.com | - | - |
+| Club Gimnasia Rítmica Donostia | Gipuzkoa | clubdonosti.com | clubgrdonosti@gmail.com | - | |
 
 ## Andalucía
 
 | Club | Provincia | Web | Email | Teléfono |
 |------|------------|-----|-------|----------|
-| C.D. Stella Maris | Sevilla | cdstellamaris.es | - | - |
+| C.D. Stella Maris | Sevilla | cdstellamaris.es | info@cdstellamaris.es | 649222622, 649311311, 678617946 |
 
 ## Cataluña
 
 | Club | Provincia | Web | Email | Teléfono |
 |------|------------|-----|-------|----------|
-| Club Rítmica Santfeliu | Barcelona | clubritmicasantfeliu.net | - | - |
+| Club Rítmica Santfeliu | Barcelona | clubritmicasantfeliu.net | ritmicasanfe@hotmail.com | 609559866 |
 
 ## Castilla-La Mancha
 
@@ -121,4 +121,4 @@ Fecha: 2026-03-06
 |------------|-----|-------|----------|
 | Real Federación Española de Gimnasia | rfegimnasia.es | - | - |
 | Federación Española de Baile Deportivo | febd.es | - | 934565167 |
-| Federación Gimnàstica CV | fgcv.es | - | - |
+| Federación Gimnàstica CV | fgcv.es | fgcv_dv@yahoo.es | 963462082 |

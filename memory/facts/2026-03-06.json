@@ -1,0 +1,102 @@
+[
+  {
+    "fact": "### infsh CLI \u2705",
+    "source": "daily_log",
+    "timestamp": "2026-03-06T23:01:53.476354"
+  },
+  {
+    "fact": "### Ollama \u2705",
+    "source": "daily_log",
+    "timestamp": "2026-03-06T23:01:53.476405"
+  },
+  {
+    "fact": "Claude Code: \u2705 installed",
+    "source": "daily_log",
+    "timestamp": "2026-03-06T23:01:53.476461"
+  },
+  {
+    "fact": "Ollama: \u2705 installed (codellama:7b, llama3.2:1b)",
+    "source": "daily_log",
+    "timestamp": "2026-03-06T23:01:53.476464"
+  },
+  {
+    "fact": "Ollama (codellama:7b): \u2705 Funcionando",
+    "source": "daily_log",
+    "timestamp": "2026-03-06T23:01:53.476471"
+  },
+  {
+    "fact": "MiniMax API: \u274c Key inv\u00e1lida",
+    "source": "daily_log",
+    "timestamp": "2026-03-06T23:01:53.476473"
+  },
+  {
+    "fact": "X.AI (Grok): \u274c Sin cr\u00e9ditos",
+    "source": "daily_log",
+    "timestamp": "2026-03-06T23:01:53.476475"
+  },
+  {
+    "fact": "PAL MCP: \u2705 Instalado, esperando API key v\u00e1lida",
+    "source": "daily_log",
+    "timestamp": "2026-03-06T23:01:53.476477"
+  },
+  {
+    "fact": "Claude Code: \u2705 instalado (/opt/homebrew/bin/claude)",
+    "source": "daily_log",
+    "timestamp": "2026-03-06T23:01:53.476501"
+  },
+  {
+    "fact": "MiniMax API: \u2705 configurada con ANTHROPIC_API_KEY",
+    "source": "daily_log",
+    "timestamp": "2026-03-06T23:01:53.476503"
+  },
+  {
+    "fact": "Sistema de cola: \u2705 configurado (/tmp/yota-cc-commands.txt)",
+    "source": "daily_log",
+    "timestamp": "2026-03-06T23:01:53.476505"
+  },
+  {
+    "fact": "\u2705 Datos reales de Supabase",
+    "source": "daily_log",
+    "timestamp": "2026-03-06T23:01:53.476523"
+  },
+  {
+    "fact": "\u2705 UI se renderiza correctamente",
+    "source": "daily_log",
+    "timestamp": "2026-03-06T23:01:53.476525"
+  },
+  {
+    "fact": "\u26a0\ufe0f Cambios en UI no se guardan (solo lectura)",
+    "source": "daily_log",
+    "timestamp": "2026-03-06T23:01:53.476527"
+  },
+  {
+    "fact": "Build: \u2705 OK",
+    "source": "daily_log",
+    "timestamp": "2026-03-06T23:01:53.476557"
+  },
+  {
+    "fact": "Tests: \u274c Fallando (5 test files)",
+    "source": "daily_log",
+    "timestamp": "2026-03-06T23:01:53.476559"
+  },
+  {
+    "fact": "Lint: \u26a0\ufe0f 18 warnings",
+    "source": "daily_log",
+    "timestamp": "2026-03-06T23:01:53.476561"
+  },
+  {
+    "fact": "`npx vitest run`: \u2705 24/24 test files passed",
+    "source": "daily_log",
+    "timestamp": "2026-03-06T23:01:53.476571"
+  },
+  {
+    "fact": "Tests: \u2705 134 passed, 3 skipped",
+    "source": "daily_log",
+    "timestamp": "2026-03-06T23:01:53.476573"
+  },
+  {
+    "fact": "LM Studio: \u2705 via Homebrew",
+    "source": "daily_log",
+    "timestamp": "2026-03-06T23:01:53.476726"
+  }
+]

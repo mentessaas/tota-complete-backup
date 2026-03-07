@@ -1,0 +1,131 @@
+[
+  {
+    "nombre": "Dance Center Valencia",
+    "provincia": "Valencia",
+    "direccion": "Valencia",
+    "web": "https://www.dancecentervalencia.com",
+    "email": "dancecenter_valencia@hotmail.com",
+    "telefono": "960719124",
+    "tipo": "Academia de Baile",
+    "enriquecido": "2026-03-07"
+  },
+  {
+    "nombre": "C.A.E.A.P Centre Professional de Dansa Valencià",
+    "provincia": "Valencia",
+    "direccion": "Valencia",
+    "web": "https://cpdansavalencia.com",
+    "email": null,
+    "telefono": null,
+    "tipo": "Academia de Danza"
+  },
+  {
+    "nombre": "Rocío Giner - Centro de Danza y Artes",
+    "provincia": "Valencia",
+    "direccion": "Valencia",
+    "web": "https://centrodanzarocioginer.com",
+    "email": "info@centrodanzarocioginer.com",
+    "telefono": "615347993",
+    "tipo": "Academia de Danza",
+    "enriquecido": "2026-03-07"
+  },
+  {
+    "nombre": "Centro de Danza Mari Cruz Alcalá",
+    "provincia": "Valencia",
+    "direccion": "Valencia",
+    "web": "https://www.maricruzalcala.com",
+    "email": null,
+    "telefono": null,
+    "tipo": "Academia de Danza"
+  },
+  {
+    "nombre": "EDMC Danza - María Carbonell",
+    "provincia": "Valencia",
+    "direccion": "Valencia",
+    "web": "https://www.mariacarbonell.com",
+    "email": null,
+    "telefono": null,
+    "tipo": "Academia de Danza"
+  },
+  {
+    "nombre": "Fun & Dance Valencia",
+    "provincia": "Valencia",
+    "direccion": "C/ Círculo de Bellas Artes, 4 - 46020 Valencia",
+    "web": "https://www.funanddance.eu",
+    "email": null,
+    "telefono": "674 124 444",
+    "tipo": "Academia de Baile"
+  },
+  {
+    "nombre": "Relate Dance Studio",
+    "provincia": "Valencia",
+    "direccion": "Valencia",
+    "web": "https://relatedancestudio.es",
+    "email": null,
+    "telefono": null,
+    "tipo": "Escuela de Danza"
+  },
+  {
+    "nombre": "Acadanza - Escuela de Danza Zaragoza",
+    "provincia": "Zaragoza",
+    "direccion": "Zaragoza",
+    "web": "https://acadanza.es",
+    "email": null,
+    "telefono": null,
+    "tipo": "Academia de Baile"
+  },
+  {
+    "nombre": "Mii Body Dance",
+    "provincia": "Zaragoza",
+    "direccion": "Calle del Arzobispo Doménech, 45, 50006 Zaragoza",
+    "web": "https://miibodydance.com",
+    "email": "miibodydance@gmail.com",
+    "telefono": "671 229 704",
+    "tipo": "Escuela de Danza"
+  },
+  {
+    "nombre": "Academia de Danza Chopin",
+    "provincia": "Zaragoza",
+    "direccion": "Zaragoza (Actur y Parque Roma - Delicias)",
+    "web": "https://chopinzaragoza.com/danza.php",
+    "email": "fchopin@mibbva.com",
+    "telefono": "636760110",
+    "tipo": "Academia de Danza",
+    "enriquecido": "2026-03-07"
+  },
+  {
+    "nombre": "Estudio de Ballet Saioa Ibáñez Romero",
+    "provincia": "Bilbao (Vizcaya)",
+    "direccion": "C/ Euskalduna 9 - 1º Interior B, 48008 Bilbao",
+    "web": "https://www.estudiodeballetbilbao.com",
+    "email": "saioaballetbilbao@gmail.com",
+    "telefono": null,
+    "tipo": "Escuela de Ballet"
+  },
+  {
+    "nombre": "Academia Ensayo",
+    "provincia": "Bilbao (Vizcaya)",
+    "direccion": "C/ Rafaela Ybarra, 4 B - Galería, 48014 Bilbao",
+    "web": "http://www.academiaensayo.com",
+    "email": "info@academiaensayo.com",
+    "telefono": "944 029 855",
+    "tipo": "Academia de Danza"
+  },
+  {
+    "nombre": "Academia de Baila Milla",
+    "provincia": "Sevilla",
+    "direccion": "Cueva del Gato 6, local 12, Edificio Acapulco, 41020 Sevilla",
+    "web": "https://es-es.facebook.com/academiabailemilla/",
+    "email": "academiadebailemilla@gmail.com",
+    "telefono": "656 66 00 11",
+    "tipo": "Academia de Baile (Flamenco)"
+  },
+  {
+    "nombre": "Studio 11 Madrid",
+    "provincia": "Madrid",
+    "direccion": "Madrid",
+    "web": "https://studio11madrid.com",
+    "email": null,
+    "telefono": null,
+    "tipo": "Academia de Baile"
+  }
+]

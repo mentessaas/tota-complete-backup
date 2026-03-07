@@ -128,6 +128,10 @@
 - **#trading:** 1476561823162695763
 - **#tota:** Comandos
 - **#tota-operaciones:** Logs
+- **#trading-experiments:** 1479751001283235912
+- **#lead-gen:** 1479751002549780582
+- **#research:** 1479751003502018570
+- **#automation:** 1479751004520976488
 
 ---
 
