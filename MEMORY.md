@@ -131,10 +131,17 @@ Si un job falla con "Message failed" o canal no encontrado:
 - [x] **Configurar exec sin approvals** (security: allowlist) ✅
 - [ ] Twitter API auth
 
+### Alternativas disponibles (sin API needed)
+- **Yahoo Data Fetcher** - Stocks/crypto quotes sin API ✅
+- **Hyperliquid** - Datos públicos (precios, funding, OI) sin API ✅
+
 ### Media Prioridad
 - [x] Probar workflow de canales Discord
 - [x] Setup Morning Research
 - [x] Gmail autorizado ✅
+
+### Pausado
+- [ ] Lead Generation Gimnasia Rítmica (pausado por Elvis)
 
 ### Completado v2.5
 - [x] Skills 47+ instalados
