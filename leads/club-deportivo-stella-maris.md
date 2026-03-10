@@ -1,0 +1,11 @@
+# Lead: Club Deportivo Stella Maris
+- **Nombre:** Club Deportivo Stella Maris - Gimnasia artística, rítmica y acrobática
+- **Provincia:** Almería (no Málaga como initially thought)
+- **Web:** https://www.cdstellamaris.es/gimnasia-artistica-ritmica-y-acrobatica/
+- **Email:** info@cdstellamaris.es
+- **Teléfono:** 649 222 622 / 649 311 311 / 678 617 946
+- **Dirección:** Avda. Federico García Lorca, 22 C.P. 04004 Almería
+- **Fuente:** Web oficial
+- **Notas:** Desde escuela hasta niveles nacionales
+- **Fecha:** 2026-03-05
+- **Enriquecido:** 2026-03-05 19:00

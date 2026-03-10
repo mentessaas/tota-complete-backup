@@ -1,0 +1,77 @@
+[
+  {
+    "nombre": "Club Gimnasia Rítmica S.S. de los Reyes",
+    "provincia": "Madrid",
+    "direccion": "Oficina del Polideportivo Dehesa Boyal, Avenida Navarrondan, s/n, S. S. de los Reyes",
+    "web": "https://www.ritmicasanse.es",
+    "email": "administracion@ritmicasanse.es",
+    "telefono": "678 94 01 64 / 691 34 03 85",
+    "tipo": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Club Ritmo",
+    "provincia": "León",
+    "direccion": "Calle Fray Luis de León, 16, León",
+    "web": "https://www.clubritmo.com",
+    "email": "gimnasioritmo1981@gmail.com",
+    "telefono": "987 272 085 / 639 770 783",
+    "tipo": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Euritmia Gimnasia Rítmica",
+    "provincia": "Madrid",
+    "direccion": "C. de la República Checa, 23, San Blas-Canillejas, 28032 Madrid",
+    "web": "https://ritmicaeuritmia.es",
+    "email": "RITMICA.EURITMIA@GMAIL.COM",
+    "telefono": "669 765 191",
+    "tipo": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Retiro Madrid",
+    "provincia": "Madrid",
+    "direccion": "Madrid",
+    "web": "https://ritmicaretiro.com",
+    "email": null,
+    "telefono": "617 141 669",
+    "tipo": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Arabeska",
+    "provincia": "Madrid",
+    "direccion": "Madrid",
+    "web": "https://www.clubarabeska.com",
+    "email": "contacto@clubarabeska.com",
+    "telefono": "652604095",
+    "tipo": "Gimnasia Rítmica",
+    "enriquecido": "2026-03-07"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Ciudad de Sevilla",
+    "provincia": "Sevilla",
+    "direccion": "Centro Deportivo Pino Montano, Calle Cortijo de las Casillas s/n, 41015 Sevilla",
+    "web": "http://gimnasiaritmicasevilla.com",
+    "email": "clubritmicaciudaddesevilla@gmail.com",
+    "telefono": "628 758 419 / 601 24 82 89",
+    "tipo": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Club Deportivo Gimnasia Rítmica Azahar",
+    "provincia": "Sevilla",
+    "direccion": "Sevilla",
+    "web": "https://www.gimnasiaritmicaazahar.es",
+    "email": null,
+    "telefono": null,
+    "tipo": "Gimnasia Rítmica",
+    "notas": "Fundado junio 2024. LinkedIn: Alejandra Ruiz de Alda. Sin datos de contacto públicos.",
+    "enriquecido": "2026-03-07"
+  },
+  {
+    "nombre": "Federación Andaluza de Gimnasia",
+    "provincia": "Andalucía",
+    "direccion": "Sevilla",
+    "web": "https://www.andaluciagym.com",
+    "email": "info@andaluciagym.com",
+    "telefono": "954 29 60 92",
+    "tipo": "Federación"
+  }
+]

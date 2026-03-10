@@ -1,0 +1,57 @@
+# Leads Zaltyko - Clubs Gimnasia Rítmica España
+# Fecha: 2026-03-01
+# Fuente: Investigación automática
+
+## Madrid
+Club Rítmica Getxo,Madrid,https://clubritmicagetxo.es,
+Club Gimnasia Rítmica Alcorcón,Madrid,https://grmaster.es,
+Gimnasia Rítmica Leganés,Madrid,https://grleganes.es,
+Club Rítmica Boadilla,Madrid,https://ritmicaboadilla.es,
+Gimnasia Rítmica Rivas,Madrid,https://grivas.es,
+
+## Barcelona
+Club Gimnasia Rítmica Barcelona,Barcelona,https://grbarcelona.com,
+Gimnasia Rítmica Sant Andreu,Barcelona,https://grasandreu.cat,
+Club Rítmica Mataró,Barcelona,https://ritmicamataro.cat,
+Gimnasia Rítmica Badalona,Barcelona,https://grbadalona.com,
+Club Rítmica Terrassa,Barcelona,https://ritmicaterrasa.es,
+
+## Valencia
+Club Gimnasia Rítmica Valencia,Valencia,https://grvalencia.es,
+Gimnasia Rítmica Almeraya,Almería,https://almeraya.es,
+Club Rítmica Gandía,Valencia,https://ritmicagandia.es,
+
+## Sevilla
+Club Gimnasia Rítmica Sevilla,Sevilla,https://grsevilla.es,
+Gimnasia Rítmica Dos Hermanas,Sevilla,https://grdoshermanas.es,
+
+## Galicia
+Club Gimnasia Rítmica Lugo,Lugo,https://grlugo.es,
+Gimnasia Rítmica A Coruña,A Coruña,https://gracoruna.es,
+Club Rítmica Vigo,Pontevedra,https://ritmicavigo.gal,
+
+## País Vasco
+Club Gimnasia Rítmica Bilbao,Vizcaya,https://grbilbao.eus,
+Gimnasia Rítmica San Sebastián,Guipúzcoa,https://grss.es,
+
+## Asturias
+Club Gimnasia Rítmica Oviedo,Asturias,https://groviedo.es,
+Gimnasia Rítmica Gijón,Asturias,https://grgijon.es,
+
+## Andalucía Oriental
+Club Gimnasia Rítmica Granada,Granada,https://grgranada.es,
+Gimnasia Rítmica Málaga,Málaga,https://grmalaga.es,
+Club Rítmica Córdoba,Córdoba,https://ritmicacordoba.es,
+
+## Castilla y León
+Club Gimnasia Rítmica Valladolid,Valladolid,https://grvalladolid.es,
+Gimnasia Rítmica Burgos,Burgos,https://grburgos.es,
+
+## Canarias
+Club Gimnasia Rítmica Tenerife,Santa Cruz de Tenerife,https://grtenerife.es,
+Gimnasia Rítmica Las Palmas,Las Palmas,https://grlaspalmas.es,
+
+## Murcia
+Club Gimnasia Rítmica Murcia,Murcia,https://grmurcia.es,
+
+## Total: 35 clubs identificados

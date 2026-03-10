@@ -1,0 +1,52 @@
+[
+  {
+    "fact": "Mensajer\u00eda de voz (tts) \u2705",
+    "source": "daily_log",
+    "timestamp": "2026-03-02T23:00:24.010698"
+  },
+  {
+    "fact": "Sistema de heartbeats activo \u2705",
+    "source": "daily_log",
+    "timestamp": "2026-03-02T23:00:24.010711"
+  },
+  {
+    "fact": "## \u274c Qu\u00e9 no funcion\u00f3",
+    "source": "daily_log",
+    "timestamp": "2026-03-02T23:00:24.010717"
+  },
+  {
+    "fact": "[x] Gmail autorizado \u2705",
+    "source": "daily_log",
+    "timestamp": "2026-03-02T23:00:24.010790"
+  },
+  {
+    "fact": "API Key: 6e0ab6b7b4e04d7ea6217583b920bbba \u2705",
+    "source": "daily_log",
+    "timestamp": "2026-03-02T23:00:24.010797"
+  },
+  {
+    "fact": "Firma: Funciona \u2705",
+    "source": "daily_log",
+    "timestamp": "2026-03-02T23:00:24.010800"
+  },
+  {
+    "fact": "### \u2705 Qu\u00e9 funcion\u00f3",
+    "source": "daily_log",
+    "timestamp": "2026-03-02T23:00:24.010819"
+  },
+  {
+    "fact": "### \u274c Qu\u00e9 no funcion\u00f3",
+    "source": "daily_log",
+    "timestamp": "2026-03-02T23:00:24.010825"
+  },
+  {
+    "fact": "## \u2705 Qu\u00e9 funcion\u00f3 hoy",
+    "source": "daily_log",
+    "timestamp": "2026-03-02T23:00:24.010851"
+  },
+  {
+    "fact": "## \u274c Qu\u00e9 no funcion\u00f3",
+    "source": "daily_log",
+    "timestamp": "2026-03-02T23:00:24.010861"
+  }
+]

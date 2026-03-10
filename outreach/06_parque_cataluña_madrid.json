@@ -1,0 +1,14 @@
+{
+  "lead": {
+    "nombre": "Club Deportivo Parque de Cataluña",
+    "provincia": "Madrid",
+    "web": "https://parquedecataluña.es",
+    "email": "administracion@cdpc.es",
+    "telefono": "916 56 85 37"
+  },
+  "email": {
+    "subject": "Gestión integral para CD Parque de Cataluña",
+    "body": "Hola,\n\nSomos Zaltyko, software de gestión específico para academias de gimnásia rítmica.\n\nConocemos el Club Deportivo Parque de Cataluña en Torrejón de Ardoz y nos gustaría ayudaros con la gestión.\n\nLo que más tiempo consume en un club:\n- Matriculación y renovaciones\n- Cobros mensuales\n- Comunicación con padres\n- Control de grupos\n\nZaltyko lo centraliza todo. Además, al ser un club grande, tendríais todo el histórico de gimnastas, facturación, etc.\n\n¿Os interesa una demo?\n\nUn saludo,\nElvis"
+  },
+  "timestamp": "2026-02-27T01:41:00Z"
+}

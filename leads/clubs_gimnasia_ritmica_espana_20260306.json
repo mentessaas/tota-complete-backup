@@ -1,0 +1,179 @@
+[
+  {
+    "nombre": "Club Gimnàstica Rítmica Tanit",
+    "provincia": "Illes Balears (Ibiza)",
+    "web": "https://ritmicatanit.es/",
+    "email": "",
+    "telefono": "618451163",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Gimnasia Artística Pozuelo",
+    "provincia": "Madrid",
+    "web": "https://www.gapozuelo.com/",
+    "email": "direccion@gapozuelo.com",
+    "telefono": "607746197",
+    "categoria": "Gimnasia Artística"
+  },
+  {
+    "nombre": "Majadahonda Gymnastics School",
+    "provincia": "Madrid",
+    "web": "http://www.clubgimnasiamajadahonda.es/",
+    "email": "clubescuelagimnasiamajadahonda@gmail.com",
+    "telefono": "",
+    "categoria": "Gimnasia"
+  },
+  {
+    "nombre": "CD Rítmica Ogíjares",
+    "provincia": "Granada",
+    "web": "https://www.instagram.com/ogijaresritmica/",
+    "email": "",
+    "telefono": "637847011",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Club Deportivo Rítmica Stars",
+    "provincia": "Málaga",
+    "web": "https://www.clubritmicastars.webnode.es/",
+    "email": "",
+    "telefono": "618591137",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Centro Óscar Rodérickus",
+    "provincia": "Valladolid",
+    "web": "https://oscar-roderickus.my.canva.site/gym",
+    "email": "",
+    "telefono": "699097236",
+    "categoria": "Gimnasia"
+  },
+  {
+    "nombre": "Indarra Gimnasio",
+    "provincia": "Gipuzkoa",
+    "web": "http://www.gimnasioindarra.com/",
+    "email": "info@gimnasioindarra.com",
+    "telefono": "943674097",
+    "categoria": "Gimnasia"
+  },
+  {
+    "nombre": "NEXUS GYM CLUB",
+    "provincia": "Barcelona",
+    "web": "https://social.resasports.com/en/center/nexus-gym-club/info",
+    "email": "nexusgymclub@gmail.com",
+    "telefono": "621237004",
+    "categoria": "Gimnasia"
+  },
+  {
+    "nombre": "Ciudad Jardín Club Gimnasia Rítmica Málaga",
+    "provincia": "Málaga",
+    "web": "https://www.ritmicamalaga.com/ciudad-jardin/",
+    "email": "ritmicamalaga@gmail.com",
+    "telefono": "667627954",
+    "categoria": "Gimnasia Rítmica",
+    "notas": "Es el Club Gimnasia Rítmica Málaga que opera en el Polideportivo Ciudad Jardín"
+  },
+  {
+    "nombre": "G.R. Sancti-Petri",
+    "provincia": "Cádiz",
+    "web": "https://www.facebook.com/clubgimnasiasanctipetri/",
+    "email": "",
+    "telefono": "",
+    "categoria": "Gimnasia Rítmica",
+    "notas": "Instagram: @clubgimnasiasanctipetri. Sin email/telf directo encontrado"
+  },
+  {
+    "nombre": "G.R. Marbella",
+    "provincia": "Málaga",
+    "web": "",
+    "email": "S.diaz@andaluciagym.com",
+    "telefono": "680423659",
+    "categoria": "Gimnasia Rítmica",
+    "notas": "Instagram: @grmarbella, Facebook: GRMarbella"
+  },
+  {
+    "nombre": "Club Sanluqueño G.R.",
+    "provincia": "Cádiz",
+    "web": "https://clubsanluquenogr.wixsite.com/clubsanluqueno",
+    "email": "",
+    "telefono": "",
+    "categoria": "Gimnasia Rítmica",
+    "notas": "Instagram: @clubsanluqueno, Facebook: Sanluqueño Gimnasia Ritmica. Sin email/telf directo"
+  },
+  {
+    "nombre": "A.D.E. Rítmica Alcorcón",
+    "provincia": "Madrid",
+    "web": "",
+    "email": "clubritmica@gmail.com",
+    "telefono": "646612034",
+    "categoria": "Gimnasia Rítmica",
+    "notas": "Instagram: @ritmicaader, Facebook: A.D. Escuela Rítmica Alcorcón"
+  },
+  {
+    "nombre": "Club de Gimnasia Rítmica Picanya",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "esthergym@hotmail.com",
+    "telefono": "654085781",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Club Deportivo Ontinyent",
+    "provincia": "Valencia",
+    "web": "",
+    "email": "cgrdeportivo@gmail.com",
+    "telefono": "",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "C.D. Gimnasia Rítmica AlSUR",
+    "provincia": "Málaga",
+    "web": "",
+    "email": "ritmicalsur@gmail.com",
+    "telefono": "681936774",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "C.D. Gimnasia Rítmica Castellar",
+    "provincia": "Cádiz",
+    "web": "",
+    "email": "",
+    "telefono": "626651090",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Club Rítmica Milany",
+    "provincia": "Asturias",
+    "web": "",
+    "email": "crmilany@hotmail.com",
+    "telefono": "677767929",
+    "categoria": "Gimnasia Rítmica",
+    "notas": "CORRECCIÓN: Está en Gijón, Asturias (no Barcelona). Instagram: @crmilany"
+  },
+  {
+    "nombre": "Club Acroastur",
+    "provincia": "Asturias",
+    "web": "https://www.zonacrobatica.com/",
+    "email": "acroastur@gmail.com",
+    "telefono": "668543921",
+    "categoria": "Gimnasia Acrobática",
+    "notas": "Gimnasia acrobática en Gijón. Web: zonacrobatica.com"
+  },
+  {
+    "nombre": "Deportiu LYS",
+    "provincia": "Asturias",
+    "web": "",
+    "email": "",
+    "telefono": "672963374",
+    "categoria": "Gimnasia Rítmica",
+    "notas": "CORRECCIÓN: No existe en Barcelona. Existe Club Deportivo LYS en Asturias (Gijón). Facebook: clubd.lys"
+  },
+  {
+    "nombre": "Agrupación Rítmica Villanueva de Siero",
+    "provincia": "Asturias",
+    "web": "https://villanuevadesiero.jimdoweb.com/",
+    "email": "ritmicavillanuevasiero@gmail.com",
+    "telefono": "665460441",
+    "categoria": "Gimnasia Rítmica",
+    "notas": "Instagram: @ritmicavillanueva, Facebook: Rítmica Villanueva"
+  }
+]

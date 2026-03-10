@@ -1,0 +1,102 @@
+[
+  {
+    "fact": "Claude Code: \u2705 instalado (/opt/homebrew/bin/claude)",
+    "source": "daily_log",
+    "timestamp": "2026-03-07T23:01:07.784497"
+  },
+  {
+    "fact": "MiniMax API: \u2705 configurada con ANTHROPIC_API_KEY",
+    "source": "daily_log",
+    "timestamp": "2026-03-07T23:01:07.784505"
+  },
+  {
+    "fact": "Sistema de cola: \u2705 configurado (/tmp/yota-cc-commands.txt)",
+    "source": "daily_log",
+    "timestamp": "2026-03-07T23:01:07.784509"
+  },
+  {
+    "fact": "\u2705 Datos reales de Supabase",
+    "source": "daily_log",
+    "timestamp": "2026-03-07T23:01:07.784543"
+  },
+  {
+    "fact": "\u2705 UI se renderiza correctamente",
+    "source": "daily_log",
+    "timestamp": "2026-03-07T23:01:07.784547"
+  },
+  {
+    "fact": "\u26a0\ufe0f Cambios en UI no se guardan (solo lectura)",
+    "source": "daily_log",
+    "timestamp": "2026-03-07T23:01:07.784573"
+  },
+  {
+    "fact": "Build: \u2705 OK",
+    "source": "daily_log",
+    "timestamp": "2026-03-07T23:01:07.784615"
+  },
+  {
+    "fact": "Tests: \u274c Fallando (5 test files)",
+    "source": "daily_log",
+    "timestamp": "2026-03-07T23:01:07.784618"
+  },
+  {
+    "fact": "Lint: \u26a0\ufe0f 18 warnings",
+    "source": "daily_log",
+    "timestamp": "2026-03-07T23:01:07.784621"
+  },
+  {
+    "fact": "`npx vitest run`: \u2705 24/24 test files passed",
+    "source": "daily_log",
+    "timestamp": "2026-03-07T23:01:07.784635"
+  },
+  {
+    "fact": "Tests: \u2705 134 passed, 3 skipped",
+    "source": "daily_log",
+    "timestamp": "2026-03-07T23:01:07.784638"
+  },
+  {
+    "fact": "LM Studio: \u2705 via Homebrew",
+    "source": "daily_log",
+    "timestamp": "2026-03-07T23:01:07.784846"
+  },
+  {
+    "fact": "Qwen3.5-0.8B: \u2705 descargado (503MB)",
+    "source": "daily_log",
+    "timestamp": "2026-03-07T23:01:07.784849"
+  },
+  {
+    "fact": "| MyFitnessPal | 200M+ | \u274c | \u274c |",
+    "source": "daily_log",
+    "timestamp": "2026-03-07T23:01:07.784929"
+  },
+  {
+    "fact": "| Cal AI | 15M | \u2705 | \u274c |",
+    "source": "daily_log",
+    "timestamp": "2026-03-07T23:01:07.784931"
+  },
+  {
+    "fact": "| Fitia | 10M+ | \u274c | \u274c |",
+    "source": "daily_log",
+    "timestamp": "2026-03-07T23:01:07.784934"
+  },
+  {
+    "fact": "| INDYA (ES) | - | \u274c | \u274c |",
+    "source": "daily_log",
+    "timestamp": "2026-03-07T23:01:07.784937"
+  },
+  {
+    "fact": "### \u2705 Qu\u00e9 funcion\u00f3 hoy",
+    "source": "daily_log",
+    "timestamp": "2026-03-07T23:01:07.784999"
+  },
+  {
+    "fact": "### \u274c Qu\u00e9 no funcion\u00f3",
+    "source": "daily_log",
+    "timestamp": "2026-03-07T23:01:07.785009"
+  },
+  {
+    "fact": "Build: \u2705 Pass",
+    "source": "daily_log",
+    "timestamp": "2026-03-07T23:01:07.785111"
+  }
+]

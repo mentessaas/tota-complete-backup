@@ -1,0 +1,25 @@
+# Paper Desktop - Design Tools Revolution
+
+## Resumen
+
+- **Producto:** Paper Desktop
+- **Qué hace:** AI agents escriben directamente en tus diseños (no exportar, no copy-paste)
+- **Compatible con:** Cursor, Claude Code, OpenAI CodeEx, GitHub Copilot
+- **Plataformas:** Mac y Linux (Windows pronto)
+
+## Concepto clave: MCP (Model Context Protocol)
+- Piensa en ello como un enchufe estándar
+- Cuando abres Paper Desktop, activa un servidor MCP
+- Cualquier AI agent que soporte MCP puede entrar y trabajar
+
+## Cambio paradigmático:
+- **Antes:** Diseñador → Figma → Developer rebuild → siempre algo se rompe
+- **Ahora:** Design = código real (HTML/CSS) → AI lee, edita, y sincroniza con el codebase
+
+## Flujo:
+1. Diseñas en Paper Desktop
+2. Conectas Claude Code/Cursor por MCP
+3. Das prompts en texto
+4. El agent edita directamente
+5. Los cambios fluyen al código vivo
+

@@ -1,11 +1,11 @@
 # AGENTS.md - Tota Auto Factory v1.0
 
 ## Philosophy
-**Yota = Orchestrator** - No construye, coordina 11 agents especializados
+**Yota = Orchestrator** - No construye, coordina 15 agents especializados
 
 ---
 
-## 11 Agents Architecture
+## 15 Agents Architecture
 
 | # | Agent | Rol | Schedule | Status |
 |---|-------|-----|----------|--------|
@@ -20,6 +20,10 @@
 | 9 | **Ops** | Operations - Project management | Daily | ✅ |
 | 10 | **Analista** | Analytics - Métricas y reporting | Weekly | ✅ |
 | 11 | **Yota** | Orchestrator - Coordinación | Always | ✅ |
+| 12 | **Project Shepherd** | Project mgmt avanzado | On-demand | ✅ |
+| 13 | **Feedback Synthesizer** | User feedback analysis | On-demand | ✅ |
+| 14 | **Content Creator** | Multi-platform content | On-demand | ✅ |
+| 15 | **Twitter Engager** | Social selling | On-demand | ✅ |
 
 ---
 

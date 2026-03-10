@@ -1,0 +1,13 @@
+{
+  "lead": {
+    "nombre": "Club Gimnasia Rítmica Torrepaterna",
+    "provincia": "Valencia",
+    "web": "https://cgrtorrepaterna.wordpress.com",
+    "email": "torrepaterna@gmail.com"
+  },
+  "email": {
+    "subject": "Software para Club de Gimnasia - Valencia",
+    "body": "Hola,\n\nMe llamo Elvis y trabajo con Zaltyko, un software de gestión para academias de gimnásia rítmica.\n\nVi que lleváis el Club Gimnasia Rítmica Torrepaterna en Valencia y me preguntaba cómo gestionáis actualmente las inscripciones y comunicación con familias.\n\nZaltyko es una herramienta hecho específicamente para clubes de rítmica:\n- Matriculación y cobros automatizados\n- Grupos por niveles\n- Comunicación con padres\n- Informes y estadísticas\n\n¿Os interesa reducir el tiempo que dedicáis a administración?\n\nUn saludo,\nElvis"
+  },
+  "timestamp": "2026-02-27T01:41:00Z"
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "nombre": "Club Gimnasia Rítmica Málaga",
+    "provincia": "Málaga",
+    "direccion": "Calle Niño Del Museo S/n, 29003 Málaga",
+    "web": "https://www.ritmicamalaga.com",
+    "email": "ritmicamalaga@gmail.com",
+    "telefono": null,
+    "tipo": "Gimnasia Rítmica",
+    "enriquecido": "2026-03-07"
+  },
+  {
+    "nombre": "Club Miralmar",
+    "provincia": "Málaga",
+    "direccion": "Málaga",
+    "web": "http://www.clubmiralmar.com",
+    "email": "administracion@clubmiralmar.com",
+    "telefono": "699622211",
+    "tipo": "Gimnasia Rítmica",
+    "enriquecido": "2026-03-07"
+  },
+  {
+    "nombre": "Club Guadalmedina",
+    "provincia": "Málaga",
+    "direccion": "Málaga",
+    "web": null,
+    "email": null,
+    "telefono": null,
+    "tipo": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Club Alhambra Armilla",
+    "provincia": "Granada",
+    "direccion": "Armilla, Granada",
+    "web": "https://clubalhambraarmilla.com",
+    "email": null,
+    "telefono": null,
+    "tipo": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Club Acrobatos Granada",
+    "provincia": "Granada",
+    "direccion": "Granada",
+    "web": null,
+    "email": "club_acrobatos_granada@hotmail.es",
+    "telefono": "637 878 480",
+    "tipo": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Acrobalia",
+    "provincia": "Granada",
+    "direccion": "Granada",
+    "web": null,
+    "email": "info@acrobalia.com",
+    "telefono": null,
+    "tipo": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Club Ritmica Sant Feliu",
+    "provincia": "Barcelona",
+    "direccion": "C/ Mas Lluí, 13-15, 08980 Sant Feliu de Llobregat",
+    "web": "https://www.clubritmicasantfeliu.net/wordpress/",
+    "email": "informaciocrsf@gmail.com",
+    "telefono": "609 559 866",
+    "tipo": "Gimnasia Rítmica",
+    "enriquecido": "2026-03-07"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Rivas Vaciamadrid",
+    "provincia": "Madrid",
+    "direccion": "Rivas Vaciamadrid, Madrid",
+    "web": "https://ritmicarivas.com",
+    "email": null,
+    "telefono": "615340574",
+    "tipo": "Gimnasia Rítmica",
+    "enriquecido": "2026-03-07"
+  },
+  {
+    "nombre": "Real Federación Española de Gimnasia",
+    "provincia": "Madrid",
+    "direccion": "C. Ferraz 16 7ª Dcho, 28008 Madrid",
+    "web": "https://rfegimnasia.es",
+    "email": "rfeg@rfegimnasia.es",
+    "telefono": "915 40 10 78",
+    "tipo": "Federación",
+    "enriquecido": "2026-03-07"
+  },
+  {
+    "nombre": "Federación de Gimnasia de Castilla La Mancha",
+    "provincia": "Castilla-La Mancha",
+    "direccion": "Calle Alcalde Martinez de la Ossa, s/n (Casa del Deporte), Albacete",
+    "web": "https://www.fgclm.es",
+    "email": "fgimnasiaclm@hotmail.com",
+    "telefono": "645 183 850",
+    "tipo": "Federación",
+    "enriquecido": "2026-03-07"
+  }
+]

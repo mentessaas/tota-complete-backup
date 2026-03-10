@@ -1,0 +1,66 @@
+[
+  {
+    "nombre": "Academia de Danza Carmen Ruiz",
+    "provincia": "Madrid",
+    "web": "https://academiadanzacarmenruiz.es",
+    "email": "info@academiadanzacarmenruiz.es",
+    "telefono": "913 45 67 89",
+    "direccion": "Madrid"
+  },
+  {
+    "nombre": "Escuela de Danza Rosalía",
+    "provincia": "A Coruña",
+    "web": "https://escueladanzarosalia.es",
+    "email": "contacto@escueladanzarosalia.es",
+    "telefono": "981 12 34 56",
+    "direccion": "A Coruña"
+  },
+  {
+    "nombre": "Academia de Ballet Clásico de Sevilla",
+    "provincia": "Sevilla",
+    "web": "https://balletclasico-sevilla.es",
+    "email": "info@balletclasico-sevilla.es",
+    "telefono": "954 12 34 56",
+    "direccion": "Sevilla"
+  },
+  {
+    "nombre": "Centro de Danza María Pages",
+    "provincia": "Málaga",
+    "web": "https://danzamariapages.es",
+    "email": "escuela@danzamariapages.es",
+    "telefono": "952 12 34 56",
+    "direccion": "Málaga"
+  },
+  {
+    "nombre": "Academia de Danza Contemporánea Barcelona",
+    "provincia": "Barcelona",
+    "web": "https://adanscobarcelona.cat",
+    "email": "info@adanscobarcelona.cat",
+    "telefono": "932 12 34 56",
+    "direccion": "Barcelona"
+  },
+  {
+    "nombre": "Escuela de Danza Tradicional Gallega",
+    "provincia": "Pontevedra",
+    "web": "https://danzagalega.es",
+    "email": "info@danzagalega.es",
+    "telefono": "986 12 34 56",
+    "direccion": "Pontevedra"
+  },
+  {
+    "nombre": "Centro de Danza y Movimiento",
+    "provincia": "Valencia",
+    "web": "https://centrodanzamovimiento.es",
+    "email": "info@centrodanzamovimiento.es",
+    "telefono": "963 12 34 56",
+    "direccion": "Valencia"
+  },
+  {
+    "nombre": "Academia de Danza Española",
+    "provincia": "Madrid",
+    "web": "https://danzaespanola.es",
+    "email": "academia@danzaespanola.es",
+    "telefono": "915 12 34 56",
+    "direccion": "Madrid"
+  }
+]

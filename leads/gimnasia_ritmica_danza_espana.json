@@ -1,0 +1,122 @@
+[
+  {
+    "nombre": "Club Rítmica Salamanca",
+    "provincia": "Salamanca",
+    "web": "https://clubritmicasalamanca.com",
+    "email": "info@clubritmicasalamanca.com",
+    "telefono": "",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Ritmica Las Alas",
+    "provincia": "Badajoz",
+    "web": "https://cdritmicalasalas.wordpress.com",
+    "email": "cdritmicalasalas@gmail.com",
+    "telefono": "601195687",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Flow Training Pilates Alcalá de Guadaíra",
+    "provincia": "Sevilla",
+    "web": "https://www.flowtraining.es",
+    "email": "info@flowtraining.es",
+    "telefono": "624542189",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Gymnastics Federation Madrileña",
+    "provincia": "Madrid",
+    "web": "http://www.fmgimnasia.com",
+    "email": "ritmica@fmgimnasia.com",
+    "telefono": "917251649",
+    "categoria": "Federación Gimnasia"
+  },
+  {
+    "nombre": "AerialMad",
+    "provincia": "Madrid",
+    "web": "http://aerialmad.es",
+    "email": "hola@aerialmad.es",
+    "telefono": "695030605",
+    "categoria": "Gimnasia"
+  },
+  {
+    "nombre": "GM Formación",
+    "provincia": "Alicante",
+    "web": "https://www.gmformacion.com",
+    "email": "informacion@gmformacion.com",
+    "telefono": "+34 96 513 11 56 / 673 80 01 80",
+    "categoria": "Gimnasia"
+  },
+  {
+    "nombre": "Club Gimnasia Artística La Safor Gandia",
+    "provincia": "Valencia",
+    "web": "https://www.facebook.com/cgalasaforgandia",
+    "email": "",
+    "telefono": "686907093",
+    "categoria": "Gimnasia Artística"
+  },
+  {
+    "nombre": "Gimnàs Club Francàs",
+    "provincia": "Barcelona",
+    "web": "https://instagram.com/gymclubfrancas",
+    "email": "",
+    "telefono": "933533302",
+    "categoria": "Gimnasia"
+  },
+  {
+    "nombre": "SFA gymboutique",
+    "provincia": "Córdoba",
+    "web": "https://www.sfaboutique.com",
+    "email": "welcome@sfaboutique.com",
+    "telefono": "722544414",
+    "categoria": "Gimnasia"
+  },
+  {
+    "nombre": "G2 Sport Malgrat de Mar",
+    "provincia": "Barcelona",
+    "web": "http://www.g2sport.es",
+    "email": "77info@g2sport.es",
+    "telefono": "669831348",
+    "categoria": "Gimnasia"
+  },
+  {
+    "nombre": "Rocio Rodríguez Danza Estudio",
+    "provincia": "Toledo",
+    "web": "https://www.instagram.com/danzaestudiorociorodriguez",
+    "email": "",
+    "telefono": "647713934",
+    "categoria": "Danza"
+  },
+  {
+    "nombre": "Gym ATEMI Mora",
+    "provincia": "Toledo",
+    "web": "https://www.facebook.com/GymAtemiMora",
+    "email": "",
+    "telefono": "635414161",
+    "categoria": "Gimnasia"
+  },
+  {
+    "nombre": "Baccus Gym Club",
+    "provincia": "La Rioja",
+    "web": "https://www.instagram.com/baccus_gymclub",
+    "email": "",
+    "telefono": "681015381",
+    "categoria": "Gimnasia"
+  },
+  {
+    "nombre": "Pavelló de gimnàstica artística Salt",
+    "provincia": "Girona",
+    "web": "http://saltgimnastic.cat",
+    "email": "",
+    "telefono": "972233239",
+    "categoria": "Gimnasia Artística"
+  },
+  {
+    "nombre": "Fisioentrena",
+    "provincia": "Alicante",
+    "web": "http://www.fisioentrenabenidorm.com",
+    "email": "",
+    "telefono": "865677249",
+    "categoria": "Gimnasia"
+  }
+]

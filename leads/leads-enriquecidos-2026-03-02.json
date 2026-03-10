@@ -1,0 +1,42 @@
+{
+  "fecha": "2026-03-02",
+  "hora": "08:00",
+  "total": 3,
+  "leads": [
+    {
+      "nombre": "ACROBATOS",
+      "provincia": "Granada",
+      "email": "club_acrobatos_granada@hotmail.es",
+      "telefono": "645 090 857",
+      "web": null,
+      "fuente": "Google + Federación Andalucía",
+      "estado": "enriquecido"
+    },
+    {
+      "nombre": "ALDETOR",
+      "provincia": "Málaga",
+      "email": "aldetor.ritmica@gmail.com",
+      "telefono": "630674756",
+      "web": null,
+      "fuente": "Google + Federación Andalucía",
+      "estado": "enriquecido",
+      "notas": "También: pilialdetor@hotmail.com"
+    },
+    {
+      "nombre": "BENALRITMICA",
+      "provincia": "Málaga",
+      "email": "benalritmica@gmail.com",
+      "telefono": "656440079",
+      "web": "benalritmica.es",
+      "fuente": "Google + Web oficial",
+      "estado": "enriquecido"
+    }
+  ],
+  "pendientes": 32,
+  "resumen": {
+    "total": 3,
+    "enriquecidos": 3,
+    "pendientes": 32,
+    "notas": "3 leads de Andalucía enriquecidos. 32 pendientes."
+  }
+}

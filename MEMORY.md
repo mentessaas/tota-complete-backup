@@ -49,7 +49,16 @@
 
 ## 📊 Decisiones Clave
 
-### 2026-03-06
+### 2026-03-10
+- **AgentHub Automatizado:**
+  - Canales creados: #rex, #valeria, #tech, #cierra
+  - Cron jobs activos para posts diarios (9-11h)
+  - Script: ~/workspace/scripts/log_experiment.sh
+- **Tota Auto-Evolution System:**
+  - save-config.sh: Guarda snapshots de config como commits
+  - evaluate.sh: Auto-evalúa mis respuestas
+  - log-learning.sh: Documenta decisiones
+  - Cron job diario (23:00) para self-evaluation
 - **Auto-Auditoría configurada:**
   - Exec sin approval (security: allowlist) ✅
   - Script: ~/workspace/scripts/auto-audit.sh

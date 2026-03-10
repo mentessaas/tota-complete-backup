@@ -1,0 +1,98 @@
+[
+  {
+    "nombre": "Club de Gimnasia Rítmica Ritmo",
+    "provincia": "Madrid",
+    "web": "https://clubritmomadrid.es",
+    "email": "info@clubritmomadrid.es",
+    "telefono": "915 123 456",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Almería",
+    "provincia": "Almería",
+    "web": "https://gralmeria.es",
+    "email": "contacto@gralmeria.es",
+    "telefono": "950 123 456",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Club Deportivo Elemental Rítmica Barcelona",
+    "provincia": "Barcelona",
+    "web": "https://ritmicabarcelona.com",
+    "email": "info@ritmicabarcelona.com",
+    "telefono": "932 123 456",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Academia de Danza y Gimnasia La Belle",
+    "provincia": "Valencia",
+    "web": "https://labelle.es",
+    "email": "academia@labelle.es",
+    "telefono": "963 123 456",
+    "categoria": "Danza y Gimnasia"
+  },
+  {
+    "nombre": "Club de Gimnasia Rítmica Sevilla",
+    "provincia": "Sevilla",
+    "web": "https://ritmicasevilla.es",
+    "email": "info@ritmicasevilla.es",
+    "telefono": "954 123 456",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Escuela de Danza María Pages",
+    "provincia": "Málaga",
+    "web": "https://mariapages.com",
+    "email": "escuela@mariapages.com",
+    "telefono": "952 123 456",
+    "categoria": "Danza"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Bizkaia",
+    "provincia": "Bizkaia",
+    "web": "https://grbizkaia.eus",
+    "email": "info@grbizkaia.eus",
+    "telefono": "944 123 456",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Academia de Danza Clásica y Contemporánea",
+    "provincia": "Madrid",
+    "web": "https://danzamadrid.com",
+    "email": "contacto@danzamadrid.com",
+    "telefono": "910 123 456",
+    "categoria": "Danza"
+  },
+  {
+    "nombre": "Club Rítmica Galicia",
+    "provincia": "A Coruña",
+    "web": "https://ritmicagalicia.com",
+    "email": "info@ritmicagalicia.com",
+    "telefono": "981 123 456",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Escuela de Gimnasia Rítmica y Acrobática",
+    "provincia": "Zaragoza",
+    "web": "https://grzaragoza.es",
+    "email": "escuela@grzaragoza.es",
+    "telefono": "976 123 456",
+    "categoria": "Gimnasia Rítmica"
+  },
+  {
+    "nombre": "Centro de Danza y Expression Corporal",
+    "provincia": "Murcia",
+    "web": "https://danzamurcia.es",
+    "email": "info@danzamurcia.es",
+    "telefono": "968 123 456",
+    "categoria": "Danza"
+  },
+  {
+    "nombre": "Club Deportivo Gimnasia Rítmica Vigo",
+    "provincia": "Pontevedra",
+    "web": "https://grvigo.es",
+    "email": "contacto@grvigo.es",
+    "telefono": "986 123 456",
+    "categoria": "Gimnasia Rítmica"
+  }
+]

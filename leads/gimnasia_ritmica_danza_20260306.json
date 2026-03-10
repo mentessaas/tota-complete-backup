@@ -1,0 +1,115 @@
+{
+  "fecha": "2026-03-06",
+  "fuente": "Badgie.es + Google Search",
+  "total": 12,
+  "leads": [
+    {
+      "nombre": "Club Gimnàstica Rítmica Tanit",
+      "provincia": "Illes Balears",
+      "localidad": "Eivissa",
+      "web": "https://ritmicatanit.es/inscripciones/",
+      "email": "infocgrtanit@gmail.com",
+      "telefono": "618451163",
+      "tipo": "Gimnasia Rítmica"
+    },
+    {
+      "nombre": "CD Rítmica Ogíjares",
+      "provincia": "Granada",
+      "localidad": "Ogíjares",
+      "web": "https://www.instagram.com/ogijaresritmica/",
+      "email": null,
+      "telefono": "637847011",
+      "tipo": "Gimnasia Rítmica"
+    },
+    {
+      "nombre": "Club Deportivo Rítmica Stars",
+      "provincia": "Málaga",
+      "localidad": "Málaga",
+      "web": "https://www.clubritmicastars.webnode.es/",
+      "email": null,
+      "telefono": "618591137",
+      "tipo": "Gimnasia Rítmica"
+    },
+    {
+      "nombre": "Pole Soul Acrobacias & Pilates",
+      "provincia": "Albacete",
+      "localidad": "Albacete",
+      "web": "https://facebook.com/Polesoulalbacete/",
+      "email": "Polesoulestudio@gmail.com",
+      "telefono": "619421564",
+      "tipo": "Acrobacias/Danza"
+    },
+    {
+      "nombre": "Gimnasia Artística Pozuelo",
+      "provincia": "Madrid",
+      "localidad": "Pozuelo de Alarcón",
+      "web": "https://www.gapozuelo.com/",
+      "email": "direccion@gapozuelo.com",
+      "telefono": "607746197",
+      "tipo": "Gimnasia Artística"
+    },
+    {
+      "nombre": "Majadahonda Gymnastics School",
+      "provincia": "Madrid",
+      "localidad": "Majadahonda",
+      "web": "http://www.clubgimnasiamajadahonda.es/",
+      "email": "clubescuelagimnasiamajadahonda@gmail.com",
+      "telefono": "916385506",
+      "tipo": "Gimnasia"
+    },
+    {
+      "nombre": "Indarra",
+      "provincia": "Gipuzkoa",
+      "localidad": "Tolosa",
+      "web": "http://www.gimnasioindarra.com/",
+      "email": "info@gimnasioindarra.com",
+      "telefono": "943674097",
+      "tipo": "Gimnasia"
+    },
+    {
+      "nombre": "NEXUS GYM CLUB",
+      "provincia": "Barcelona",
+      "localidad": "Tona",
+      "web": "https://social.resasports.com/en/center/nexus-gym-club/info",
+      "email": "nexusgymclub@gmail.com",
+      "telefono": "621237004",
+      "tipo": "Gimnasia"
+    },
+    {
+      "nombre": "Nexo Pilates Estudio",
+      "provincia": "Murcia",
+      "localidad": "Murcia",
+      "web": "https://nexo-estudiopilates.es/",
+      "email": null,
+      "telefono": "604426696",
+      "tipo": "Pilates/Danza"
+    },
+    {
+      "nombre": "Flow Training Pilates Alcalá de Guadaíra",
+      "provincia": "Sevilla",
+      "localidad": "Alcalá de Guadaíra",
+      "web": "https://www.flowtraining.es/",
+      "email": "info@flowtraining.es",
+      "telefono": "624542189",
+      "tipo": "Pilates/Danza"
+    },
+    {
+      "nombre": "Vitae REC",
+      "provincia": "León",
+      "localidad": "León",
+      "web": "http://www.vitaerec.com/",
+      "email": null,
+      "telefono": "685166326",
+      "tipo": "Gimnasia"
+    },
+    {
+      "nombre": "Skipp Madrid (Kangoo Madrid)",
+      "provincia": "Madrid",
+      "localidad": "Madrid",
+      "web": "https://www.skipp.es/",
+      "email": "madridskippmadrid@gmail.com",
+      "telefono": "684773375",
+      "tipo": "Gimnasia"
+    }
+  ]
+}

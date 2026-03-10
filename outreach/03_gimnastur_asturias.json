@@ -1,0 +1,14 @@
+{
+  "lead": {
+    "nombre": "Gimnastur (A.D. Omega)",
+    "provincia": "Asturias",
+    "web": "https://www.gimnastur.com",
+    "email": "adomega_gr@hotmail.com",
+    "telefono": "606288325"
+  },
+  "email": {
+    "subject": "Software para Gimnasia Rítmica en Asturias",
+    "body": "Hola,\n\nMe llamo Elvis y trabajo con Zaltyko, software de gestión para academias de gimnásia rítmica.\n\nConocemos el trabajo que hacéis en Gimnastur (Oviedo) con A.D. Omega y nos encantaría ayudaros a simplificar la gestión.\n\nLo que souvent-ends consume mucho tiempo:\n- Inscripciones y renovaciones\n- Cobros de mensualidades\n- Comunicación con familias\n- Control de asistencia\n\nZaltyko lo centraliza todo en una plataforma fácil de usar. Y como está hecho específicamente para rítmica, entiende las necesidades de vuestro club.\n\n¿Queréis probarlo sin compromiso?\n\nUn saludo,\nElvis"
+  },
+  "timestamp": "2026-02-27T01:41:00Z"
+}

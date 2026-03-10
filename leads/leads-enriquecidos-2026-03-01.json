@@ -1,0 +1,103 @@
+{
+  "fecha": "2026-03-02",
+  "hora": "01:57",
+  "total": 7,
+  "leads": [
+    {
+      "nombre": "Club Gimnasia Rítmica Ciudad de Sevilla",
+      "provincia": "Sevilla",
+      "email": "clubritmicaciudaddesevilla@gmail.com",
+      "telefono": "628 758 419 / 601 24 82 89",
+      "web": "https://gimnasiaritmicasevilla.com/",
+      "fuente": "Enriquecido via web 2026-02-28",
+      "estado": "enriquecido"
+    },
+    {
+      "nombre": "Club Deportivo Gimnastico Sur",
+      "provincia": "Sevilla",
+      "email": "escuelas@clubsur.es",
+      "telefono": "654401022",
+      "web": "https://clubsur.es/",
+      "fuente": "Enriquecido via web 2026-02-28",
+      "estado": "enriquecido"
+    },
+    {
+      "nombre": "CDE Euritmia Gimnasia Rítmica",
+      "provincia": "Madrid",
+      "email": "ritmica.euritmia@gmail.com",
+      "telefono": "669 765 191",
+      "web": "https://ritmicaeuritmia.es",
+      "fuente": "Enriquecido via web 2026-03-01",
+      "estado": "enriquecido"
+    },
+    {
+      "nombre": "Club Rítmica Fuengirola",
+      "provincia": "Málaga",
+      "email": null,
+      "telefono": "+34 633 13 53 15",
+      "web": "https://ritmicafuengirola.es",
+      "instagram": "@ritmicafuengirola",
+      "fuente": "Web scraping 2026-03-01 - Teléfono encontrado, email protegido Cloudflare",
+      "estado": "enriquecido"
+    },
+    {
+      "nombre": "Club Deportivo Gimnasia Rítmica Azahar",
+      "provincia": "Sevilla",
+      "email": "clubritmicaazahar@gmail.com",
+      "telefono": "+34 722 450 501 / +34 684 740 348",
+      "web": "https://www.gimnasiaritmicaazahar.es/",
+      "instagram": "@gimnasiaritmicaazahar",
+      "fuente": "Enriquecido via web 2026-03-02 - Datos encontrados en página contacto",
+      "estado": "enriquecido"
+    },
+    {
+      "nombre": "Club Gimnasia Rítmica Málaga",
+      "provincia": "Málaga",
+      "email": "ritmicamalaga@gmail.com",
+      "telefono": "667 627 954",
+      "web": "https://www.ritmicamalaga.com/",
+      "instagram": "@ritmicamalaga",
+      "facebook": "@clubgimnasiaritmicamalaga",
+      "twitter": "@ritmicamalaga",
+      "fuente": "Enriquecido via web 2026-03-02 - Email y teléfono encontrados en web",
+      "estado": "enriquecido"
+    },
+    {
+      "nombre": "Club Gimnasia Rítmica Sueño",
+      "provincia": "Sevilla",
+      "email": "deportes@aytogines.es",
+      "telefono": "954 713 137 / 954 715 400",
+      "web": "https://www.deportesgines.es/club-gimnasia-ritmica-sueno/",
+      "instagram": "@clubgritmicasueno",
+      "direccion": "Calle Manuel Canela, 22. Calle Virgen del Pilar, s/n 41960 – Gines (Sevilla)",
+      "fuente": "Enriquecido via web 2026-03-02 - Datos encontrados en web Ayuntamiento de Gines",
+      "estado": "enriquecido"
+    }
+  ],
+  "resumen": {
+    "total": 7,
+    "enriquecidos": 7,
+    "pendientes": 0,
+    "fecha_enriquecimiento": "2026-03-02T00:57:00Z",
+    "notas": "✅ 3/3 leads pendientes enriquecidos. Todos los leads ahora tienen email y teléfono."
+  },
+  "nuevos_datos_encontrados": {
+    "Club Deportivo Gimnasia Rítmica Azahar": {
+      "email": "clubritmicaazahar@gmail.com",
+      "telefono": "+34 722 450 501 / +34 684 740 348"
+    },
+    "Club Gimnasia Rítmica Málaga": {
+      "email": "ritmicamalaga@gmail.com",
+      "telefono": "667 627 954",
+      "instagram": "@ritmicamalaga",
+      "facebook": "@clubgimnasiaritmicamalaga",
+      "twitter": "@ritmicamalaga"
+    },
+    "Club Gimnasia Rítmica Sueño": {
+      "email": "deportes@aytogines.es",
+      "telefono": "954 713 137 / 954 715 400",
+      "web": "https://www.deportesgines.es/club-gimnasia-ritmica-sueno/",
+      "direccion": "Calle Manuel Canela, 22. Calle Virgen del Pilar, s/n 41960 – Gines (Sevilla)"
+    }
+  }
+}

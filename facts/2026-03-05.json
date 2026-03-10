@@ -1,0 +1,102 @@
+[
+  {
+    "fact": "## \u2705 Qu\u00e9 funcion\u00f3 hoy",
+    "source": "daily_log",
+    "timestamp": "2026-03-05T23:01:24.380190"
+  },
+  {
+    "fact": "## \u274c Qu\u00e9 no funcion\u00f3",
+    "source": "daily_log",
+    "timestamp": "2026-03-05T23:01:24.380201"
+  },
+  {
+    "fact": "### infsh CLI \u2705",
+    "source": "daily_log",
+    "timestamp": "2026-03-05T23:01:24.380271"
+  },
+  {
+    "fact": "### Ollama \u2705",
+    "source": "daily_log",
+    "timestamp": "2026-03-05T23:01:24.380314"
+  },
+  {
+    "fact": "Claude Code: \u2705 installed",
+    "source": "daily_log",
+    "timestamp": "2026-03-05T23:01:24.380362"
+  },
+  {
+    "fact": "Ollama: \u2705 installed (codellama:7b, llama3.2:1b)",
+    "source": "daily_log",
+    "timestamp": "2026-03-05T23:01:24.380364"
+  },
+  {
+    "fact": "Ollama (codellama:7b): \u2705 Funcionando",
+    "source": "daily_log",
+    "timestamp": "2026-03-05T23:01:24.380370"
+  },
+  {
+    "fact": "MiniMax API: \u274c Key inv\u00e1lida",
+    "source": "daily_log",
+    "timestamp": "2026-03-05T23:01:24.380372"
+  },
+  {
+    "fact": "X.AI (Grok): \u274c Sin cr\u00e9ditos",
+    "source": "daily_log",
+    "timestamp": "2026-03-05T23:01:24.380374"
+  },
+  {
+    "fact": "PAL MCP: \u2705 Instalado, esperando API key v\u00e1lida",
+    "source": "daily_log",
+    "timestamp": "2026-03-05T23:01:24.380376"
+  },
+  {
+    "fact": "Claude Code: \u2705 instalado (/opt/homebrew/bin/claude)",
+    "source": "daily_log",
+    "timestamp": "2026-03-05T23:01:24.380398"
+  },
+  {
+    "fact": "MiniMax API: \u2705 configurada con ANTHROPIC_API_KEY",
+    "source": "daily_log",
+    "timestamp": "2026-03-05T23:01:24.380400"
+  },
+  {
+    "fact": "Sistema de cola: \u2705 configurado (/tmp/yota-cc-commands.txt)",
+    "source": "daily_log",
+    "timestamp": "2026-03-05T23:01:24.380402"
+  },
+  {
+    "fact": "\u2705 Datos reales de Supabase",
+    "source": "daily_log",
+    "timestamp": "2026-03-05T23:01:24.380418"
+  },
+  {
+    "fact": "\u2705 UI se renderiza correctamente",
+    "source": "daily_log",
+    "timestamp": "2026-03-05T23:01:24.380420"
+  },
+  {
+    "fact": "\u26a0\ufe0f Cambios en UI no se guardan (solo lectura)",
+    "source": "daily_log",
+    "timestamp": "2026-03-05T23:01:24.380422"
+  },
+  {
+    "fact": "Build: \u2705 OK",
+    "source": "daily_log",
+    "timestamp": "2026-03-05T23:01:24.380449"
+  },
+  {
+    "fact": "Tests: \u274c Fallando (5 test files)",
+    "source": "daily_log",
+    "timestamp": "2026-03-05T23:01:24.380451"
+  },
+  {
+    "fact": "Lint: \u26a0\ufe0f 18 warnings",
+    "source": "daily_log",
+    "timestamp": "2026-03-05T23:01:24.380453"
+  },
+  {
+    "fact": "`npx vitest run`: \u2705 24/24 test files passed",
+    "source": "daily_log",
+    "timestamp": "2026-03-05T23:01:24.380462"
+  }
+]

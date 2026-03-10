@@ -1,0 +1,42 @@
+[
+  {
+    "fact": "| market-analyst | \u2705 Integrad (SKILL + SOUL) |",
+    "source": "daily_log",
+    "timestamp": "2026-02-27T23:01:22.044664"
+  },
+  {
+    "fact": "| risk-manager | \u2705 Eliminado (vac\u00edo) |",
+    "source": "daily_log",
+    "timestamp": "2026-02-27T23:01:22.044673"
+  },
+  {
+    "fact": "| research_lead | \u2705 OK |",
+    "source": "daily_log",
+    "timestamp": "2026-02-27T23:01:22.044677"
+  },
+  {
+    "fact": "| research-agent | \u2705 OK |",
+    "source": "daily_log",
+    "timestamp": "2026-02-27T23:01:22.044679"
+  },
+  {
+    "fact": "## Estado: \u2705 AL D\u00cdA",
+    "source": "daily_log",
+    "timestamp": "2026-02-27T23:01:22.044684"
+  },
+  {
+    "fact": "Mensajer\u00eda de voz (tts) \u2705",
+    "source": "daily_log",
+    "timestamp": "2026-02-27T23:01:22.044765"
+  },
+  {
+    "fact": "Sistema de heartbeats activo \u2705",
+    "source": "daily_log",
+    "timestamp": "2026-02-27T23:01:22.044768"
+  },
+  {
+    "fact": "## \u274c Qu\u00e9 no funcion\u00f3",
+    "source": "daily_log",
+    "timestamp": "2026-02-27T23:01:22.044773"
+  }
+]
