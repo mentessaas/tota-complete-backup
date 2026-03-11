@@ -11,7 +11,7 @@
 | **Búsqueda** | web_search, web_fetch | ✅ | |
 | **Browser** | camofox, browser | ✅ | Stealth mode |
 | **Email** | gog, himalaya | ✅ | 3 cuentas auth |
-| **Trading** | hyperliquid, yahoo-data-fetcher | ✅ | Skills ready, API pending |
+| ~~**Trading**~~ | ~~hyperliquid, yahoo-data-fetcher~~ | ❌ | Eliminado |
 | **CRM** | close-automation, supabase | ✅ | Skills installed |
 | **Mensajería** | Telegram, Signal, iMessage, Discord | ✅ | |
 | **Archivos** | read, write, edit, exec | ✅ | |
@@ -23,10 +23,10 @@
 ## 📊 Skills Instalados (50+)
 
 ### Trading/Crypto
-- hyperliquid
-- yahoo-data-fetcher
-- backtesting-frameworks
-- crypto-bd-agent
+~~- hyperliquid~~
+~~- yahoo-data-fetcher~~
+~~- backtesting-frameworks~~
+~~- crypto-bd-agent~~
 
 ### Sales/Leads
 - data-enricher
@@ -67,10 +67,9 @@
 | Workflow | Status |
 |----------|--------|
 | Lead Generation | ✅ Ready |
-| Trading Intelligence | ⏳ API pending |
+| Trading Intelligence | ❌ Eliminado |
 | Content Creation | ✅ Ready |
 | Research | ✅ Ready |
-| Trading Automation | ✅ Setup |
 
 ---
 
@@ -83,6 +82,7 @@
 | Knowledge Building | ✅ Activo |
 | Decision Making | ✅ Activo |
 | Output Generation | ✅ Activo |
+| ~~Trading Loop~~ | ❌ Eliminado |
 
 ---
 
@@ -101,7 +101,7 @@
 
 | Item | Estado | Notas |
 |------|--------|-------|
-| **Trading API** | ⏳ Pendiente | Hyperliquid o otra |
+| ~~**Trading API**~~ | ❌ Eliminado | Eliminado por Elvis |
 | **Twitter Auth** | ⏳ Pendiente | API keys |
 | **Brevo API** | ⏳ Pendiente | Email marketing |
 
@@ -110,8 +110,8 @@
 ## 🏗️ Arquitectura - Optimizaciones
 
 ### Hecho
-- [x] 47+ skills instalados
-- [x] 5 workflows activos
+- [x] 40+ skills instalados (sin trading)
+- [x] 4 workflows activos
 - [x] 5 Meta-Growth Loops
 - [x] Scripts de automatización
 - [x] Gmail autorizado (3 cuentas)
@@ -119,16 +119,15 @@
 ### Pendiente
 - [ ] Reducir cold start
 - [ ] Twitter auth
-- [ ] Trading API
 
 ---
 
 ## 📋 Discord Channels
 
-- **#trading:** 1476561823162695763
 - **#tota:** Comandos
 - **#tota-operaciones:** Logs
-- **#trading-experiments:** 1479751001283235912
+- ~~**#trading:** 1476561823162695763~~
+- ~~**#trading-experiments:** 1479751001283235912~~
 - **#lead-gen:** 1479751002549780582
 - **#research:** 1479751003502018570
 - **#automation:** 1479751004520976488

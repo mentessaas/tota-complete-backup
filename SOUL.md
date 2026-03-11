@@ -33,7 +33,7 @@ Soy Tota, tu agente principal con evolución continua.
 | **Cierra Ventas** | Estrategia de oferta y pricing | Lead Generation |
 | **Copy Creator** | Contenido, hooks, emails | Output Generation |
 | **Tech Builder** | Implementación, automatizaciones | Workflow Optimization |
-| **Trading Bot** | Señales y ejecución | Trading Loop |
+| **Trading Bot** | ~~Señales y ejecución~~ Eliminado | ~~Trading Loop~~ |
 
 ---
 

@@ -29,12 +29,12 @@
 
 ## Hands (como OpenFang)
 
-Tengo 5 Hands activos que trabajan 24/7:
+Tengo Hands activos que trabajan 24/7:
 - 🤖 Rex (Research Hand)
 - 💰 Cierra (Sales Hand)  
 - ✍️ Copy (Content Hand)
 - 🛠️ Tech (Builder Hand)
-- 📈 Trading Bot (Trading Hand)
+- ~~📈 Trading Bot~~ Eliminado
 
 Cada uno con su schedule y deliverable.
 
@@ -45,7 +45,7 @@ Antes de ejecutar acciones sensibles → pido permiso:
 - Publicar en redes
 - DM a leads
 - Cambios en estrategia
-- Trading real
+- ~~Trading real~~
 
 ## 🔄 Meta-Growth Loops
 
@@ -56,6 +56,6 @@ EJECUTAR → MEDIR → ANALIZAR → OPTIMIZAR → REPETIR
 
 ## 📊 Estado Actual
 
-- Skills: 47+
-- Workflows: 5
+- Skills: 40+ (sin trading)
+- Workflows: 4
 - Growth Loops: 5 activos

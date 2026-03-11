@@ -20,8 +20,8 @@
 | Proyecto | Estado | Prioridad |
 |----------|--------|-----------|
 | Zaltyko | Activo | Alta |
-| Trading | Pausado (API) | Media |
 | Research | Activo | Alta |
+| ~~Trading~~ | ❌ Eliminado | - |
 
 ---
 
@@ -29,7 +29,6 @@
 
 ### Preferencias
 - Comunicación directa, sin relleno
-- No emojis en contexto de trading
 - Prefiere Telegram sobre otros canales
 - Mañanas para trabajo profundo
 - Le gusta One Piece 🏴‍☠️
@@ -43,7 +42,7 @@
 ### Objetivos
 - Escape del trabajo tradicional
 - Building: Zaltyko (SaaS para academias)
-- Trading crypto automatizado
+- ~~Trading crypto automatizado~~
 
 ---
 
@@ -74,8 +73,8 @@
   - HEARTBEAT.md → Hands activos con schedule + Meta-Growth
   - AGENTS.md → Estructura de Hands con handbooks
   - APPROVAL_GATES.md → Approval gates como OpenFang
-  - **Skills:** 47+ instalados (trading, sales, content, automation)
-  - **Workflows:** 5 pipelines activos
+  - **Skills:** 40+ instalados (sales, content, automation - sin trading)
+  - **Workflows:** 4 pipelines activos
   - **Growth Loops:** 5 loops implementados
   - **Gmail:** ✅ Autorizado (3 cuentas)
 - **Gap identificado:** Cold start (33x más lento), seguridad (5x menos)
@@ -87,7 +86,7 @@
 - Daily Research + Evening Review
 
 ### 2026-02-25
-- Cambio de KuCoin a Asterdex
+- ~~Cambio de KuCoin a Asterdex~~
 - Implementación de Articles of Cooperation
 - CRM limpio (leads reales)
 
@@ -136,21 +135,17 @@ Si un job falla con "Message failed" o canal no encontrado:
 ## 📅 Tareas Pendientes
 
 ### Alta Prioridad
-- [ ] Resolver API trading (Hyperliquid u otro exchange)
 - [x] **Configurar exec sin approvals** (security: allowlist) ✅
 - [ ] Twitter API auth
-
-### Alternativas disponibles (sin API needed)
-- **Yahoo Data Fetcher** - Stocks/crypto quotes sin API ✅
-- **Hyperliquid** - Datos públicos (precios, funding, OI) sin API ✅
 
 ### Media Prioridad
 - [x] Probar workflow de canales Discord
 - [x] Setup Morning Research
 - [x] Gmail autorizado ✅
 
-### Pausado
-- [ ] Lead Generation Gimnasia Rítmica (pausado por Elvis)
+### Pausado/Eliminado
+- [x] Lead Generation Gimnasia Rítmica (pausado por Elvis)
+- [x] **TRADING - Eliminado por Elvis** (2026-03-11)
 
 ### Completado v2.5
 - [x] Skills 47+ instalados
@@ -208,7 +203,7 @@ Si un job falla con "Message failed" o canal no encontrado:
 - #lead - Leads de Zaltyko
 - #config - Configuraciones
 - #blocker - Bloqueos
-- #trading - Trading crypto
+- ~~#trading~~ - Trading crypto (eliminado)
 - #workflow - Workflows activos
 
 ---
