@@ -1,0 +1,292 @@
+[
+  {
+    "nombre": "Atzar Valencia",
+    "provincia": "Valencia",
+    "poblacion": "Valencia",
+    "web": "http://www.atzarvalencia.es",
+    "email": "administracion@atzarvalencia.es",
+    "telefono": "634 805 239",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "C.G.R. Alboraia Patacona",
+    "provincia": "Valencia",
+    "poblacion": "Alboraya",
+    "web": "",
+    "email": "cgralboraya@gmail.com",
+    "telefono": "608 642 050",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "CGR Benetusser",
+    "provincia": "Valencia",
+    "poblacion": "Benetusser",
+    "web": "",
+    "email": "gimnasticaritmicabenetusser@gmail.com",
+    "telefono": "658 160 656",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "CGR Cabrioles Mislata",
+    "provincia": "Valencia",
+    "poblacion": "Mislata",
+    "web": "",
+    "email": "grcabrioles@gmail.com",
+    "telefono": "640 276 767",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "CGR Promeses Vila de Guadassuar",
+    "provincia": "Valencia",
+    "poblacion": "Guadassuar",
+    "web": "",
+    "email": "cgrviladeguadassuar@gmail.com",
+    "telefono": "687 829 053",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "CGR Ritmoliva",
+    "provincia": "Valencia",
+    "poblacion": "Oliva",
+    "web": "",
+    "email": "clubgr.ritmoliva@hotmail.com",
+    "telefono": "616 182 987",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "CGR Vida Gandia",
+    "provincia": "Valencia",
+    "poblacion": "Gandia",
+    "web": "",
+    "email": "cgrvidagandia@gmail.com",
+    "telefono": "637 803 38",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Club Alexa Rima",
+    "provincia": "Valencia",
+    "poblacion": "Castielfabib",
+    "web": "",
+    "email": "angela_masfas@hotmail.com",
+    "telefono": "687 601 957",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Club Gimnasia Angels Torrent",
+    "provincia": "Valencia",
+    "poblacion": "Torrent",
+    "web": "",
+    "email": "clubgimnasiaangels@hotmail.com",
+    "telefono": "670 835 363",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Atlético Valencia",
+    "provincia": "Valencia",
+    "poblacion": "Valencia",
+    "web": "",
+    "email": "cgratleticovalencia@gmail.com",
+    "telefono": "654 374 070",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Benimaclet",
+    "provincia": "Valencia",
+    "poblacion": "Valencia",
+    "web": "",
+    "email": "cgrbenimaclet@gmail.com",
+    "telefono": "627 016 739",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Catarroja",
+    "provincia": "Valencia",
+    "poblacion": "Catarroja",
+    "web": "",
+    "email": "ritmica.catarroja@hotmail.com",
+    "telefono": "656 182 739",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Cullera",
+    "provincia": "Valencia",
+    "poblacion": "Cullera",
+    "web": "",
+    "email": "cgrcullera@hotmail.com",
+    "telefono": "615 672 360",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Lliria",
+    "provincia": "Valencia",
+    "poblacion": "Lliria",
+    "web": "",
+    "email": "cgrlliria@gmail.com",
+    "telefono": "690 066 511",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Manises",
+    "provincia": "Valencia",
+    "poblacion": "Manises",
+    "web": "",
+    "email": "cgrmanises@gmail.com",
+    "telefono": "961 549 038",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Moncada",
+    "provincia": "Valencia",
+    "poblacion": "Moncada",
+    "web": "",
+    "email": "cgrmoncada@gmail.com",
+    "telefono": "650 311 741",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Picassent",
+    "provincia": "Valencia",
+    "poblacion": "Picassent",
+    "web": "",
+    "email": "clubgrpicassent@gmail.com",
+    "telefono": "961 231 834",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Real Requena",
+    "provincia": "Valencia",
+    "poblacion": "Requena",
+    "web": "",
+    "email": "alba_gim91@hotmail.com",
+    "telefono": "",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Torrent",
+    "provincia": "Valencia",
+    "poblacion": "Torrent",
+    "web": "",
+    "email": "clubgrtorrent@hotmail.com",
+    "telefono": "961 565 412",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Xirivella",
+    "provincia": "Valencia",
+    "poblacion": "Xirivella",
+    "web": "",
+    "email": "soniagil76@hotmail.com",
+    "telefono": "677 492 348",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Club Deportivo Ontinyent",
+    "provincia": "Valencia",
+    "poblacion": "Ontinyent",
+    "web": "",
+    "email": "cgrdeportivo@gmail.com",
+    "telefono": "699 003 173",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Fénix Alzir",
+    "provincia": "Valencia",
+    "poblacion": "Alzira",
+    "web": "",
+    "email": "fenixalziraritmica@gmail.com",
+    "telefono": "633 936 228",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Rítmica Quart de Poblet",
+    "provincia": "Valencia",
+    "poblacion": "Quart de Poblet",
+    "web": "",
+    "email": "ritmicaquart@hotmail.com",
+    "telefono": "645 375 481",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Gimnasia Rítmica Xàtiva",
+    "provincia": "Valencia",
+    "poblacion": "Xàtiva",
+    "web": "",
+    "email": "clubxativa@hotmail.com",
+    "telefono": "661 516 913",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Club Antares Valencia",
+    "provincia": "Valencia",
+    "poblacion": "Valencia",
+    "web": "",
+    "email": "ritmica.clubantares@gmail.com",
+    "telefono": "623 066 231",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "C.E.G. Almussafes",
+    "provincia": "Valencia",
+    "poblacion": "Almussafes",
+    "web": "",
+    "email": "cega-almussafes@hotmail.com",
+    "telefono": "609 131 564",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Club Rítmica Almusafes",
+    "provincia": "Valencia",
+    "poblacion": "Almussafes",
+    "web": "",
+    "email": "cega-almussafes@hotmail.com",
+    "telefono": "609 131 564",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Almara Burjassot",
+    "provincia": "Valencia",
+    "poblacion": "Burjassot",
+    "web": "",
+    "email": "almaraburjassot16@outlook.es",
+    "telefono": "666 276 141",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Aldaia",
+    "provincia": "Valencia",
+    "poblacion": "Aldaia",
+    "web": "",
+    "email": "clubritmicaaldaia@gmail.com",
+    "telefono": "656 394 949",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "FGCV"
+  }
+]

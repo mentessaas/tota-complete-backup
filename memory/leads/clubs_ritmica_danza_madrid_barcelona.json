@@ -1,0 +1,102 @@
+[
+  {
+    "nombre": "Club GimnàsticaClub",
+    "provincia": "Barcelona",
+    "poblacion": "Castellar del Vallés",
+    "web": "https://gimnasticaclub.barcelona",
+    "email": "hola@elteuclubesportiu.cat",
+    "telefono": "93 465 87 98",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "Web directa"
+  },
+  {
+    "nombre": "EBERítmica - Club Esportiu Élite Barcelona",
+    "provincia": "Barcelona",
+    "poblacion": "Barcelona",
+    "web": "https://www.eberitmica.com",
+    "email": "eberitmica@gmail.com",
+    "telefono": "+34 667 500 154",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "Web directa"
+  },
+  {
+    "nombre": "Club Esportiu Barnarítmica",
+    "provincia": "Barcelona",
+    "poblacion": "Barcelona",
+    "web": "https://clubesportiubarna.com",
+    "email": "clubesportiubarna@gmail.com",
+    "telefono": "933938274 / 626081356",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "Enriquecido Web"
+  },
+  {
+    "nombre": "Club Arabeska",
+    "provincia": "Madrid",
+    "poblacion": "Arganda del Rey",
+    "web": "https://www.clubarabeska.com",
+    "email": "",
+    "telefono": "",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "Web"
+  },
+  {
+    "nombre": "Club Rítmica Kaleyn",
+    "provincia": "Madrid",
+    "poblacion": "Madrid",
+    "web": "https://clubritmicakaleyn.es",
+    "email": "info@clubritmicakaleyn.es",
+    "telefono": "",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "Enriquecido Web"
+  },
+  {
+    "nombre": "Estudio de Danza Carmen Cubillo",
+    "provincia": "Madrid",
+    "poblacion": "Madrid",
+    "web": "https://www.carmencubillo.es",
+    "email": "info@carmencubillo.es",
+    "telefono": "+34 91 441 16 62",
+    "disciplina": "Danza",
+    "fuente": "Web directa"
+  },
+  {
+    "nombre": "Danza 180",
+    "provincia": "Madrid",
+    "poblacion": "Madrid",
+    "web": "https://www.danza180.com",
+    "email": "hola@danza180.com",
+    "telefono": "+34 646 439 452",
+    "disciplina": "Danza",
+    "fuente": "Web directa"
+  },
+  {
+    "nombre": "Tres en Danza",
+    "provincia": "Madrid",
+    "poblacion": "Madrid",
+    "web": "https://tresendanza.es",
+    "email": "",
+    "telefono": "619 08 57",
+    "disciplina": "Danza",
+    "fuente": "Enriquecido Web"
+  },
+  {
+    "nombre": "Academia Yobailo",
+    "provincia": "Madrid",
+    "poblacion": "Madrid",
+    "web": "http://www.academiayobailo.es",
+    "email": "",
+    "telefono": "910061495 / 910120939 / 676543923",
+    "disciplina": "Danza",
+    "fuente": "Danza.es"
+  },
+  {
+    "nombre": "Studio 11 Madrid",
+    "provincia": "Madrid",
+    "poblacion": "Madrid",
+    "web": "https://studio11madrid.com",
+    "email": "studio11madrid@gmail.com",
+    "telefono": "",
+    "disciplina": "Baile",
+    "fuente": "Enriquecido Web"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "fact": "Build: \u2705 Pass",
+    "source": "daily_log",
+    "timestamp": "2026-03-08T23:01:55.945389"
+  },
+  {
+    "fact": "Prob\u00e9: `claude --model MiniMax-M2.5` \u2705 Funciona",
+    "source": "daily_log",
+    "timestamp": "2026-03-08T23:01:55.945405"
+  },
+  {
+    "fact": "~/workspace/Zaltyko = \u2705 EL OFICIAL (Next.js, en GitHub y Vercel)",
+    "source": "daily_log",
+    "timestamp": "2026-03-08T23:01:55.945424"
+  },
+  {
+    "fact": "~/tota-backup-full/Zaltyko = \u274c Backup viejo (4.4GB)",
+    "source": "daily_log",
+    "timestamp": "2026-03-08T23:01:55.945428"
+  },
+  {
+    "fact": "~/.openclaw/workspace/zaltyko-os = \u274c Mis archivos (agents, automation)",
+    "source": "daily_log",
+    "timestamp": "2026-03-08T23:01:55.945432"
+  },
+  {
+    "fact": "~/zaltyko-os = \u274c Scripts, no el SaaS",
+    "source": "daily_log",
+    "timestamp": "2026-03-08T23:01:55.945435"
+  },
+  {
+    "fact": "\u2705 Recuperado: ~5.3GB",
+    "source": "daily_log",
+    "timestamp": "2026-03-08T23:01:55.945446"
+  },
+  {
+    "fact": "\u2705 Solo queda: ~/workspace/Zaltyko (el oficial)",
+    "source": "daily_log",
+    "timestamp": "2026-03-08T23:01:55.945449"
+  },
+  {
+    "fact": "\u2705 5 carpetas claras vs 16 mezcladas",
+    "source": "daily_log",
+    "timestamp": "2026-03-08T23:01:55.945467"
+  },
+  {
+    "fact": "Zaltyko: 4.7MB \u2705",
+    "source": "daily_log",
+    "timestamp": "2026-03-08T23:01:55.945473"
+  },
+  {
+    "fact": "Resultado: \u2705 Funciona (3-5 segundos por respuesta)",
+    "source": "daily_log",
+    "timestamp": "2026-03-08T23:01:55.945534"
+  },
+  {
+    "fact": "\u2705 Backup cron (23:00)",
+    "source": "daily_log",
+    "timestamp": "2026-03-08T23:01:55.945600"
+  },
+  {
+    "fact": "\u2705 Security Cron",
+    "source": "daily_log",
+    "timestamp": "2026-03-08T23:01:55.945603"
+  },
+  {
+    "fact": "\u2705 Sessions pruning",
+    "source": "daily_log",
+    "timestamp": "2026-03-08T23:01:55.945606"
+  },
+  {
+    "fact": "\u2705 Cost monitoring",
+    "source": "daily_log",
+    "timestamp": "2026-03-08T23:01:55.945609"
+  },
+  {
+    "fact": "\u2705 Weekly Audit Cron (a\u00f1adido hoy)",
+    "source": "daily_log",
+    "timestamp": "2026-03-08T23:01:55.945612"
+  },
+  {
+    "fact": "\u2705 Workspace Hygiene Rule (a\u00f1adido hoy)",
+    "source": "daily_log",
+    "timestamp": "2026-03-08T23:01:55.945615"
+  },
+  {
+    "fact": "\u274c Meta Cron",
+    "source": "daily_log",
+    "timestamp": "2026-03-08T23:01:55.945618"
+  },
+  {
+    "fact": "\u274c Orchestrator pattern",
+    "source": "daily_log",
+    "timestamp": "2026-03-08T23:01:55.945621"
+  },
+  {
+    "fact": "\u2705 Instalado via Homebrew",
+    "source": "daily_log",
+    "timestamp": "2026-03-08T23:01:55.945646"
+  }
+]

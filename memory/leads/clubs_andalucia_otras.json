@@ -1,0 +1,52 @@
+[
+  {
+    "nombre": "Club Gimnasia Rítmica Ciudad de Sevilla",
+    "provincia": "Sevilla",
+    "poblacion": "Sevilla",
+    "web": "http://gimnasiaritmicasevilla.com",
+    "email": "clubritmicaciudaddesevilla@gmail.com",
+    "telefono": "628 758 419 / 601 24 82 89",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "Enriquecido Web"
+  },
+  {
+    "nombre": "Club Gimnasia Rítmica Málaga",
+    "provincia": "Málaga",
+    "poblacion": "Málaga",
+    "web": "https://www.ritmicamalaga.com",
+    "email": "ritmicamalaga@gmail.com",
+    "telefono": "",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "Enriquecido Web"
+  },
+  {
+    "nombre": "Dance Center Valencia",
+    "provincia": "Valencia",
+    "poblacion": "Valencia",
+    "web": "https://www.dancecentervalencia.com",
+    "email": "",
+    "telefono": "",
+    "disciplina": "Danza",
+    "fuente": "Web"
+  },
+  {
+    "nombre": "WS Ballet Valencia",
+    "provincia": "Valencia",
+    "poblacion": "Valencia",
+    "web": "https://wsballetvalencia.com",
+    "email": "",
+    "telefono": "",
+    "disciplina": "Danza",
+    "fuente": "Web"
+  },
+  {
+    "nombre": "Club Gimnástico Grado",
+    "provincia": "Asturias",
+    "poblacion": "Grado",
+    "web": "",
+    "email": "",
+    "telefono": "",
+    "disciplina": "Gimnasia rítmica",
+    "fuente": "Web"
+  }
+]
