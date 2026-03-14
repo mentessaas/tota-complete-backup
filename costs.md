@@ -1,38 +1,25 @@
-# Daily Cost Monitor
-
-## Latest: Wednesday, March 11th, 2026
+# Daily Cost Monitor - 2026-03-13
 
 ```json
 {
-  "version": "2026.3.8",
-  "commit": "3caab92",
-  "time": "Wednesday, March 11th, 2026 — 11:16 AM (Europe/Madrid)",
+  "status": "ok",
+  "version": "2026.3.12 (6472949)",
+  "time": "Friday, March 13th, 2026 — 11:17 (Europe/Madrid)",
   "model": "minimax-portal/MiniMax-M2.5",
-  "auth": "oauth (minimax-portal:default)",
   "tokens": {
-    "in": "27k",
-    "out": 67
+    "in": 167,
+    "out": 44
   },
   "context": {
-    "used": "27k",
+    "used": "24k",
     "limit": "200k",
-    "percent": "14%"
+    "percentage": "12%"
   },
   "session": "agent:main:cron:d55d50b1-6938-4d76-beb1-1e1286c78e77",
   "runtime": "direct",
-  "think": "off",
-  "elevated": true,
-  "compactions": 0
+  "thinking": "off",
+  "elevated": true
 }
 ```
 
-## History
-
-| Date | Version | Model | Tokens In | Tokens Out | Context % |
-|------|---------|-------|-----------|------------|-----------|
-| 2026-03-11 | 2026.3.8 | MiniMax-M2.5 | 27k | 67 | 14% |
-| 2026-03-10 | 2026.3.2 | MiniMax-M2.5 | 40 | 47 | 11% |
-
-**Notes:**
-- Context usage normal (14%)
-- Gateway updated from 2026.3.2 → 2026.3.8
+*Captured: 2026-03-13 11:17 UTC*
