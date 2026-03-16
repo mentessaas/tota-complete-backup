@@ -6,7 +6,7 @@
 
 ## 🏭 Arquitectura Auto Factory
 
-### Yota (Orchestrator)
+### Tota (Orchestrator)
 ```
 ELVIS → Yota → 11 Agents especializados
 ```
