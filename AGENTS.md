@@ -1,116 +1,26 @@
-# AGENTS.md - Tota Auto Factory v1.0
+# AGENTS.md - Tota Auto Factory
 
-## Philosophy
-**Yota = Orchestrator** - No construye, coordina 15 agents especializados
+> **Skills:** [agency-routine](./skills/agency-routine/SKILL.md) | [agency-architecture](./skills/agency-architecture/SKILL.md)
 
----
+## Quick Reference
 
-## 15 Agents Architecture
+| Agent | Rol |
+|-------|-----|
+| Rex | Research |
+| Valeria | Validate |
+| Tech | Build |
+| Critico | Review |
+| Moni | Monetize |
+| Diseña | Design |
+| Copy | Content |
+| Cierra | Sales (pausado) |
+| Ops | Operations |
+| Analista | Analytics |
 
-| # | Agent | Rol | Schedule | Status |
-|---|-------|-----|----------|--------|
-| 1 | **Rex** | Research - Investigar oportunidades | Daily 09:00 | ✅ |
-| 2 | **Valeria** | Validator - Validar ideas | On-demand | ✅ |
-| 3 | **Tech** | Builder - Desarrollar código | On-demand | ✅ |
-| 4 | **Critico** | Reviewer - Code review + QA | On-demand | ✅ |
-| 5 | **Moni** | Monetization - Estrategia pricing | On-demand | ✅ |
-| 6 | **Diseña** | Designer - UI/UX y assets | On-demand | ✅ |
-| 7 | **Copy** | Content - Marketing copy | Daily | ✅ |
-| 8 | **Cierra** | Sales - Outreach y ventas | Pausado | ⏸️ |
-| 9 | **Ops** | Operations - Project management | Daily | ✅ |
-| 10 | **Analista** | Analytics - Métricas y reporting | Weekly | ✅ |
-| 11 | **Yota** | Orchestrator - Coordinación | Always | ✅ |
-| 12 | **Project Shepherd** | Project mgmt avanzado | On-demand | ✅ |
-| 13 | **Feedback Synthesizer** | User feedback analysis | On-demand | ✅ |
-| 14 | **Content Creator** | Multi-platform content | On-demand | ✅ |
-| 15 | **Twitter Engager** | Social selling | On-demand | ✅ |
+## Pipeline
+
+`IDEA → VALIDATE → BUILD → REVIEW → MONETIZE → DESIGN → CONTENT → SELL → MEASURE`
 
 ---
 
-## Pipeline (9-Step)
-
-```
-1. IDEA (Rex) → 
-2. VALIDATE (Valeria) → 
-3. BUILD (Tech) → 
-4. REVIEW (Critico) → 
-5. MONETIZE (Moni) → 
-6. DESIGN (Diseña) → 
-7. CONTENT (Copy) → 
-8. SELL (Cierra) → 
-9. MEASURE (Analista)
-```
-
----
-
-## Skills por Agent
-
-| Agent | Skills |
-|-------|--------|
-| Rex | web_search, web_fetch, exa-search |
-| Valeria | deep-research, context7 |
-| Tech | coding-agent, vercel-deploy, supabase |
-| Critico | agent-code-reviewer, security-best-practices |
-| Moni | deep-research, email-systems |
-| Diseña | frontend-design, figma-implement-design |
-| Copy | copywriting, content-creator |
-| Cierra | linkedin-automation, cold-outreach |
-| Ops | cron, gog (sheets) |
-| Analista | supabase, gog |
-| Yota | TODOS |
-
----
-
-## Archivos de Configuración
-
-- `~/.openclaw/workspace/agency-agents/auto-factory/README.md` - Arquitectura completa
-- `~/.openclaw/workspace/agency-agents/routing/` - Jarvis routing system ⭐ NUEVO
-- `~/.openclaw/workspace/skills/yota-hands/` - Skills legacy
-- `~/.openclaw/workspace/PROJECTS.md` - Estructura de proyectos
-
----
-
-## Workflows Activos
-
-| Workflow | Trigger | Agents |
-|----------|---------|--------|
-| Research Daily | 09:00 | Rex → Valeria |
-| Content Daily | 10:00 | Copy → Diseña |
-| Analytics Weekly | Monday 09:00 | Analista → Ops |
-| Pipeline Completo | Manual | Rex→Valeria→Tech→Critico→Moni→Diseña→Copy→Cierra→Analista |
-
----
-
-## Setup Commands
-
-```bash
-# Activar agent específico
-/ejecuta rex
-/ejecuta valeria [oportunidad]
-
-# Ejecutar pipeline
-/ejecuta pipeline [proyecto]
-
-# Ver status
-/status agents
-```
-
----
-
-## 🧹 Workspace Hygiene Rule
-
-> After modifying any workspace file (SOUL.md, AGENTS.md, TOOLS.md, USER.md, HEARTBEAT.md): **does it belong here (always-loaded), in a skill (on-demand), or in memory (historical)?** If it's only relevant to specific tasks, move it to a skill.
-
-### Regla:
-1. **Always-loaded** → Solo lo fundamental (quién soy, cómo trabajo, tools disponibles)
-2. **On-demand (skills)** → Lo procedimental (cómo hacer tareas específicas)
-3. **Historical (memory)** → Lo factual/decisiones pasadas
-
-### Antes de modificar workspace:
-- ¿Esto cambia cada sesión? → Memory
-- ¿Solo relevante para una tarea? → Skill
-- ¿Crítico para cada conversación? → Workspace
-
----
-
-*Updated: 2026-03-02 v1.0*
+*Full docs → skills/agency-architecture/SKILL.md*
